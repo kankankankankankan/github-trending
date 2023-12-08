@@ -8,6 +8,19 @@
 
 ## All language
 
+* 【2023-12-08】[JJTech0130 / pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
+* 【2023-12-08】[magic-research / magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+* 【2023-12-08】[google / style-aligned](https://github.com/google/style-aligned) - Official code for "Style Aligned Image Generation via Shared Attention"
+* 【2023-12-08】[ise-uiuc / magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
+* 【2023-12-08】[PRIS-CV / DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (arXiv 2023)
+* 【2023-12-08】[xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+* 【2023-12-08】[facebook / stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+* 【2023-12-08】[SuperDuperDB / superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.
+* 【2023-12-08】[state-spaces / mamba](https://github.com/state-spaces/mamba) - 
+* 【2023-12-08】[ytongbai / LVM](https://github.com/ytongbai/LVM) - 
+* 【2023-12-08】[100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments) - 
+* 【2023-12-08】[gkd-kit / gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
+* 【2023-12-08】[keyvanakbary / learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love
 * 【2023-12-04】[laravel / pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 * 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
 * 【2023-12-04】[samuelcolvin / FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
@@ -134,6 +147,8 @@
 
 ## Java
 
+* 【2023-12-08】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+* 【2023-12-08】[seculayer / AutoAPE-mrms](https://github.com/seculayer/AutoAPE-mrms) - AutoAPE(Advanced Perceptron Engine) - MRMS(Model Recommend Management Server)
 * 【2023-12-05】[woheller69 / browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support
 * 【2023-12-05】[portfolio-performance / portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 * 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
@@ -166,6 +181,10 @@
 
 ## Python
 
+* 【2023-12-08】[google-deepmind / uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - 
+* 【2023-12-08】[spla-tam / SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
+* 【2023-12-08】[Flode-Labs / vid2densepose](https://github.com/Flode-Labs/vid2densepose) - Convert your videos to densepose and use it on MagicAnimate
+* 【2023-12-08】[gaogaotiantian / pitch-visualizer](https://github.com/gaogaotiantian/pitch-visualizer) - Visualize pitch for a video
 * 【2023-12-05】[avgupta456 / github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 * 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
 * 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -270,6 +289,8 @@
 
 ## Javascript
 
+* 【2023-12-08】[R-s0n / ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
+* 【2023-12-08】[DogeNetwork / v4](https://github.com/DogeNetwork/v4) - End internet censorship instantly with Doge Unblocker, a powerful web proxy designed for customization and anonymity. (Please star)
 * 【2023-12-05】[pythongosssss / ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
 * 【2023-12-05】[unconv / gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
 * 【2023-12-04】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
@@ -331,6 +352,9 @@
 
 ## Go
 
+* 【2023-12-08】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
+* 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
+* 【2023-12-08】[aws / karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 * 【2023-12-05】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * 【2023-12-05】[zitadel / oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 * 【2023-12-05】[siglens / siglens](https://github.com/siglens/siglens) - Observability at 100x Efficiency
@@ -383,6 +407,7 @@
 
 ## C
 
+* 【2023-12-08】[losehu / uv-k5-firmware-chinese](https://github.com/losehu/uv-k5-firmware-chinese) - 全功能泉盛UV-K5/K6中文固件
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 * 【2023-11-30】[opa334 / ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
 * 【2023-11-30】[pvvx / ZigbeeTLc](https://github.com/pvvx/ZigbeeTLc) - Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip
@@ -474,6 +499,7 @@
 
 ## C#
 
+* 【2023-12-08】[daem0nc0re / VectorKernel](https://github.com/daem0nc0re/VectorKernel) - PoCs for Kernel-mode rootkit techniques research.
 * 【2023-12-05】[DaXcess / lethalcompany-vr-plugin](https://github.com/DaXcess/lethalcompany-vr-plugin) - Collecting Scrap in VR
 * 【2023-12-05】[markjprice / cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 * 【2023-12-03】[dnGrep / dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
@@ -513,6 +539,9 @@
 
 ## Html
 
+* 【2023-12-08】[nikhilsoftwareboy / Apple-Clone](https://github.com/nikhilsoftwareboy/Apple-Clone) - 
+* 【2023-12-08】[nikhilsoftwareboy / Solid-Waste-Management-LPU](https://github.com/nikhilsoftwareboy/Solid-Waste-Management-LPU) - 
+* 【2023-12-08】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
 * 【2023-12-04】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 * 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
 * 【2023-12-03】[cphxj123 / Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex) - dol北极星扩展
@@ -559,6 +588,9 @@
 
 ## Css
 
+* 【2023-12-08】[nikhilsoftwareboy / Real-Estate-Listings-and-Property-Management-Website](https://github.com/nikhilsoftwareboy/Real-Estate-Listings-and-Property-Management-Website) - 
+* 【2023-12-08】[nikhilsoftwareboy / Bing-code](https://github.com/nikhilsoftwareboy/Bing-code) - 
+* 【2023-12-08】[elebumm / YouTubeAIExtension](https://github.com/elebumm/YouTubeAIExtension) - Chat with ANY of your favorite YouTube Videos!
 * 【2023-12-05】[DzarelDeveloper / ForYou](https://github.com/DzarelDeveloper/ForYou) - Message for you ( Crush )
 * 【2023-12-04】[yandex-praktikum / slozhno-sosredotochitsya](https://github.com/yandex-praktikum/slozhno-sosredotochitsya) - Проект "Сложно сосредоточиться"
 * 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
@@ -627,6 +659,12 @@
 
 ## Unknown
 
+* 【2023-12-08】[HumanAIGC / VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
+* 【2023-12-08】[heyOnuoha / Free-Fintech-Engineering-Bootcamp](https://github.com/heyOnuoha/Free-Fintech-Engineering-Bootcamp) - Free learning materials on Fintech Engineering!
+* 【2023-12-08】[lkeab / gaussian-grouping](https://github.com/lkeab/gaussian-grouping) - Gaussian Grouping for open-world Anything reconstruction, segmentation and editing.
+* 【2023-12-08】[MlgmXyysd / Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
+* 【2023-12-08】[BookShared / BookShared](https://github.com/BookShared/BookShared) - 
+* 【2023-12-08】[wecooperate / iDefender](https://github.com/wecooperate/iDefender) - iDefender（冰盾 - 终端主动防御系统）
 * 【2023-12-05】[wpzzz / blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
 * 【2023-12-05】[greatfrontend / awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
 * 【2023-12-05】[ZiqiaoPeng / SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk) - This is the official source for our paper "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis"
