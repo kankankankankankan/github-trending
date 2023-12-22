@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-12-22】[SJTU-IPADS / PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+* 【2023-12-22】[babaohuang / GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
+* 【2023-12-22】[RUB-NDS / Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".
+* 【2023-12-22】[basecamp / solid_queue](https://github.com/basecamp/solid_queue) - Database-backed Active Job backend
+* 【2023-12-22】[Nukem9 / dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
+* 【2023-12-22】[Anttwo / SuGaR](https://github.com/Anttwo/SuGaR) - Official implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering
+* 【2023-12-22】[openchatai / OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
+* 【2023-12-22】[dream-num / univer](https://github.com/dream-num/univer) - Univer is a set of enterprise document and data collaboration solutions, including spreadsheets, documents, and slides. The highly extensible design allows developers to customize personalized functions based on Univer.
 * 【2023-12-15】[microsoft / promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 * 【2023-12-15】[nishuzumi / pow-erc20](https://github.com/nishuzumi/pow-erc20) - A minter for PowerERC20 by rust
 * 【2023-12-15】[krishnaik06 / Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
@@ -190,6 +198,10 @@
 
 ## Python
 
+* 【2023-12-22】[gpt-engineer-org / gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+* 【2023-12-22】[microsoft / PubSec-Info-Assistant](https://github.com/microsoft/PubSec-Info-Assistant) - Information Assistant, built with Azure OpenAI Service, Industry Accelerator
+* 【2023-12-22】[spyboy-productions / CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
+* 【2023-12-22】[andrew-codechimp / HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices
 * 【2023-12-15】[guoqincode / AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial) - Unofficial Implementation of Animate Anyone
 * 【2023-12-15】[open-compass / MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI
 * 【2023-12-15】[mistralai / client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
@@ -372,6 +384,7 @@
 
 ## Go
 
+* 【2023-12-22】[GhostTroops / scan4all](https://github.com/GhostTroops/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 * 【2023-12-15】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 * 【2023-12-08】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 * 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
@@ -428,6 +441,7 @@
 
 ## C
 
+* 【2023-12-22】[webui-dev / webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 * 【2023-12-15】[0xEr3bus / PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
 * 【2023-12-15】[hfiref0x / KDU](https://github.com/hfiref0x/KDU) - Kernel Driver Utility
 * 【2023-12-08】[losehu / uv-k5-firmware-chinese](https://github.com/losehu/uv-k5-firmware-chinese) - 全功能泉盛UV-K5/K6中文固件
@@ -525,6 +539,7 @@
 
 ## C#
 
+* 【2023-12-22】[ihm-tswow / Links-Awakening-DX-HD](https://github.com/ihm-tswow/Links-Awakening-DX-HD) - Unaffiliated fork off https://linksawakeningdxhd.itch.io/links-awakening-dx-hd
 * 【2023-12-15】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 * 【2023-12-15】[SuxueCode / WechatBakTool](https://github.com/SuxueCode/WechatBakTool) - 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
 * 【2023-12-15】[fullstackhero / dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
@@ -570,6 +585,7 @@
 
 ## Html
 
+* 【2023-12-22】[linkedin / dph-framework](https://github.com/linkedin/dph-framework) - 
 * 【2023-12-08】[nikhilsoftwareboy / Apple-Clone](https://github.com/nikhilsoftwareboy/Apple-Clone) - 
 * 【2023-12-08】[nikhilsoftwareboy / Solid-Waste-Management-LPU](https://github.com/nikhilsoftwareboy/Solid-Waste-Management-LPU) - 
 * 【2023-12-08】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
@@ -619,6 +635,7 @@
 
 ## Css
 
+* 【2023-12-22】[Ritika-Agrawal811 / css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets) - A collection of real-life code snippets written in CSS and JavaScript for every web development project.
 * 【2023-12-15】[Mozilla-Ocho / Memory-Cache](https://github.com/Mozilla-Ocho/Memory-Cache) - MemoryCache is an experimental development project to turn a local desktop environment into an on-device AI agent
 * 【2023-12-15】[isbendiyarovanezrin / ShoppingCart](https://github.com/isbendiyarovanezrin/ShoppingCart) - Shopping Cart 🛒
 * 【2023-12-15】[themepark-dev / theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -693,6 +710,14 @@
 
 ## Unknown
 
+* 【2023-12-22】[ActiveVisionLab / Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources
+* 【2023-12-22】[borusyak / are213](https://github.com/borusyak/are213) - PhD Applied Econometrics class taught at UC Berkeley
+* 【2023-12-22】[mesquidar / ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
+* 【2023-12-22】[GT-RIPL / Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
+* 【2023-12-22】[mjhea0 / awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
+* 【2023-12-22】[cccmag / aidult](https://github.com/cccmag/aidult) - AI 成人雜誌
+* 【2023-12-22】[bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
+* 【2023-12-22】[mouredev / roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Retos de programación 2024. Muy pronto...
 * 【2023-12-15】[sczhou / Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution
 * 【2023-12-15】[waf-bypass-maker / waf-community-bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses) - 
 * 【2023-12-15】[vvictoryuki / AnimateZero](https://github.com/vvictoryuki/AnimateZero) - Official PyTorch implementation for the paper "AnimateZero: Video Diffusion Models are Zero-Shot Image Animators"
