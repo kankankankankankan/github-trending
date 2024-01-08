@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2024-01-08】[MarkFzp / act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
+* 【2024-01-08】[llenotre / maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+* 【2024-01-08】[MarkFzp / mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
+* 【2024-01-08】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+* 【2024-01-08】[janhq / nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API
+* 【2024-01-08】[menyifang / En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data"
+* 【2024-01-08】[bleedline / Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.
+* 【2024-01-08】[ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
+* 【2024-01-08】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
+* 【2024-01-08】[aaamoon / copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT, free to use the GPT-4 model
+* 【2024-01-08】[stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * 【2024-01-01】[KRTirtho / spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 * 【2024-01-01】[Universidade-Livre / rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
 * 【2024-01-01】[successfulstudy / promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐
@@ -183,6 +194,10 @@
 
 ## Java
 
+* 【2024-01-08】[kingtaeyeon / equity-calculator](https://github.com/kingtaeyeon/equity-calculator) - 权益计算框架
+* 【2024-01-08】[rememberber / WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+* 【2024-01-08】[skinny85 / jilt](https://github.com/skinny85/jilt) - Java annotation processor for auto-generating Builder (including Type-Safe Builder) classes
+* 【2024-01-08】[herodotus-ecosystem / dante-cloud-athena](https://github.com/herodotus-ecosystem/dante-cloud-athena) - Dante Cloud is an enterprise level Microservices architecture and service capability development platform. It is a multi tenant Microservices solution that adopts the domain driven model (DDD) design idea, fully embraces Spring Authorization Server, is based on OAuth2.1 protocol, and supports the authentication of Smart TV, IoT and other IoT device
 * 【2024-01-01】[cBioPortal / cbioportal](https://github.com/cBioPortal/cbioportal) - cBioPortal for Cancer Genomics
 * 【2024-01-01】[Hongmiao0207 / chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java) - ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.
 * 【2023-12-08】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
@@ -219,6 +234,14 @@
 
 ## Python
 
+* 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
+* 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
+* 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
+* 【2024-01-08】[tconbeer / harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+* 【2024-01-08】[tonyzhaozh / aloha](https://github.com/tonyzhaozh/aloha) - 
+* 【2024-01-08】[bclavie / RAGatouille](https://github.com/bclavie/RAGatouille) - 
+* 【2024-01-08】[guoqincode / Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone
+* 【2024-01-08】[myshell-ai / OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 * 【2024-01-01】[dvmazur / mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 * 【2024-01-01】[DLYuanGod / TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
 * 【2024-01-01】[RootKit-Org / AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - World's Best AI Aimbot - CS2, Valorant, Fortnite, APEX, every game
@@ -354,6 +377,11 @@
 
 ## Javascript
 
+* 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
+* 【2024-01-08】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
+* 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+* 【2024-01-08】[hiteshchoudhary / react-english](https://github.com/hiteshchoudhary/react-english) - A fun react series in future
+* 【2024-01-08】[iongpt / LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp client with LLM integration. It support OpenAI API and also local LLMs
 * 【2024-01-01】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
 * 【2024-01-01】[Ninjas-Code-official / Enatega-Multi-Vendor-Food-Delivery-System](https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2024-01-01】[naveeddogar / KING-MD](https://github.com/naveeddogar/KING-MD) - A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁
@@ -426,6 +454,8 @@
 
 ## Go
 
+* 【2024-01-08】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
+* 【2024-01-08】[cursusdb / cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities.
 * 【2024-01-01】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 * 【2024-01-01】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
@@ -489,6 +519,7 @@
 
 ## C
 
+* 【2024-01-08】[attractivechaos / plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 * 【2024-01-01】[stacksmashing / tamarin-c](https://github.com/stacksmashing/tamarin-c) - A tool to explore USB-C on Apple devices using the Tamarin C Hardware.
 * 【2023-12-29】[hrvach / deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -546,6 +577,8 @@
 
 ## C++
 
+* 【2024-01-08】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
+* 【2024-01-08】[X-Profiler / xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
 * 【2024-01-01】[MihailRis / VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp) - Minecraft-like game engine in C++ with OpenGL
 * 【2024-01-01】[hackerhouse-opensource / SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
@@ -599,6 +632,10 @@
 
 ## C#
 
+* 【2024-01-08】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
+* 【2024-01-08】[NebulaModTeam / nebula](https://github.com/NebulaModTeam/nebula) - A multiplayer mod for the game Dyson Sphere Program
+* 【2024-01-08】[dmcxblue / SharpGhostTask](https://github.com/dmcxblue/SharpGhostTask) - A C# port from Invoke-GhostTask
+* 【2024-01-08】[R-Vaccari / bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings) - 
 * 【2024-01-01】[AlexanderPro / SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 * 【2024-01-01】[Fragtality / DynamicLOD](https://github.com/Fragtality/DynamicLOD) - 
 * 【2024-01-01】[builtbybel / WhatsPC](https://github.com/builtbybel/WhatsPC) - What to do with your Toaster?
@@ -654,6 +691,9 @@
 
 ## Html
 
+* 【2024-01-08】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
+* 【2024-01-08】[diminDDL / ProPico](https://github.com/diminDDL/ProPico) - An RP2040 dev board improving on aspects of the pi pico
+* 【2024-01-08】[qiye45 / wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具
 * 【2024-01-01】[cipher387 / linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day) - In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".
 * 【2024-01-01】[Carlettoh / NotebooksProcesamientoIA](https://github.com/Carlettoh/NotebooksProcesamientoIA) - Notebooks realizados durante la asignatura de procesamiento de imagen por IA
 * 【2023-12-29】[OpenMDAO / om-Aviary](https://github.com/OpenMDAO/om-Aviary) - 
@@ -792,6 +832,10 @@
 
 ## Unknown
 
+* 【2024-01-08】[krishnaik06 / Roadmap-To-Become-Data-Analyst-2024](https://github.com/krishnaik06/Roadmap-To-Become-Data-Analyst-2024) - 
+* 【2024-01-08】[epiresdasilva / aws-minecraft-server](https://github.com/epiresdasilva/aws-minecraft-server) - An easy and fast way to create your own Minecraft Server.
+* 【2024-01-08】[zjunlp / LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents.
+* 【2024-01-08】[TheOneStudioLLC / Mac-Recorder](https://github.com/TheOneStudioLLC/Mac-Recorder) - Ultimate Recording App for MacOS
 * 【2024-01-01】[OwshenNetwork / genesis](https://github.com/OwshenNetwork/genesis) - Owshen rewards and airdrops
 * 【2024-01-01】[Archmage83 / tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 * 【2024-01-01】[liguge / Journals-of-Prognostics-and-Health-Management](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) - 智能故障诊断和寿命预测期刊（Journals of Intelligent Fault Diagnosis and Remaining Useful Life）
