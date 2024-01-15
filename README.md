@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-01-15】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+* 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+* 【2024-01-15】[Portkey-AI / gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+* 【2024-01-15】[maybe-finance / maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+* 【2024-01-15】[MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - 
+* 【2024-01-15】[tachiyomiorg / extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
+* 【2024-01-15】[AIGCDesignGroup / ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) - 
+* 【2024-01-15】[nextcloud / all-in-one](https://github.com/nextcloud/all-in-one) - The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 * 【2024-01-08】[MarkFzp / act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
 * 【2024-01-08】[llenotre / maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 * 【2024-01-08】[MarkFzp / mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
@@ -194,6 +202,12 @@
 
 ## Java
 
+* 【2024-01-15】[apache / incubator-seata](https://github.com/apache/incubator-seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+* 【2024-01-15】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+* 【2024-01-15】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
+* 【2024-01-15】[MCRcortex / nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only)
+* 【2024-01-15】[Mahmud0808 / ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - Express yourself with colors
+* 【2024-01-15】[apache / incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2024-01-08】[kingtaeyeon / equity-calculator](https://github.com/kingtaeyeon/equity-calculator) - 权益计算框架
 * 【2024-01-08】[rememberber / WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 * 【2024-01-08】[skinny85 / jilt](https://github.com/skinny85/jilt) - Java annotation processor for auto-generating Builder (including Type-Safe Builder) classes
@@ -234,6 +248,13 @@
 
 ## Python
 
+* 【2024-01-15】[microsoft / LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
+* 【2024-01-15】[VikParuchuri / surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+* 【2024-01-15】[TheCyb3rAlpha / BobTheSmuggler](https://github.com/TheCyb3rAlpha/BobTheSmuggler) - "Bob the Smuggler": A tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots).
+* 【2024-01-15】[chenyifanthu / WechatAnnualReport](https://github.com/chenyifanthu/WechatAnnualReport) - 微信聊天记录导出、微信年度报告生成！记录你的2023！
+* 【2024-01-15】[TencentARC / LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) - Progressive LLaMA with Block Expansion.
+* 【2024-01-15】[spipm / Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
+* 【2024-01-15】[AlessandroZ / LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 * 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
 * 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 * 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
@@ -377,6 +398,7 @@
 
 ## Javascript
 
+* 【2024-01-15】[prabathLK / PRABATH-MD](https://github.com/prabathLK/PRABATH-MD) - 🇱🇰 Multi-device whatsapp bot 🎉
 * 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
 * 【2024-01-08】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
 * 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
@@ -577,6 +599,9 @@
 
 ## C++
 
+* 【2024-01-15】[spaceandtimelabs / blitzar](https://github.com/spaceandtimelabs/blitzar) - Zero-knowledge proof acceleration with GPUs for C++ and Rust
+* 【2024-01-15】[s-kachroo / SamsungPractice](https://github.com/s-kachroo/SamsungPractice) - Problems for Samsung Research Institute, India - 3 hours Online Test.
+* 【2024-01-15】[m417z / CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) - Privilege escalation using the XAML diagnostics API (CVE-2023-36003)
 * 【2024-01-08】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 * 【2024-01-08】[X-Profiler / xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
 * 【2024-01-01】[MihailRis / VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp) - Minecraft-like game engine in C++ with OpenGL
@@ -632,6 +657,8 @@
 
 ## C#
 
+* 【2024-01-15】[Squidex / squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
+* 【2024-01-15】[microsoft / xbox-multiplayer-analysis-tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool) - Xbox Multiplayer Analysis Tool is a network traffic capturing tool to aid in the debugging of Xbox services issues and other network traffic from both a PC and Xbox development console.
 * 【2024-01-08】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
 * 【2024-01-08】[NebulaModTeam / nebula](https://github.com/NebulaModTeam/nebula) - A multiplayer mod for the game Dyson Sphere Program
 * 【2024-01-08】[dmcxblue / SharpGhostTask](https://github.com/dmcxblue/SharpGhostTask) - A C# port from Invoke-GhostTask
@@ -691,6 +718,8 @@
 
 ## Html
 
+* 【2024-01-15】[devikumavath / 27-frontend-project](https://github.com/devikumavath/27-frontend-project) - This repo contains 27 small frontend projects to understand the html , css , javascript fundamentals clearly and get hands on practice of it rather than having just theory knowledge. it will help with logic building , use cases of html , css tags and js functionality
+* 【2024-01-15】[EricksonAtHome / blackeye](https://github.com/EricksonAtHome/blackeye) - BLACKEYE v2.0 | New Phishing tool with localtunnel
 * 【2024-01-08】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 * 【2024-01-08】[diminDDL / ProPico](https://github.com/diminDDL/ProPico) - An RP2040 dev board improving on aspects of the pi pico
 * 【2024-01-08】[qiye45 / wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具
@@ -752,6 +781,8 @@
 
 ## Css
 
+* 【2024-01-15】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
+* 【2024-01-15】[sheryislive / sundown](https://github.com/sheryislive/sundown) - 
 * 【2024-01-01】[codewithsadee / portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 * 【2024-01-01】[TWBug / GoldCardHenge](https://github.com/TWBug/GoldCardHenge) - 
 * 【2024-01-01】[JulietaUla / Montserrat](https://github.com/JulietaUla/Montserrat) - 
@@ -832,6 +863,11 @@
 
 ## Unknown
 
+* 【2024-01-15】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - An AI Augmentation framework for helping people integrate AI into their lives.
+* 【2024-01-15】[cloudcommunity / Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
+* 【2024-01-15】[TideSec / TscanPlus](https://github.com/TideSec/TscanPlus) - 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+* 【2024-01-15】[keiyoushi / extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Tachiyomi app.
+* 【2024-01-15】[rolik1337 / CryptoTradeAI](https://github.com/rolik1337/CryptoTradeAI) - Detailed installation guide for this software is available on my Telegram
 * 【2024-01-08】[krishnaik06 / Roadmap-To-Become-Data-Analyst-2024](https://github.com/krishnaik06/Roadmap-To-Become-Data-Analyst-2024) - 
 * 【2024-01-08】[epiresdasilva / aws-minecraft-server](https://github.com/epiresdasilva/aws-minecraft-server) - An easy and fast way to create your own Minecraft Server.
 * 【2024-01-08】[zjunlp / LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents.
