@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-01-22】[Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
+* 【2024-01-22】[Andre0512 / hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
+* 【2024-01-22】[InstantID / InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+* 【2024-01-22】[VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+* 【2024-01-22】[sgl-project / sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
+* 【2024-01-22】[hustvl / Vim](https://github.com/hustvl/Vim) - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
+* 【2024-01-22】[RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+* 【2024-01-22】[gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
+* 【2024-01-22】[midudev / porfolio.dev](https://github.com/midudev/porfolio.dev) - Ejemplo de porfolio para programadores y desarrolladores
+* 【2024-01-22】[sst / demo-ai-app](https://github.com/sst/demo-ai-app) - Sample AI movies app built with ❍ Ion
 * 【2024-01-15】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 * 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 * 【2024-01-15】[Portkey-AI / gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
@@ -202,6 +212,10 @@
 
 ## Java
 
+* 【2024-01-22】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - Make HyperOS Great Again!
+* 【2024-01-22】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
+* 【2024-01-22】[Enndfp / simple-framework](https://github.com/Enndfp/simple-framework) - SimpleFramework 是一个简易版的 Spring 框架，专注于实现 Spring 的三大核心功能：IOC（控制反转）、AOP（面向切面编程）和 MVC（模型-视图-控制器）。该项目旨在通过重新构建这些关键功能，为开发者提供深入理解 Spring 框架架构和设计理念的机会，同时也是一种提升 Java 开发技术能力的实践。
+* 【2024-01-22】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
 * 【2024-01-15】[apache / incubator-seata](https://github.com/apache/incubator-seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * 【2024-01-15】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 * 【2024-01-15】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
@@ -248,6 +262,12 @@
 
 ## Python
 
+* 【2024-01-22】[google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry) - 
+* 【2024-01-22】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
+* 【2024-01-22】[IAHispano / Applio](https://github.com/IAHispano/Applio) - Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.
+* 【2024-01-22】[apple / ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper: Scalable Pre-training of Large Autoregressive Image Models
+* 【2024-01-22】[Andre0512 / pyhOn](https://github.com/Andre0512/pyhOn) - Control hOn devices with python
+* 【2024-01-22】[zhuangshaobin / Vlogger](https://github.com/zhuangshaobin/Vlogger) - Make Your Dream A Vlog
 * 【2024-01-15】[microsoft / LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 * 【2024-01-15】[VikParuchuri / surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 * 【2024-01-15】[TheCyb3rAlpha / BobTheSmuggler](https://github.com/TheCyb3rAlpha/BobTheSmuggler) - "Bob the Smuggler": A tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots).
@@ -398,6 +418,9 @@
 
 ## Javascript
 
+* 【2024-01-22】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
+* 【2024-01-22】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
+* 【2024-01-22】[suyalcinkaya / onur.dev](https://github.com/suyalcinkaya/onur.dev) - ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
 * 【2024-01-15】[prabathLK / PRABATH-MD](https://github.com/prabathLK/PRABATH-MD) - 🇱🇰 Multi-device whatsapp bot 🎉
 * 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
 * 【2024-01-08】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
@@ -541,6 +564,7 @@
 
 ## C
 
+* 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-08】[attractivechaos / plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 * 【2024-01-01】[stacksmashing / tamarin-c](https://github.com/stacksmashing/tamarin-c) - A tool to explore USB-C on Apple devices using the Tamarin C Hardware.
@@ -599,6 +623,8 @@
 
 ## C++
 
+* 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
+* 【2024-01-22】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.3)
 * 【2024-01-15】[spaceandtimelabs / blitzar](https://github.com/spaceandtimelabs/blitzar) - Zero-knowledge proof acceleration with GPUs for C++ and Rust
 * 【2024-01-15】[s-kachroo / SamsungPractice](https://github.com/s-kachroo/SamsungPractice) - Problems for Samsung Research Institute, India - 3 hours Online Test.
 * 【2024-01-15】[m417z / CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) - Privilege escalation using the XAML diagnostics API (CVE-2023-36003)
@@ -657,6 +683,8 @@
 
 ## C#
 
+* 【2024-01-22】[sqids / sqids-dotnet](https://github.com/sqids/sqids-dotnet) - Official .NET port of Sqids. Generate short unique IDs from numbers.
+* 【2024-01-22】[KumoKyaku / kcp](https://github.com/KumoKyaku/kcp) - KCP C#版。线程安全，运行时无alloc，对gc无压力。
 * 【2024-01-15】[Squidex / squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
 * 【2024-01-15】[microsoft / xbox-multiplayer-analysis-tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool) - Xbox Multiplayer Analysis Tool is a network traffic capturing tool to aid in the debugging of Xbox services issues and other network traffic from both a PC and Xbox development console.
 * 【2024-01-08】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
@@ -718,6 +746,9 @@
 
 ## Html
 
+* 【2024-01-22】[alura-es-cursos / 2034-logica-programacion-1](https://github.com/alura-es-cursos/2034-logica-programacion-1) - Curso de lógica de programación 1 - Alura Latam
+* 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
+* 【2024-01-22】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
 * 【2024-01-15】[devikumavath / 27-frontend-project](https://github.com/devikumavath/27-frontend-project) - This repo contains 27 small frontend projects to understand the html , css , javascript fundamentals clearly and get hands on practice of it rather than having just theory knowledge. it will help with logic building , use cases of html , css tags and js functionality
 * 【2024-01-15】[EricksonAtHome / blackeye](https://github.com/EricksonAtHome/blackeye) - BLACKEYE v2.0 | New Phishing tool with localtunnel
 * 【2024-01-08】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
@@ -781,6 +812,9 @@
 
 ## Css
 
+* 【2024-01-22】[ykdojo / OpenStream](https://github.com/ykdojo/OpenStream) - OpenStream is an open-source project for creating a free tool that records screen and webcam footage simultaneously. It's designed for content creators and developed collaboratively through our community on Discord.
+* 【2024-01-22】[rolling-scopes-school / HTML-builder](https://github.com/rolling-scopes-school/HTML-builder) - 
+* 【2024-01-22】[CodeCompleteYT / react-portfolio](https://github.com/CodeCompleteYT/react-portfolio) - 
 * 【2024-01-15】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
 * 【2024-01-15】[sheryislive / sundown](https://github.com/sheryislive/sundown) - 
 * 【2024-01-01】[codewithsadee / portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
@@ -863,6 +897,10 @@
 
 ## Unknown
 
+* 【2024-01-22】[a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
+* 【2024-01-22】[WadQamar10 / My-Hunting-Methodology-](https://github.com/WadQamar10/My-Hunting-Methodology-) - My Private Bug Hunting Methodology
+* 【2024-01-22】[CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
+* 【2024-01-22】[piglei / one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 * 【2024-01-15】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - An AI Augmentation framework for helping people integrate AI into their lives.
 * 【2024-01-15】[cloudcommunity / Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 * 【2024-01-15】[TideSec / TscanPlus](https://github.com/TideSec/TscanPlus) - 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
