@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-01-29】[leptonai / search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
+* 【2024-01-29】[zed-industries / zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+* 【2024-01-29】[goenning / google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
+* 【2024-01-29】[cheahjs / palworld-save-tools](https://github.com/cheahjs/palworld-save-tools) - Tools for converting PalWorld .sav files to JSON and back
+* 【2024-01-29】[swordbluesword / PalWorld-NetCrack](https://github.com/swordbluesword/PalWorld-NetCrack) - 
+* 【2024-01-29】[rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+* 【2024-01-29】[FalconForceTeam / SOAPHound](https://github.com/FalconForceTeam/SOAPHound) - SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol.
+* 【2024-01-29】[Rapha-Borges / oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre
+* 【2024-01-29】[Ucas-HaoranWei / Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy) - Official code implementation of Vary-toy (Small Language Model Meets with Reinforced Vision Vocabulary)
+* 【2024-01-29】[ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 * 【2024-01-22】[Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
 * 【2024-01-22】[Andre0512 / hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
 * 【2024-01-22】[InstantID / InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
@@ -262,6 +272,13 @@
 
 ## Python
 
+* 【2024-01-29】[simonw / llm](https://github.com/simonw/llm) - Access large language models from the command-line
+* 【2024-01-29】[EmbraceAGI / LangGPT](https://github.com/EmbraceAGI/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+* 【2024-01-29】[zhuyiche / llava-phi](https://github.com/zhuyiche/llava-phi) - 
+* 【2024-01-29】[EternalWraith / PalEdit](https://github.com/EternalWraith/PalEdit) - A simple tool for Editing and Generating Pals within PalWorld Saves
+* 【2024-01-29】[TaskingAI / TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development.
+* 【2024-01-29】[h4x0r-dz / CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897) - CVE-2024-23897
+* 【2024-01-29】[JerBouma / FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 * 【2024-01-22】[google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry) - 
 * 【2024-01-22】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
 * 【2024-01-22】[IAHispano / Applio](https://github.com/IAHispano/Applio) - Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.
@@ -418,6 +435,11 @@
 
 ## Javascript
 
+* 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
+* 【2024-01-29】[aymene69 / stremio-jackett](https://github.com/aymene69/stremio-jackett) - Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.
+* 【2024-01-29】[lencx / Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
+* 【2024-01-29】[chrisgoringe / cg-use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere) - 
+* 【2024-01-29】[sahandghavidel / mern-blog](https://github.com/sahandghavidel/mern-blog) - MERN blog using tailwind css
 * 【2024-01-22】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 * 【2024-01-22】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 * 【2024-01-22】[suyalcinkaya / onur.dev](https://github.com/suyalcinkaya/onur.dev) - ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
@@ -499,6 +521,10 @@
 
 ## Go
 
+* 【2024-01-29】[Hoshinonyaruko / palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
+* 【2024-01-29】[ollama / ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+* 【2024-01-29】[gwuhaolin / lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
+* 【2024-01-29】[projectdiscovery / cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
 * 【2024-01-08】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
 * 【2024-01-08】[cursusdb / cursusdb](https://github.com/cursusdb/cursusdb) - CursusDB is an open-source distributed in-memory yet persisted document oriented database system with real time capabilities.
 * 【2024-01-01】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
@@ -564,6 +590,8 @@
 
 ## C
 
+* 【2024-01-29】[duck-sec / CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) - A modification to fortra's CVE-2023-28252 exploit, compiled to exe
+* 【2024-01-29】[amd / xdna-driver](https://github.com/amd/xdna-driver) - 
 * 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-08】[attractivechaos / plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
@@ -623,6 +651,8 @@
 
 ## C++
 
+* 【2024-01-29】[XRPLF / rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
+* 【2024-01-29】[AlexanderDzhoganov / ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures) - Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models
 * 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 * 【2024-01-22】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.3)
 * 【2024-01-15】[spaceandtimelabs / blitzar](https://github.com/spaceandtimelabs/blitzar) - Zero-knowledge proof acceleration with GPUs for C++ and Rust
@@ -746,6 +776,10 @@
 
 ## Html
 
+* 【2024-01-29】[kanton-bern / hellodata-be](https://github.com/kanton-bern/hellodata-be) - The Open-Source Enterprise Data Platform in a single Portal
+* 【2024-01-29】[lumiere-video / lumiere-video.github.io](https://github.com/lumiere-video/lumiere-video.github.io) - 
+* 【2024-01-29】[nota-lang / bene](https://github.com/nota-lang/bene) - An EPUB Reading System
+* 【2024-01-29】[vovannat / darknet-markets-links](https://github.com/vovannat/darknet-markets-links) - A verified list of darknet markets and services with links for educational reference.
 * 【2024-01-22】[alura-es-cursos / 2034-logica-programacion-1](https://github.com/alura-es-cursos/2034-logica-programacion-1) - Curso de lógica de programación 1 - Alura Latam
 * 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
 * 【2024-01-22】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
@@ -812,6 +846,12 @@
 
 ## Css
 
+* 【2024-01-29】[RodrigoHarder / imersao-frontend](https://github.com/RodrigoHarder/imersao-frontend) - 
+* 【2024-01-29】[Akifyss / obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
+* 【2024-01-29】[alura-cursos / spotify-imersao](https://github.com/alura-cursos/spotify-imersao) - 
+* 【2024-01-29】[kepano / flexoki-obsidian](https://github.com/kepano/flexoki-obsidian) - An inky color scheme for Obsidian
+* 【2024-01-29】[tcmmichaelb139 / obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
+* 【2024-01-29】[kenngigz / App-For-PC](https://github.com/kenngigz/App-For-PC) - App For Edit Photo And Video
 * 【2024-01-22】[ykdojo / OpenStream](https://github.com/ykdojo/OpenStream) - OpenStream is an open-source project for creating a free tool that records screen and webcam footage simultaneously. It's designed for content creators and developed collaboratively through our community on Discord.
 * 【2024-01-22】[rolling-scopes-school / HTML-builder](https://github.com/rolling-scopes-school/HTML-builder) - 
 * 【2024-01-22】[CodeCompleteYT / react-portfolio](https://github.com/CodeCompleteYT/react-portfolio) - 
@@ -897,6 +937,10 @@
 
 ## Unknown
 
+* 【2024-01-29】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
+* 【2024-01-29】[burpheart / Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note / 幻兽帕鲁逆向笔记
+* 【2024-01-29】[cmsc330spring24 / cmsc330spring24](https://github.com/cmsc330spring24/cmsc330spring24) - 
+* 【2024-01-29】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 * 【2024-01-22】[a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
 * 【2024-01-22】[WadQamar10 / My-Hunting-Methodology-](https://github.com/WadQamar10/My-Hunting-Methodology-) - My Private Bug Hunting Methodology
 * 【2024-01-22】[CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
