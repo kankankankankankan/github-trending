@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-02-01】[InkboxSoftware / excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
+* 【2024-02-01】[all-in-aigc / aicover](https://github.com/all-in-aigc/aicover) - ai cover generator
+* 【2024-02-01】[PKU-YuanGroup / MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
+* 【2024-02-01】[vikhyat / moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+* 【2024-02-01】[opensourcecheemsburgers / RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) - A rusty Youtube client.
+* 【2024-02-01】[polymorphicshade / Tubular](https://github.com/polymorphicshade/Tubular) - 
+* 【2024-02-01】[Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
+* 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 * 【2024-01-29】[leptonai / search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 * 【2024-01-29】[zed-industries / zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * 【2024-01-29】[goenning / google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
@@ -435,6 +443,8 @@
 
 ## Javascript
 
+* 【2024-02-01】[toolkit-for-ynab / toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
+* 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 * 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
 * 【2024-01-29】[aymene69 / stremio-jackett](https://github.com/aymene69/stremio-jackett) - Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.
 * 【2024-01-29】[lencx / Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
@@ -521,6 +531,7 @@
 
 ## Go
 
+* 【2024-02-01】[deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
 * 【2024-01-29】[Hoshinonyaruko / palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 * 【2024-01-29】[ollama / ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 * 【2024-01-29】[gwuhaolin / lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
@@ -590,6 +601,8 @@
 
 ## C
 
+* 【2024-02-01】[KaisenAmin / c_std](https://github.com/KaisenAmin/c_std) - Implementation of C++ standard libraries in C
+* 【2024-02-01】[boku7 / azureOutlookC2](https://github.com/boku7/azureOutlookC2) - Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Microsoft Graph API for C2 Operations.
 * 【2024-01-29】[duck-sec / CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) - A modification to fortra's CVE-2023-28252 exploit, compiled to exe
 * 【2024-01-29】[amd / xdna-driver](https://github.com/amd/xdna-driver) - 
 * 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
@@ -651,6 +664,9 @@
 
 ## C++
 
+* 【2024-02-01】[VeroFess / PalWorld-Server-Unoffical-Api](https://github.com/VeroFess/PalWorld-Server-Unoffical-Api) - A PalWorld Server API like minecraft bukkit, not finish yet
+* 【2024-02-01】[infiniflow / infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search
+* 【2024-02-01】[microsoft / vcpkg-tool](https://github.com/microsoft/vcpkg-tool) - Components of microsoft/vcpkg's binary.
 * 【2024-01-29】[XRPLF / rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 * 【2024-01-29】[AlexanderDzhoganov / ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures) - Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models
 * 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
@@ -713,6 +729,9 @@
 
 ## C#
 
+* 【2024-02-01】[KirosHan / Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
+* 【2024-02-01】[mayuki / Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
+* 【2024-02-01】[victorfrye / microsoftgraveyard](https://github.com/victorfrye/microsoftgraveyard) - 🪦 The virtual graveyard for all products killed by Microsoft
 * 【2024-01-22】[sqids / sqids-dotnet](https://github.com/sqids/sqids-dotnet) - Official .NET port of Sqids. Generate short unique IDs from numbers.
 * 【2024-01-22】[KumoKyaku / kcp](https://github.com/KumoKyaku/kcp) - KCP C#版。线程安全，运行时无alloc，对gc无压力。
 * 【2024-01-15】[Squidex / squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
@@ -776,6 +795,9 @@
 
 ## Html
 
+* 【2024-02-01】[vnglst / pong-wars](https://github.com/vnglst/pong-wars) - 
+* 【2024-02-01】[novice88 / jetbra](https://github.com/novice88/jetbra) - An activation tool for jetbrains family products,including plugins
+* 【2024-02-01】[bitcoinbook / bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 * 【2024-01-29】[kanton-bern / hellodata-be](https://github.com/kanton-bern/hellodata-be) - The Open-Source Enterprise Data Platform in a single Portal
 * 【2024-01-29】[lumiere-video / lumiere-video.github.io](https://github.com/lumiere-video/lumiere-video.github.io) - 
 * 【2024-01-29】[nota-lang / bene](https://github.com/nota-lang/bene) - An EPUB Reading System
@@ -846,6 +868,11 @@
 
 ## Css
 
+* 【2024-02-01】[HoanghoDev / slider_1](https://github.com/HoanghoDev/slider_1) - 
+* 【2024-02-01】[AsmrProg-YT / Responsive-Music-Website](https://github.com/AsmrProg-YT/Responsive-Music-Website) - AsmrProg Youtube Channel Responsive Music Platform Design Source Code
+* 【2024-02-01】[itscodenation / flw1-u2l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u2l2-23-24-student-exercises) - 
+* 【2024-02-01】[TykTechnologies / tyk-dev-portal-quickstart](https://github.com/TykTechnologies/tyk-dev-portal-quickstart) - 
+* 【2024-02-01】[wancheng / forgetwall](https://github.com/wancheng/forgetwall) - a simple python blog
 * 【2024-01-29】[RodrigoHarder / imersao-frontend](https://github.com/RodrigoHarder/imersao-frontend) - 
 * 【2024-01-29】[Akifyss / obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 * 【2024-01-29】[alura-cursos / spotify-imersao](https://github.com/alura-cursos/spotify-imersao) - 
@@ -937,6 +964,14 @@
 
 ## Unknown
 
+* 【2024-02-01】[redskycyber / Cloud-Security](https://github.com/redskycyber/Cloud-Security) - This Repo serves as a collection of shared security and penetration testing resources for the cloud.
+* 【2024-02-01】[Elfiinaa / ConfigFiles](https://github.com/Elfiinaa/ConfigFiles) - 
+* 【2024-02-01】[VB10 / staj_2024](https://github.com/VB10/staj_2024) - Yazılım alanında staj arayan gençlerin tek bir ses olup doğru alanda staj bulduğu repo
+* 【2024-02-01】[xlucn / oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+* 【2024-02-01】[seifrajhi / awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) - A curated list of Platform Engineering Tools
+* 【2024-02-01】[yuankong666 / Ultimate-RAT-Collection](https://github.com/yuankong666/Ultimate-RAT-Collection) - For educational purposes only, samples of old & new malware builders including screenshots!
+* 【2024-02-01】[B3o / GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt / Collect the prompt of GPTS
+* 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 * 【2024-01-29】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
 * 【2024-01-29】[burpheart / Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note / 幻兽帕鲁逆向笔记
 * 【2024-01-29】[cmsc330spring24 / cmsc330spring24](https://github.com/cmsc330spring24/cmsc330spring24) - 
