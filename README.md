@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2024-02-08】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
+* 【2024-02-08】[zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
+* 【2024-02-08】[maybe-finance / maybe-archive](https://github.com/maybe-finance/maybe-archive) - 
+* 【2024-02-08】[apple / pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+* 【2024-02-08】[thu-vu92 / local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
+* 【2024-02-08】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
+* 【2024-02-08】[atopile / atopile](https://github.com/atopile/atopile) - A tool to create electronic circuit boards with code. Find our docs here: https://atopile.io/getting-started/
+* 【2024-02-08】[backstage / backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+* 【2024-02-08】[X-PLUG / MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+* 【2024-02-08】[reqable / re-editor](https://github.com/reqable/re-editor) - Re-Editor is a powerful lightweight text and code editor widget.
+* 【2024-02-08】[divyam234 / teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 * 【2024-02-01】[InkboxSoftware / excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 * 【2024-02-01】[all-in-aigc / aicover](https://github.com/all-in-aigc/aicover) - ai cover generator
 * 【2024-02-01】[PKU-YuanGroup / MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
@@ -230,6 +241,8 @@
 
 ## Java
 
+* 【2024-02-08】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
+* 【2024-02-08】[langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
 * 【2024-01-22】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - Make HyperOS Great Again!
 * 【2024-01-22】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
 * 【2024-01-22】[Enndfp / simple-framework](https://github.com/Enndfp/simple-framework) - SimpleFramework 是一个简易版的 Spring 框架，专注于实现 Spring 的三大核心功能：IOC（控制反转）、AOP（面向切面编程）和 MVC（模型-视图-控制器）。该项目旨在通过重新构建这些关键功能，为开发者提供深入理解 Spring 框架架构和设计理念的机会，同时也是一种提升 Java 开发技术能力的实践。
@@ -280,6 +293,17 @@
 
 ## Python
 
+* 【2024-02-08】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
+* 【2024-02-08】[AbanteAI / rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
+* 【2024-02-08】[kevingduck / ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
+* 【2024-02-08】[dvcoolarun / web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
+* 【2024-02-08】[narfindustries / http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
+* 【2024-02-08】[Doubiiu / DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors
+* 【2024-02-08】[apple / ml-mgie](https://github.com/apple/ml-mgie) - 
+* 【2024-02-08】[defog-ai / sql-eval](https://github.com/defog-ai/sql-eval) - Code for sql generation evaluation
+* 【2024-02-08】[phidatahq / phidata](https://github.com/phidatahq/phidata) - Build AI Assistants using function calling
+* 【2024-02-08】[nomic-ai / contrastors](https://github.com/nomic-ai/contrastors) - Train Models Contrastively in Pytorch
+* 【2024-02-08】[yohanshin / WHAM](https://github.com/yohanshin/WHAM) - 
 * 【2024-01-29】[simonw / llm](https://github.com/simonw/llm) - Access large language models from the command-line
 * 【2024-01-29】[EmbraceAGI / LangGPT](https://github.com/EmbraceAGI/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 * 【2024-01-29】[zhuyiche / llava-phi](https://github.com/zhuyiche/llava-phi) - 
@@ -443,6 +467,11 @@
 
 ## Javascript
 
+* 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
+* 【2024-02-08】[mschwarzmueller / nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources) - Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)
+* 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
+* 【2024-02-08】[namdosanwannabe / be-my-valentine](https://github.com/namdosanwannabe/be-my-valentine) - Simple JavaScript Project
+* 【2024-02-08】[safak / next-animated-portfolio](https://github.com/safak/next-animated-portfolio) - 
 * 【2024-02-01】[toolkit-for-ynab / toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 * 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
@@ -531,6 +560,7 @@
 
 ## Go
 
+* 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-01】[deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
 * 【2024-01-29】[Hoshinonyaruko / palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 * 【2024-01-29】[ollama / ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
@@ -601,6 +631,9 @@
 
 ## C
 
+* 【2024-02-08】[xroche / httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
+* 【2024-02-08】[KpwnZ / Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.6.1
+* 【2024-02-08】[SivanLaai / rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
 * 【2024-02-01】[KaisenAmin / c_std](https://github.com/KaisenAmin/c_std) - Implementation of C++ standard libraries in C
 * 【2024-02-01】[boku7 / azureOutlookC2](https://github.com/boku7/azureOutlookC2) - Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Microsoft Graph API for C2 Operations.
 * 【2024-01-29】[duck-sec / CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) - A modification to fortra's CVE-2023-28252 exploit, compiled to exe
@@ -664,6 +697,10 @@
 
 ## C++
 
+* 【2024-02-08】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
+* 【2024-02-08】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
+* 【2024-02-08】[OpenGene / fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
+* 【2024-02-08】[RibShark / SafeDiscShim](https://github.com/RibShark/SafeDiscShim) - SafeDiscShim is a compatibility tool that allows for SafeDisc protected games which utilize the insecure Macrovision Security Driver ("secdrv.sys") to run on modern versions of Windows .
 * 【2024-02-01】[VeroFess / PalWorld-Server-Unoffical-Api](https://github.com/VeroFess/PalWorld-Server-Unoffical-Api) - A PalWorld Server API like minecraft bukkit, not finish yet
 * 【2024-02-01】[infiniflow / infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search
 * 【2024-02-01】[microsoft / vcpkg-tool](https://github.com/microsoft/vcpkg-tool) - Components of microsoft/vcpkg's binary.
@@ -729,6 +766,8 @@
 
 ## C#
 
+* 【2024-02-08】[Giorgi / EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) - Entity Framework Core queries debugger visualizer.
+* 【2024-02-08】[shalzuth / PalWorldAntiCheat](https://github.com/shalzuth/PalWorldAntiCheat) - palworld anticheat for dedicated servers
 * 【2024-02-01】[KirosHan / Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
 * 【2024-02-01】[mayuki / Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
 * 【2024-02-01】[victorfrye / microsoftgraveyard](https://github.com/victorfrye/microsoftgraveyard) - 🪦 The virtual graveyard for all products killed by Microsoft
@@ -795,6 +834,7 @@
 
 ## Html
 
+* 【2024-02-08】[rajaprerak / rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 * 【2024-02-01】[vnglst / pong-wars](https://github.com/vnglst/pong-wars) - 
 * 【2024-02-01】[novice88 / jetbra](https://github.com/novice88/jetbra) - An activation tool for jetbrains family products,including plugins
 * 【2024-02-01】[bitcoinbook / bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
@@ -868,6 +908,9 @@
 
 ## Css
 
+* 【2024-02-08】[echelon-theme / echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115 ESR.
+* 【2024-02-08】[ironhack-labs / lab-react-iron-travels](https://github.com/ironhack-labs/lab-react-iron-travels) - 
+* 【2024-02-08】[itscodenation / int-u3l6-23-24-student-exercises](https://github.com/itscodenation/int-u3l6-23-24-student-exercises) - 
 * 【2024-02-01】[HoanghoDev / slider_1](https://github.com/HoanghoDev/slider_1) - 
 * 【2024-02-01】[AsmrProg-YT / Responsive-Music-Website](https://github.com/AsmrProg-YT/Responsive-Music-Website) - AsmrProg Youtube Channel Responsive Music Platform Design Source Code
 * 【2024-02-01】[itscodenation / flw1-u2l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u2l2-23-24-student-exercises) - 
@@ -964,6 +1007,11 @@
 
 ## Unknown
 
+* 【2024-02-08】[karnotxyz / avail-campaign-listing](https://github.com/karnotxyz/avail-campaign-listing) - 
+* 【2024-02-08】[QwenLM / Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+* 【2024-02-08】[G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM) - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning
+* 【2024-02-08】[perixtar / 2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet.
+* 【2024-02-08】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
 * 【2024-02-01】[redskycyber / Cloud-Security](https://github.com/redskycyber/Cloud-Security) - This Repo serves as a collection of shared security and penetration testing resources for the cloud.
 * 【2024-02-01】[Elfiinaa / ConfigFiles](https://github.com/Elfiinaa/ConfigFiles) - 
 * 【2024-02-01】[VB10 / staj_2024](https://github.com/VB10/staj_2024) - Yazılım alanında staj arayan gençlerin tek bir ses olup doğru alanda staj bulduğu repo
