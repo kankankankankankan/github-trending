@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-02-22】[I-S00N / I-S00N](https://github.com/I-S00N/I-S00N) - 
+* 【2024-02-22】[Kalabasa / htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
+* 【2024-02-22】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
+* 【2024-02-22】[ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+* 【2024-02-22】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+* 【2024-02-22】[QuivrHQ / quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+* 【2024-02-22】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
+* 【2024-02-22】[LargeWorldModel / LWM](https://github.com/LargeWorldModel/LWM) - 
+* 【2024-02-22】[facebookresearch / jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 * 【2024-02-15】[gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 * 【2024-02-15】[BCG-X-Official / agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
 * 【2024-02-15】[Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
@@ -251,6 +260,7 @@
 
 ## Java
 
+* 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
 * 【2024-02-15】[eazybytes / microservices](https://github.com/eazybytes/microservices) - Microservices With Spring, Docker, Kubernetes - Code Examples
 * 【2024-02-15】[Chipppppppppp / LIME](https://github.com/Chipppppppppp/LIME) - 
 * 【2024-02-15】[FernandoMatusseMatusse / hwid-spoofer](https://github.com/FernandoMatusseMatusse/hwid-spoofer) - #1 HWID spoofer for ANY game
@@ -306,6 +316,9 @@
 
 ## Python
 
+* 【2024-02-22】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
+* 【2024-02-22】[nyaoouo / GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT) - A combat data track and analytic mod, suchas dps tracking
+* 【2024-02-22】[vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * 【2024-02-15】[joaomdmoura / crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 * 【2024-02-15】[LAION-AI / natural_voice_assistant](https://github.com/LAION-AI/natural_voice_assistant) - 
 * 【2024-02-15】[Lightning-AI / pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
@@ -490,6 +503,9 @@
 
 ## Javascript
 
+* 【2024-02-22】[ScratchAddons / ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
+* 【2024-02-22】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+* 【2024-02-22】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * 【2024-02-15】[DzarelDeveloper / HappyValentine](https://github.com/DzarelDeveloper/HappyValentine) - 
 * 【2024-02-15】[Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
@@ -585,6 +601,8 @@
 
 ## Go
 
+* 【2024-02-22】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
+* 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
 * 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-01】[deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
 * 【2024-01-29】[Hoshinonyaruko / palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
@@ -656,6 +674,9 @@
 
 ## C
 
+* 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
+* 【2024-02-22】[codeplea / genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
+* 【2024-02-22】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
 * 【2024-02-15】[NLnetLabs / unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 * 【2024-02-08】[xroche / httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
 * 【2024-02-08】[KpwnZ / Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.6.1
@@ -723,6 +744,8 @@
 
 ## C++
 
+* 【2024-02-22】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
+* 【2024-02-22】[hyprwm / hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 * 【2024-02-15】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
 * 【2024-02-08】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
 * 【2024-02-08】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
@@ -793,6 +816,11 @@
 
 ## C#
 
+* 【2024-02-22】[MadMax1960 / Femc-Reloaded-Project](https://github.com/MadMax1960/Femc-Reloaded-Project) - Repo for Femc Reloaded Project
+* 【2024-02-22】[Cysharp / R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
+* 【2024-02-22】[AppsFlyerSDK / appsflyer-unity-plugin](https://github.com/AppsFlyerSDK/appsflyer-unity-plugin) - AppsFlyer Unity Plugin
+* 【2024-02-22】[kikipoulet / SukiUI](https://github.com/kikipoulet/SukiUI) - UI Theme for AvaloniaUI
+* 【2024-02-22】[msdart / solana-sniper-bot](https://github.com/msdart/solana-sniper-bot) - Solana sniper bot, is a software tool created to snipe tokens on DEX
 * 【2024-02-15】[thexeondev / WutheringWaves](https://github.com/thexeondev/WutheringWaves) - Wuthering Waves ps (0.8.2)
 * 【2024-02-15】[builtbybel / BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
 * 【2024-02-08】[Giorgi / EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) - Entity Framework Core queries debugger visualizer.
@@ -863,6 +891,8 @@
 
 ## Html
 
+* 【2024-02-22】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
+* 【2024-02-22】[zapll / chatgpt-next-share](https://github.com/zapll/chatgpt-next-share) - 
 * 【2024-02-15】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
 * 【2024-02-15】[asynchronousJavascriptor / level2](https://github.com/asynchronousJavascriptor/level2) - 
 * 【2024-02-15】[mabelolivera10 / salvalentin](https://github.com/mabelolivera10/salvalentin) - 
@@ -940,6 +970,12 @@
 
 ## Css
 
+* 【2024-02-22】[Rasxtt / perdon](https://github.com/Rasxtt/perdon) - 
+* 【2024-02-22】[eliyantosarage / font-awesome-pro](https://github.com/eliyantosarage/font-awesome-pro) - CDN Font Awesome Pro v6.5.1 for Dekstop & Web
+* 【2024-02-22】[kazemnejad / jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template) - Feature-rich and easy-to-use Jekyll website template for academic courses
+* 【2024-02-22】[bgao / express-boilerplate](https://github.com/bgao/express-boilerplate) - Express boilerplate integrated Passport, Nodemailer and Initializr(Bootstrap)
+* 【2024-02-22】[SkylineCommunications / dataminer-docs-connectors](https://github.com/SkylineCommunications/dataminer-docs-connectors) - 
+* 【2024-02-22】[sidd-harth / mule4-mcd-level2](https://github.com/sidd-harth/mule4-mcd-level2) - This repo contains solutions for all hands-on exercises
 * 【2024-02-15】[byquangthanh / valentine.github.io](https://github.com/byquangthanh/valentine.github.io) - Will you be my valentine project for my girlfriend
 * 【2024-02-15】[mabelolivera10 / floresamarillasycorazones](https://github.com/mabelolivera10/floresamarillasycorazones) - 
 * 【2024-02-15】[heryyy / bunga-buat-gift](https://github.com/heryyy/bunga-buat-gift) - Virtual flowers
@@ -1053,6 +1089,9 @@
 
 ## Unknown
 
+* 【2024-02-22】[aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+* 【2024-02-22】[Mastodon-DE / blocklists](https://github.com/Mastodon-DE/blocklists) - Work in progress - created hastily for the February 15th Fedi Spam Attacks
+* 【2024-02-22】[familiar / Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + Forge.
 * 【2024-02-15】[daveshap / PostLaborEconomics](https://github.com/daveshap/PostLaborEconomics) - Collaborative book to promote the idea of Post Labor Economics
 * 【2024-02-15】[ashishps1 / awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
 * 【2024-02-15】[Nothing-Developer-Programme / Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
