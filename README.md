@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-02-29】[pmndrs / uikit](https://github.com/pmndrs/uikit) - 📱 user interfaces for react-three-fiber
+* 【2024-02-29】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
+* 【2024-02-29】[tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
+* 【2024-02-29】[dockur / windows](https://github.com/dockur/windows) - Windows in a Docker container.
+* 【2024-02-29】[SciPhi-AI / R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG systems
+* 【2024-02-29】[myshell-ai / MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+* 【2024-02-29】[krishnaik06 / Data-Science-Projects-For-Resumes](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes) - 
+* 【2024-02-29】[polyfillpolyfill / polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
+* 【2024-02-29】[WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
+* 【2024-02-29】[hoochanlon / fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 * 【2024-02-22】[I-S00N / I-S00N](https://github.com/I-S00N/I-S00N) - 
 * 【2024-02-22】[Kalabasa / htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 * 【2024-02-22】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -260,6 +270,8 @@
 
 ## Java
 
+* 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
+* 【2024-02-29】[junixapp / XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
 * 【2024-02-15】[eazybytes / microservices](https://github.com/eazybytes/microservices) - Microservices With Spring, Docker, Kubernetes - Code Examples
 * 【2024-02-15】[Chipppppppppp / LIME](https://github.com/Chipppppppppp/LIME) - 
@@ -316,6 +328,10 @@
 
 ## Python
 
+* 【2024-02-29】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)
+* 【2024-02-29】[Azure / PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
+* 【2024-02-29】[Clouditera / SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
+* 【2024-02-29】[LiheYoung / Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 * 【2024-02-22】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 * 【2024-02-22】[nyaoouo / GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT) - A combat data track and analytic mod, suchas dps tracking
 * 【2024-02-22】[vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
@@ -503,6 +519,10 @@
 
 ## Javascript
 
+* 【2024-02-29】[jason5ng32 / OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal) - 使用日历软件订阅美股的财报日期
+* 【2024-02-29】[polyfillpolyfill / polyfill-library](https://github.com/polyfillpolyfill/polyfill-library) - NodeJS module to create polyfill bundles tailored to individual user-agents.
+* 【2024-02-29】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
+* 【2024-02-29】[burakorkmez / mern-chat-app](https://github.com/burakorkmez/mern-chat-app) - Real Time Chat App | MERN && Socket.io && JWT
 * 【2024-02-22】[ScratchAddons / ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
 * 【2024-02-22】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 * 【2024-02-22】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -601,6 +621,7 @@
 
 ## Go
 
+* 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
 * 【2024-02-22】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 * 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
 * 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
@@ -674,6 +695,7 @@
 
 ## C
 
+* 【2024-02-29】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
 * 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-22】[codeplea / genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
 * 【2024-02-22】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
@@ -816,6 +838,9 @@
 
 ## C#
 
+* 【2024-02-29】[ResetXPDR / MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) - 
+* 【2024-02-29】[AliveverCom / WinBrowserCrawler](https://github.com/AliveverCom/WinBrowserCrawler) - 
+* 【2024-02-29】[amantinband / clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 💪
 * 【2024-02-22】[MadMax1960 / Femc-Reloaded-Project](https://github.com/MadMax1960/Femc-Reloaded-Project) - Repo for Femc Reloaded Project
 * 【2024-02-22】[Cysharp / R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
 * 【2024-02-22】[AppsFlyerSDK / appsflyer-unity-plugin](https://github.com/AppsFlyerSDK/appsflyer-unity-plugin) - AppsFlyer Unity Plugin
@@ -891,6 +916,10 @@
 
 ## Html
 
+* 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
+* 【2024-02-29】[rg35xx-cfw / rg35xx-cfw.github.io](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io) - RG35XX Custom Firmware Documentation
+* 【2024-02-29】[gethyas / doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
+* 【2024-02-29】[Consensys / smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 * 【2024-02-22】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
 * 【2024-02-22】[zapll / chatgpt-next-share](https://github.com/zapll/chatgpt-next-share) - 
 * 【2024-02-15】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
@@ -970,6 +999,10 @@
 
 ## Css
 
+* 【2024-02-29】[kallewoof / bitcoin-faucet](https://github.com/kallewoof/bitcoin-faucet) - Bitcoin Faucet
+* 【2024-02-29】[gevendra2004 / gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
+* 【2024-02-29】[janily / background-erase](https://github.com/janily/background-erase) - Remove background in seconds.
+* 【2024-02-29】[MariiaH1 / todo-app-starter](https://github.com/MariiaH1/todo-app-starter) - 
 * 【2024-02-22】[Rasxtt / perdon](https://github.com/Rasxtt/perdon) - 
 * 【2024-02-22】[eliyantosarage / font-awesome-pro](https://github.com/eliyantosarage/font-awesome-pro) - CDN Font Awesome Pro v6.5.1 for Dekstop & Web
 * 【2024-02-22】[kazemnejad / jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template) - Feature-rich and easy-to-use Jekyll website template for academic courses
@@ -1089,6 +1122,12 @@
 
 ## Unknown
 
+* 【2024-02-29】[armankhondker / best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains Leetcode resources to help ace your coding interviews.
+* 【2024-02-29】[sina-moradbakhti / hiddify-wow-config](https://github.com/sina-moradbakhti/hiddify-wow-config) - 
+* 【2024-02-29】[yonggekkk / sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：多端口跳跃、自签/acme双证书、Argo固定临时双隧道、warp出站；生成ClashMeta、SFA/SFI/SFW三合一配置+私有订阅链接推送，singbox电脑客户端
+* 【2024-02-29】[darknet-onion-links / darknet-onion-links-catalog](https://github.com/darknet-onion-links/darknet-onion-links-catalog) - TOR ONION DARKNET
+* 【2024-02-29】[HFUT-CHEATER / HFUTCheaterCollection](https://github.com/HFUT-CHEATER/HFUTCheaterCollection) - HFUT-Cheater-Collection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
+* 【2024-02-29】[M-3LAB / awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) - Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。
 * 【2024-02-22】[aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 * 【2024-02-22】[Mastodon-DE / blocklists](https://github.com/Mastodon-DE/blocklists) - Work in progress - created hastily for the February 15th Fedi Spam Attacks
 * 【2024-02-22】[familiar / Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + Forge.
