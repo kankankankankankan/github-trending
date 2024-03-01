@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-03-01】[Netflix / bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
+* 【2024-03-01】[Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
+* 【2024-03-01】[HumanAIGC / EMO](https://github.com/HumanAIGC/EMO) - 
+* 【2024-03-01】[SuperTux / supertux](https://github.com/SuperTux/supertux) - SuperTux source code
+* 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 * 【2024-02-29】[pmndrs / uikit](https://github.com/pmndrs/uikit) - 📱 user interfaces for react-three-fiber
 * 【2024-02-29】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
 * 【2024-02-29】[tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
@@ -270,6 +275,7 @@
 
 ## Java
 
+* 【2024-03-01】[axelor / axelor-open-suite](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
 * 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
 * 【2024-02-29】[junixapp / XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
@@ -328,6 +334,15 @@
 
 ## Python
 
+* 【2024-03-01】[qnguyen3 / chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
+* 【2024-03-01】[NUS-HPC-AI-Lab / OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) - OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference
+* 【2024-03-01】[evo-design / evo](https://github.com/evo-design/evo) - DNA foundation modeling from molecular to genome scale
+* 【2024-03-01】[pygments / pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
+* 【2024-03-01】[bruin-data / ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
+* 【2024-03-01】[sdv-dev / SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data
+* 【2024-03-01】[yerfor / GeneFacePlusPlus](https://github.com/yerfor/GeneFacePlusPlus) - GeneFace++: Generalized and Stable Real-Time 3D Talking Face Generation; Official Code
+* 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+* 【2024-03-01】[Steamauto / Steamauto](https://github.com/Steamauto/Steamauto) - 免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
 * 【2024-02-29】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - Detects reggaeton genre with Machine Learning and sends packets to disable BT speakers (hopefully)
 * 【2024-02-29】[Azure / PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 * 【2024-02-29】[Clouditera / SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
@@ -519,6 +534,10 @@
 
 ## Javascript
 
+* 【2024-03-01】[piercefreeman / mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
+* 【2024-03-01】[jerryc127 / hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
+* 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
+* 【2024-03-01】[ninjas-code-official / food-delivery-multivendor](https://github.com/ninjas-code-official/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2024-02-29】[jason5ng32 / OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal) - 使用日历软件订阅美股的财报日期
 * 【2024-02-29】[polyfillpolyfill / polyfill-library](https://github.com/polyfillpolyfill/polyfill-library) - NodeJS module to create polyfill bundles tailored to individual user-agents.
 * 【2024-02-29】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
@@ -621,6 +640,8 @@
 
 ## Go
 
+* 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
+* 【2024-03-01】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
 * 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
 * 【2024-02-22】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 * 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
@@ -695,6 +716,8 @@
 
 ## C
 
+* 【2024-03-01】[zhenrong-wang / hpc-now](https://github.com/zhenrong-wang/hpc-now) - A Cross-Platform, Multi-Cloud High-Performance Computing Platform
+* 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 * 【2024-02-29】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
 * 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-22】[codeplea / genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
@@ -766,6 +789,7 @@
 
 ## C++
 
+* 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 * 【2024-02-22】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
 * 【2024-02-22】[hyprwm / hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 * 【2024-02-15】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
@@ -838,6 +862,11 @@
 
 ## C#
 
+* 【2024-03-01】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
+* 【2024-03-01】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
+* 【2024-03-01】[VeritasSoftware / AspNetCore.ApiGateway](https://github.com/VeritasSoftware/AspNetCore.ApiGateway) - Asp Net Core Api Gateway Framework
+* 【2024-03-01】[dotnet-outdated / dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
+* 【2024-03-01】[moom825 / Discord-RAT-2.0](https://github.com/moom825/Discord-RAT-2.0) - Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules
 * 【2024-02-29】[ResetXPDR / MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) - 
 * 【2024-02-29】[AliveverCom / WinBrowserCrawler](https://github.com/AliveverCom/WinBrowserCrawler) - 
 * 【2024-02-29】[amantinband / clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 💪
@@ -916,6 +945,8 @@
 
 ## Html
 
+* 【2024-03-01】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
+* 【2024-03-01】[nrxschool / bootcamp-optimism](https://github.com/nrxschool/bootcamp-optimism) - 
 * 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
 * 【2024-02-29】[rg35xx-cfw / rg35xx-cfw.github.io](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io) - RG35XX Custom Firmware Documentation
 * 【2024-02-29】[gethyas / doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
@@ -999,6 +1030,7 @@
 
 ## Css
 
+* 【2024-03-01】[diydiagnostics / DesktopTestRepository](https://github.com/diydiagnostics/DesktopTestRepository) - this is a test repository for practicing using GitHub Desktop
 * 【2024-02-29】[kallewoof / bitcoin-faucet](https://github.com/kallewoof/bitcoin-faucet) - Bitcoin Faucet
 * 【2024-02-29】[gevendra2004 / gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
 * 【2024-02-29】[janily / background-erase](https://github.com/janily/background-erase) - Remove background in seconds.
@@ -1122,6 +1154,9 @@
 
 ## Unknown
 
+* 【2024-03-01】[microsoft / Security-101](https://github.com/microsoft/Security-101) - 7 Lessons, Kick-start Your Cybersecurity Learning.
+* 【2024-03-01】[AnsonZnl / interview-nav](https://github.com/AnsonZnl/interview-nav) - 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
+* 【2024-03-01】[Admol / SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
 * 【2024-02-29】[armankhondker / best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains Leetcode resources to help ace your coding interviews.
 * 【2024-02-29】[sina-moradbakhti / hiddify-wow-config](https://github.com/sina-moradbakhti/hiddify-wow-config) - 
 * 【2024-02-29】[yonggekkk / sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：多端口跳跃、自签/acme双证书、Argo固定临时双隧道、warp出站；生成ClashMeta、SFA/SFI/SFW三合一配置+私有订阅链接推送，singbox电脑客户端
