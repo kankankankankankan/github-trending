@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2024-03-08】[VAST-AI-Research / TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
+* 【2024-03-08】[HeyPuter / puter](https://github.com/HeyPuter/puter) - The Internet OS!
+* 【2024-03-08】[hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
+* 【2024-03-08】[vosen / ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
+* 【2024-03-08】[Crimson-Hawk / suyu](https://github.com/Crimson-Hawk/suyu) - 
+* 【2024-03-08】[PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
+* 【2024-03-08】[nikic / PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+* 【2024-03-08】[onevcat / Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
+* 【2024-03-08】[yuzu-mirror / yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
+* 【2024-03-08】[yuzu-mirror / yuzu-downloads](https://github.com/yuzu-mirror/yuzu-downloads) - Archived releases of yuzu (not part of the original organization)
+* 【2024-03-08】[huchenlei / ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes
+* 【2024-03-08】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2024-03-01】[Netflix / bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 * 【2024-03-01】[Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
 * 【2024-03-01】[HumanAIGC / EMO](https://github.com/HumanAIGC/EMO) - 
@@ -275,6 +287,7 @@
 
 ## Java
 
+* 【2024-03-08】[apache / flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
 * 【2024-03-01】[axelor / axelor-open-suite](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
 * 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
 * 【2024-02-29】[junixapp / XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…
@@ -334,6 +347,15 @@
 
 ## Python
 
+* 【2024-03-08】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
+* 【2024-03-08】[KimMeen / Time-LLM](https://github.com/KimMeen/Time-LLM) - [ICLR 2024] Official implementation of " 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models"
+* 【2024-03-08】[traceloop / openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+* 【2024-03-08】[QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+* 【2024-03-08】[flowtyone / ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR) - TripoSR custom node for comfyui
+* 【2024-03-08】[Ryujinx / release-channel-master](https://github.com/Ryujinx/release-channel-master) - Ryujinx's Release channel: master
+* 【2024-03-08】[anthropics / anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
+* 【2024-03-08】[mianayang / chromego_merge](https://github.com/mianayang/chromego_merge) - 绵羊的金属精炼器
+* 【2024-03-08】[apple / ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024
 * 【2024-03-01】[qnguyen3 / chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 * 【2024-03-01】[NUS-HPC-AI-Lab / OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) - OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference
 * 【2024-03-01】[evo-design / evo](https://github.com/evo-design/evo) - DNA foundation modeling from molecular to genome scale
@@ -534,6 +556,8 @@
 
 ## Javascript
 
+* 【2024-03-08】[0xsongsu / dailytask](https://github.com/0xsongsu/dailytask) - 每日签到任务
+* 【2024-03-08】[nksaraf / vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 * 【2024-03-01】[piercefreeman / mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
 * 【2024-03-01】[jerryc127 / hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
@@ -716,6 +740,9 @@
 
 ## C
 
+* 【2024-03-08】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
+* 【2024-03-08】[Lovepreet-Singh-LPSK / MultiThreadedProxyServerClient](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient) - 
+* 【2024-03-08】[neobrain / citra](https://github.com/neobrain/citra) - Nintendo 3DS emulator/debugger
 * 【2024-03-01】[zhenrong-wang / hpc-now](https://github.com/zhenrong-wang/hpc-now) - A Cross-Platform, Multi-Cloud High-Performance Computing Platform
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 * 【2024-02-29】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
@@ -789,6 +816,10 @@
 
 ## C++
 
+* 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
+* 【2024-03-08】[PabloMK7 / citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
+* 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
+* 【2024-03-08】[squid-cache / squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 * 【2024-02-22】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
 * 【2024-02-22】[hyprwm / hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
@@ -862,6 +893,8 @@
 
 ## C#
 
+* 【2024-03-08】[ravendb / ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
+* 【2024-03-08】[amakvana / SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader.
 * 【2024-03-01】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 * 【2024-03-01】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
 * 【2024-03-01】[VeritasSoftware / AspNetCore.ApiGateway](https://github.com/VeritasSoftware/AspNetCore.ApiGateway) - Asp Net Core Api Gateway Framework
@@ -945,6 +978,11 @@
 
 ## Html
 
+* 【2024-03-08】[osumatu / terorist-quiz](https://github.com/osumatu/terorist-quiz) - teroristini dogru tani turkiye
+* 【2024-03-08】[GoulartNogueira / BadUI](https://github.com/GoulartNogueira/BadUI) - Inspired by r/badUIbattles (a joke subreddit for intentionally bad UI designs). This repository aggregates all best (or worst?) bad-UI designs.
+* 【2024-03-08】[hundredblocks / transcription_demo](https://github.com/hundredblocks/transcription_demo) - 
+* 【2024-03-08】[citra-emu / citra-web](https://github.com/citra-emu/citra-web) - Citra website source code
+* 【2024-03-08】[Guyungy / damaihelper](https://github.com/Guyungy/damaihelper) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
 * 【2024-03-01】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
 * 【2024-03-01】[nrxschool / bootcamp-optimism](https://github.com/nrxschool/bootcamp-optimism) - 
 * 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
@@ -1030,6 +1068,7 @@
 
 ## Css
 
+* 【2024-03-08】[pineappleEA / pineappleEA.github.io](https://github.com/pineappleEA/pineappleEA.github.io) - Website made to store EA links for Yuzu
 * 【2024-03-01】[diydiagnostics / DesktopTestRepository](https://github.com/diydiagnostics/DesktopTestRepository) - this is a test repository for practicing using GitHub Desktop
 * 【2024-02-29】[kallewoof / bitcoin-faucet](https://github.com/kallewoof/bitcoin-faucet) - Bitcoin Faucet
 * 【2024-02-29】[gevendra2004 / gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
@@ -1154,6 +1193,14 @@
 
 ## Unknown
 
+* 【2024-03-08】[josejesusguzman / acordeon-sc900](https://github.com/josejesusguzman/acordeon-sc900) - Acordeón para pasar la certificación SC-900 e iniciar tu camino en la ciberseguridad
+* 【2024-03-08】[RemoteWLB / remote-jobs](https://github.com/RemoteWLB/remote-jobs) - A project for collecting remote jobs, updated daily 👩‍💻
+* 【2024-03-08】[spring-office-hours / resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) - Resources for Learning Spring
+* 【2024-03-08】[xiaohucode / yidaRule](https://github.com/xiaohucode/yidaRule) - yida规则仓库
+* 【2024-03-08】[zkSync-Community-Hub / zksync-developers](https://github.com/zkSync-Community-Hub/zksync-developers) - 
+* 【2024-03-08】[zkSync-Community-Hub / zksync-community](https://github.com/zkSync-Community-Hub/zksync-community) - 
+* 【2024-03-08】[datawhalechina / so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型理论基础
+* 【2024-03-08】[amusi / CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 * 【2024-03-01】[microsoft / Security-101](https://github.com/microsoft/Security-101) - 7 Lessons, Kick-start Your Cybersecurity Learning.
 * 【2024-03-01】[AnsonZnl / interview-nav](https://github.com/AnsonZnl/interview-nav) - 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
 * 【2024-03-01】[Admol / SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
