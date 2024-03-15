@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2024-03-15】[tiangolo / full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+* 【2024-03-15】[teableio / teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
+* 【2024-03-15】[krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
+* 【2024-03-15】[gleam-lang / gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+* 【2024-03-15】[Deeptrain-Community / chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+* 【2024-03-15】[BAAI-Agents / Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
+* 【2024-03-15】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
+* 【2024-03-15】[deepseek-ai / DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
+* 【2024-03-15】[ai-boost / awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+* 【2024-03-15】[ScoopInstaller / Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
+* 【2024-03-15】[clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 * 【2024-03-08】[VAST-AI-Research / TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 * 【2024-03-08】[HeyPuter / puter](https://github.com/HeyPuter/puter) - The Internet OS!
 * 【2024-03-08】[hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
@@ -287,6 +298,8 @@
 
 ## Java
 
+* 【2024-03-15】[liyupi / yu-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
+* 【2024-03-15】[spring-projects / spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 * 【2024-03-08】[apache / flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
 * 【2024-03-01】[axelor / axelor-open-suite](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
 * 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
@@ -347,6 +360,15 @@
 
 ## Python
 
+* 【2024-03-15】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
+* 【2024-03-15】[levihsu / OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on
+* 【2024-03-15】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
+* 【2024-03-15】[Ableton / maxdevtools](https://github.com/Ableton/maxdevtools) - 
+* 【2024-03-15】[ELLA-Diffusion / ELLA](https://github.com/ELLA-Diffusion/ELLA) - ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
+* 【2024-03-15】[arcee-ai / mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
+* 【2024-03-15】[materialsproject / pymatgen](https://github.com/materialsproject/pymatgen) - Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+* 【2024-03-15】[PygmalionAI / aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
+* 【2024-03-15】[jackhawks / rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
 * 【2024-03-08】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
 * 【2024-03-08】[KimMeen / Time-LLM](https://github.com/KimMeen/Time-LLM) - [ICLR 2024] Official implementation of " 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models"
 * 【2024-03-08】[traceloop / openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
@@ -556,6 +578,8 @@
 
 ## Javascript
 
+* 【2024-03-15】[obsidianmd / jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
+* 【2024-03-15】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 * 【2024-03-08】[0xsongsu / dailytask](https://github.com/0xsongsu/dailytask) - 每日签到任务
 * 【2024-03-08】[nksaraf / vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 * 【2024-03-01】[piercefreeman / mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
@@ -664,6 +688,7 @@
 
 ## Go
 
+* 【2024-03-15】[dream-mo / prom-elastic-alert](https://github.com/dream-mo/prom-elastic-alert) - Prometheus & Alerting With ElasticSearch
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 * 【2024-03-01】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
 * 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
@@ -740,6 +765,10 @@
 
 ## C
 
+* 【2024-03-15】[Next-Flip / Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper firmware
+* 【2024-03-15】[ginsudev / YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - The best tweak for YouTube Music iOS.
+* 【2024-03-15】[AlexGalhardo / Software-Engineering](https://github.com/AlexGalhardo/Software-Engineering) - Learning Software Engineering 🐢
+* 【2024-03-15】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
 * 【2024-03-08】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
 * 【2024-03-08】[Lovepreet-Singh-LPSK / MultiThreadedProxyServerClient](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient) - 
 * 【2024-03-08】[neobrain / citra](https://github.com/neobrain/citra) - Nintendo 3DS emulator/debugger
@@ -816,6 +845,10 @@
 
 ## C++
 
+* 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
+* 【2024-03-15】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
+* 【2024-03-15】[Wh04m1001 / GamingServiceEoP](https://github.com/Wh04m1001/GamingServiceEoP) - 
+* 【2024-03-15】[suchetanrs / ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
 * 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
 * 【2024-03-08】[PabloMK7 / citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
 * 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
@@ -893,6 +926,9 @@
 
 ## C#
 
+* 【2024-03-15】[betwixt-labs / bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
+* 【2024-03-15】[dbrizov / NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
+* 【2024-03-15】[ulomaramma / JWTAuthenticationWebAPI](https://github.com/ulomaramma/JWTAuthenticationWebAPI) - 
 * 【2024-03-08】[ravendb / ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 * 【2024-03-08】[amakvana / SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader.
 * 【2024-03-01】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
@@ -978,6 +1014,8 @@
 
 ## Html
 
+* 【2024-03-15】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
+* 【2024-03-15】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-08】[osumatu / terorist-quiz](https://github.com/osumatu/terorist-quiz) - teroristini dogru tani turkiye
 * 【2024-03-08】[GoulartNogueira / BadUI](https://github.com/GoulartNogueira/BadUI) - Inspired by r/badUIbattles (a joke subreddit for intentionally bad UI designs). This repository aggregates all best (or worst?) bad-UI designs.
 * 【2024-03-08】[hundredblocks / transcription_demo](https://github.com/hundredblocks/transcription_demo) - 
@@ -1068,6 +1106,14 @@
 
 ## Css
 
+* 【2024-03-15】[datawhalechina / hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent) - A tutorial to quickly help you understand the concept of agent and muti-agent and get started with coding development
+* 【2024-03-15】[seeli-teaching / js-devcontainer-level-2](https://github.com/seeli-teaching/js-devcontainer-level-2) - 
+* 【2024-03-15】[vishalsodani / trackactivity](https://github.com/vishalsodani/trackactivity) - Django Sample App
+* 【2024-03-15】[artsyfriedchicken / EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
+* 【2024-03-15】[sarbajitD-24 / zon-coffee](https://github.com/sarbajitD-24/zon-coffee) - zon-coffee
+* 【2024-03-15】[bradtraversy / tailwind-course-projects](https://github.com/bradtraversy/tailwind-course-projects) - Projects from my TailwindCSS course
+* 【2024-03-15】[jumanjiman / puppetcamp_nyc_2013](https://github.com/jumanjiman/puppetcamp_nyc_2013) - My preso for $subject
+* 【2024-03-15】[Web-programming-4022 / css-Gaming-website](https://github.com/Web-programming-4022/css-Gaming-website) - Second practice - including CSS attributes.
 * 【2024-03-08】[pineappleEA / pineappleEA.github.io](https://github.com/pineappleEA/pineappleEA.github.io) - Website made to store EA links for Yuzu
 * 【2024-03-01】[diydiagnostics / DesktopTestRepository](https://github.com/diydiagnostics/DesktopTestRepository) - this is a test repository for practicing using GitHub Desktop
 * 【2024-02-29】[kallewoof / bitcoin-faucet](https://github.com/kallewoof/bitcoin-faucet) - Bitcoin Faucet
@@ -1193,6 +1239,8 @@
 
 ## Unknown
 
+* 【2024-03-15】[niucnet / jinricp](https://github.com/niucnet/jinricp) - 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 | #jinricp
+* 【2024-03-15】[subat0mik / Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 * 【2024-03-08】[josejesusguzman / acordeon-sc900](https://github.com/josejesusguzman/acordeon-sc900) - Acordeón para pasar la certificación SC-900 e iniciar tu camino en la ciberseguridad
 * 【2024-03-08】[RemoteWLB / remote-jobs](https://github.com/RemoteWLB/remote-jobs) - A project for collecting remote jobs, updated daily 👩‍💻
 * 【2024-03-08】[spring-office-hours / resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) - Resources for Learning Spring
