@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-04-01】[jasonppy / VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
+* 【2024-04-01】[midday-ai / midday](https://github.com/midday-ai/midday) - Run your business smarter.
+* 【2024-04-01】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
+* 【2024-04-01】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
+* 【2024-04-01】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
+* 【2024-04-01】[adrianhajdin / zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 * 【2024-03-29】[OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 * 【2024-03-29】[harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频
 * 【2024-03-29】[fudan-generative-vision / champ](https://github.com/fudan-generative-vision/champ) - Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance
@@ -316,6 +322,9 @@
 
 ## Java
 
+* 【2024-04-01】[ReVanced / revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
+* 【2024-04-01】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
+* 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 * 【2024-03-29】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
 * 【2024-03-29】[algorithmzuo / algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
 * 【2024-03-29】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel spring boot starter
@@ -381,6 +390,14 @@
 
 ## Python
 
+* 【2024-04-01】[TencentARC / BrushNet](https://github.com/TencentARC/BrushNet) - The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion"
+* 【2024-04-01】[google-deepmind / long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
+* 【2024-04-01】[SunoAI-API / Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.
+* 【2024-04-01】[NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+* 【2024-04-01】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
+* 【2024-04-01】[MsLolita / grass](https://github.com/MsLolita/grass) - grass-mining
+* 【2024-04-01】[databricks / dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
+* 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 * 【2024-03-29】[MatthewKuKanich / FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.
 * 【2024-03-29】[agiresearch / AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
 * 【2024-03-29】[intel-analytics / ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.
@@ -613,6 +630,12 @@
 
 ## Javascript
 
+* 【2024-04-01】[eduardoleao052 / js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
+* 【2024-04-01】[cmliu / WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
+* 【2024-04-01】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 刷市场所有的代币
+* 【2024-04-01】[polyfillpolyfill / fetch](https://github.com/polyfillpolyfill/fetch) - A window.fetch JavaScript polyfill.
+* 【2024-04-01】[justimyhxu / GRM](https://github.com/justimyhxu/GRM) - Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
+* 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 * 【2024-03-29】[danni-cool / wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) - http 请求驱动的微信机器人
 * 【2024-03-22】[JaimeObregon / observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
 * 【2024-03-22】[typicode / mistcss](https://github.com/typicode/mistcss) - Write atomic React components using only CSS! (JS-from-CSS™) 🌬️
@@ -729,6 +752,9 @@
 
 ## Go
 
+* 【2024-04-01】[TomDoesTech / GOTTH](https://github.com/TomDoesTech/GOTTH) - 
+* 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
+* 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 * 【2024-03-29】[charmbracelet / freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 * 【2024-03-22】[omriharel / deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 * 【2024-03-22】[version-fox / vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -809,6 +835,8 @@
 
 ## C
 
+* 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
+* 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-03-29】[valkey-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
 * 【2024-03-29】[Notselwyn / CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.
 * 【2024-03-29】[let-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
@@ -895,6 +923,9 @@
 
 ## C++
 
+* 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
+* 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open-source, high-performance SQL vector database built on ClickHouse.
+* 【2024-04-01】[kasmtech / KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 * 【2024-03-22】[rive-app / rive-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
 * 【2024-03-22】[RedefiningReality / Cobalt-Strike](https://github.com/RedefiningReality/Cobalt-Strike) - Various resources to enhance Cobalt Strike's functionality and its ability to evade antivirus/EDR detection
 * 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
@@ -978,6 +1009,7 @@
 
 ## C#
 
+* 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
 * 【2024-03-29】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
 * 【2024-03-29】[Preeaaw / Aviator-Predictor-FULL](https://github.com/Preeaaw/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
 * 【2024-03-22】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1073,6 +1105,9 @@
 
 ## Html
 
+* 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
+* 【2024-04-01】[TypingMind / typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
+* 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
 * 【2024-03-29】[hickeng / financial](https://github.com/hickeng/financial) - Repository containing financial spreadsheets
 * 【2024-03-29】[Winnie09 / GPTCelltype](https://github.com/Winnie09/GPTCelltype) - 
 * 【2024-03-29】[arcba / DDS-Ejercicio-Matriculacion](https://github.com/arcba/DDS-Ejercicio-Matriculacion) - Created with StackBlitz ⚡️
@@ -1170,6 +1205,11 @@
 
 ## Css
 
+* 【2024-04-01】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
+* 【2024-04-01】[smolnp / IPTVru](https://github.com/smolnp/IPTVru) - IPTV лист на русском
+* 【2024-04-01】[gohugoio / hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
+* 【2024-04-01】[CyanVoxel / Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
+* 【2024-04-01】[ferdium / ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
 * 【2024-03-29】[BingyanStudio / LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
 * 【2024-03-29】[100xdevs-cohort-2 / paytm](https://github.com/100xdevs-cohort-2/paytm) - 
 * 【2024-03-29】[a9fm / a9fm.github.io](https://github.com/a9fm/a9fm.github.io) - 
@@ -1309,6 +1349,12 @@
 
 ## Unknown
 
+* 【2024-04-01】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
+* 【2024-04-01】[KushalVijay / GetHiredRoadmap2024](https://github.com/KushalVijay/GetHiredRoadmap2024) - 
+* 【2024-04-01】[knassar702 / awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
+* 【2024-04-01】[BINANCECONTRACT / How-to-Create-BEP20-Token](https://github.com/BINANCECONTRACT/How-to-Create-BEP20-Token) - Step By Step Guide to How to Create BEP20 Token and list them on PANCAKE SWAP.
+* 【2024-04-01】[ashemery / malware-tools](https://github.com/ashemery/malware-tools) - A list of useful tools for Malware Analysis (will be updated regularly)
+* 【2024-04-01】[BINANCECONTRACT / Create-BEP20-Meme-Token](https://github.com/BINANCECONTRACT/Create-BEP20-Meme-Token) - Step to Step Guide for how to create meme token in bsc/bep20.
 * 【2024-03-29】[systemdesign42 / system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
 * 【2024-03-29】[Picsart-AI-Research / StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 * 【2024-03-29】[RawChat / RawChat](https://github.com/RawChat/RawChat) - 
