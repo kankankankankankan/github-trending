@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-04-08】[HardhatChad / ore-cli](https://github.com/HardhatChad/ore-cli) - 
+* 【2024-04-08】[HardhatChad / ore](https://github.com/HardhatChad/ore) - 
+* 【2024-04-08】[aurora-develop / aurora](https://github.com/aurora-develop/aurora) - free
+* 【2024-04-08】[myshell-ai / JetMoE](https://github.com/myshell-ai/JetMoE) - Reaching LLaMA2 Performance with 0.1M Dollars
+* 【2024-04-08】[ixartz / SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
+* 【2024-04-08】[cloudflare / orange](https://github.com/cloudflare/orange) - 
+* 【2024-04-08】[availproject / avail-light](https://github.com/availproject/avail-light) - 
+* 【2024-04-08】[availproject / avail](https://github.com/availproject/avail) - 
+* 【2024-04-08】[FoundationVision / VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
+* 【2024-04-08】[pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue) - 
 * 【2024-04-01】[jasonppy / VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 * 【2024-04-01】[midday-ai / midday](https://github.com/midday-ai/midday) - Run your business smarter.
 * 【2024-04-01】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
@@ -322,6 +332,8 @@
 
 ## Java
 
+* 【2024-04-08】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
+* 【2024-04-08】[xspanger3770 / GlobalQuake](https://github.com/xspanger3770/GlobalQuake) - Experimental application for monitoring earthquakes world-wide in near real time. Capable of issuing its own earthquake early warnings (EEW).
 * 【2024-04-01】[ReVanced / revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * 【2024-04-01】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
 * 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
@@ -390,6 +402,14 @@
 
 ## Python
 
+* 【2024-04-08】[PhonePe / mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
+* 【2024-04-08】[princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+* 【2024-04-08】[nashsu / FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.
+* 【2024-04-08】[facebookresearch / schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
+* 【2024-04-08】[stanfordnlp / pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
+* 【2024-04-08】[Marker-Inc-Korea / AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool - Find optimal RAG pipeline for your own data.
+* 【2024-04-08】[KrisCris / Palworld-Pal-Editor](https://github.com/KrisCris/Palworld-Pal-Editor) - Palworld Pal Editor, the tool for Adding, Deleting, and Modifying Pals in Palworld Game Save, supports running on Docker, GUI, WebUI, and Cli.
+* 【2024-04-08】[YaoFANGUK / video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 * 【2024-04-01】[TencentARC / BrushNet](https://github.com/TencentARC/BrushNet) - The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion"
 * 【2024-04-01】[google-deepmind / long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
 * 【2024-04-01】[SunoAI-API / Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.
@@ -630,6 +650,10 @@
 
 ## Javascript
 
+* 【2024-04-08】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+* 【2024-04-08】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo After Forking
+* 【2024-04-08】[curtisf / logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users.
+* 【2024-04-08】[kolbytn / mindcraft](https://github.com/kolbytn/mindcraft) - 
 * 【2024-04-01】[eduardoleao052 / js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
 * 【2024-04-01】[cmliu / WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
 * 【2024-04-01】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 刷市场所有的代币
@@ -752,6 +776,10 @@
 
 ## Go
 
+* 【2024-04-08】[MartialBE / one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+* 【2024-04-08】[Calcium-Ion / new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！
+* 【2024-04-08】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
+* 【2024-04-08】[nilsherzig / LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 * 【2024-04-01】[TomDoesTech / GOTTH](https://github.com/TomDoesTech/GOTTH) - 
 * 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
@@ -835,6 +863,9 @@
 
 ## C
 
+* 【2024-04-08】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
+* 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+* 【2024-04-08】[fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 * 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-03-29】[valkey-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
@@ -923,6 +954,7 @@
 
 ## C++
 
+* 【2024-04-08】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 * 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
 * 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open-source, high-performance SQL vector database built on ClickHouse.
 * 【2024-04-01】[kasmtech / KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -1009,6 +1041,9 @@
 
 ## C#
 
+* 【2024-04-08】[daleao / modular-overhaul](https://github.com/daleao/modular-overhaul) - 
+* 【2024-04-08】[zoriya / Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
+* 【2024-04-08】[stanuwu / PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat) - Cheat for Pixel Gun 3D PC
 * 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
 * 【2024-03-29】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
 * 【2024-03-29】[Preeaaw / Aviator-Predictor-FULL](https://github.com/Preeaaw/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
@@ -1105,6 +1140,7 @@
 
 ## Html
 
+* 【2024-04-08】[RedByte1337 / GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
 * 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
 * 【2024-04-01】[TypingMind / typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
 * 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
@@ -1205,6 +1241,9 @@
 
 ## Css
 
+* 【2024-04-08】[rishabhnmishra / Portfolio-Website-Template](https://github.com/rishabhnmishra/Portfolio-Website-Template) - Portfolio Website Template for Beginners using HTML, CSS and JavaScript
+* 【2024-04-08】[CyanVoxel / Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
+* 【2024-04-08】[techeonn / lifeline-Shradha-kapoor](https://github.com/techeonn/lifeline-Shradha-kapoor) - 
 * 【2024-04-01】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
 * 【2024-04-01】[smolnp / IPTVru](https://github.com/smolnp/IPTVru) - IPTV лист на русском
 * 【2024-04-01】[gohugoio / hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
@@ -1349,6 +1388,13 @@
 
 ## Unknown
 
+* 【2024-04-08】[krishnaik06 / AI-Engineer-Roadmap-2024](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024) - 
+* 【2024-04-08】[avito-tech / backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024) - 
+* 【2024-04-08】[Hakhka / kakaakak](https://github.com/Hakhka/kakaakak) - 
+* 【2024-04-08】[nera-nikolayeva / Rainbow6s](https://github.com/nera-nikolayeva/Rainbow6s) - PASS - 1234
+* 【2024-04-08】[LAbroski234 / labroe4432](https://github.com/LAbroski234/labroe4432) - 
+* 【2024-04-08】[OpenBMB / Eurus](https://github.com/OpenBMB/Eurus) - 
+* 【2024-04-08】[xioacd99 / study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 * 【2024-04-01】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
 * 【2024-04-01】[KushalVijay / GetHiredRoadmap2024](https://github.com/KushalVijay/GetHiredRoadmap2024) - 
 * 【2024-04-01】[knassar702 / awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
