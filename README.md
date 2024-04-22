@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2024-04-22】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+* 【2024-04-22】[meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
+* 【2024-04-22】[meta-llama / codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
+* 【2024-04-22】[code100x / chess](https://github.com/code100x/chess) - A multiplayer chess platform
+* 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
+* 【2024-04-22】[langchain-ai / langgraph](https://github.com/langchain-ai/langgraph) - 
+* 【2024-04-22】[Aikoyori / ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+* 【2024-04-22】[sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
+* 【2024-04-22】[meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
+* 【2024-04-22】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+* 【2024-04-22】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 * 【2024-04-15】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 * 【2024-04-15】[stanford-oval / storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 * 【2024-04-15】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
@@ -345,6 +356,7 @@
 
 ## Java
 
+* 【2024-04-22】[epicstudios856 / Vectras-VM-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-04-15】[hebian1994 / cloud2024](https://github.com/hebian1994/cloud2024) - 
 * 【2024-04-15】[RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
 * 【2024-04-15】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
@@ -419,6 +431,13 @@
 
 ## Python
 
+* 【2024-04-22】[pytorch / torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
+* 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+* 【2024-04-22】[liming-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
+* 【2024-04-22】[embeddings-benchmark / mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
+* 【2024-04-22】[google-deepmind / penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
+* 【2024-04-22】[meta-llama / llama](https://github.com/meta-llama/llama) - Inference code for Llama models
+* 【2024-04-22】[zsokami / ACL4SSR](https://github.com/zsokami/ACL4SSR) - 自定义 订阅转换 配置转换 规则转换 的远程配置。正则匹配大小写、简繁体，更好的匹配中转、IPLC节点。自带旗帜 emoji 添加逻辑，原名不包含旗帜 emoji 才添加，原名已包含旗帜 emoji 则不添加。扩展 APP 广告拦截规则，对某些影视/动漫 APP 有加速奇效（附 hosts 文件）。修改自 ACL4SSR_Online_Full.ini
 * 【2024-04-15】[OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities
 * 【2024-04-15】[chengaopan / AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
 * 【2024-04-08】[PhonePe / mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
@@ -669,6 +688,11 @@
 
 ## Javascript
 
+* 【2024-04-22】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
+* 【2024-04-22】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
+* 【2024-04-22】[archtaurus / RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
+* 【2024-04-22】[surfbryce / beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
+* 【2024-04-22】[vis-three / scene-editor](https://github.com/vis-three/scene-editor) - vis-three框架衍生出的全自定义web3D场景编辑器
 * 【2024-04-15】[gezhaoyou / picprose](https://github.com/gezhaoyou/picprose) - PicProse is a better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
 * 【2024-04-15】[adrianhajdin / aora](https://github.com/adrianhajdin/aora) - Build your first mobile application
 * 【2024-04-15】[zed-industries / extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
@@ -801,6 +825,10 @@
 
 ## Go
 
+* 【2024-04-22】[danvergara / morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
+* 【2024-04-22】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
+* 【2024-04-22】[bom-squad / protobom](https://github.com/bom-squad/protobom) - A universal SBOM representation in protocol buffers
+* 【2024-04-22】[IceBearAI / LLM-And-More](https://github.com/IceBearAI/LLM-And-More) - LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。
 * 【2024-04-15】[grafana / alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 * 【2024-04-15】[semaphoreui / semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 * 【2024-04-15】[FyshOS / fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
@@ -892,6 +920,9 @@
 
 ## C
 
+* 【2024-04-22】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
+* 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
+* 【2024-04-22】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 * 【2024-04-15】[antirez / linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 * 【2024-04-08】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 * 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -984,6 +1015,8 @@
 
 ## C++
 
+* 【2024-04-22】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
+* 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
 * 【2024-04-15】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++
 * 【2024-04-08】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 * 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
@@ -1072,6 +1105,7 @@
 
 ## C#
 
+* 【2024-04-22】[CombatExtended-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
 * 【2024-04-15】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
 * 【2024-04-15】[peass-ng / PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2024-04-15】[glzr-io / glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
@@ -1278,6 +1312,8 @@
 
 ## Css
 
+* 【2024-04-22】[codenihar / react-love-letter](https://github.com/codenihar/react-love-letter) - 
+* 【2024-04-22】[shitiven / GitPower](https://github.com/shitiven/GitPower) - A fast, secure and stable solution based on Python & Django
 * 【2024-04-15】[mahfuz0001 / onyxium-sass](https://github.com/mahfuz0001/onyxium-sass) - Become more active with our psychologist AI
 * 【2024-04-15】[pyOpenSci / python-package-guide](https://github.com/pyOpenSci/python-package-guide) - scientific Python package recommendations & guidance curated by pyOpenSci
 * 【2024-04-15】[10-5-pursuit / lab-react-state-objects](https://github.com/10-5-pursuit/lab-react-state-objects) - 
@@ -1428,6 +1464,11 @@
 
 ## Unknown
 
+* 【2024-04-22】[hegdepavankumar / Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience.
+* 【2024-04-22】[rbhatia46 / Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
+* 【2024-04-22】[CryingMan666 / eternal-nodes](https://github.com/CryingMan666/eternal-nodes) - 手机预览往下滑❤️一个能每天自动生成高速机场的小站❤️免费节点/机场/白嫖/订阅/翻墙/加速器/ssr/v2ray/科学上网/trojan/hysteria2/VPN/代理/proxy/魔法/shadowsocks/socks5/推荐/安卓/梯子
+* 【2024-04-22】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+* 【2024-04-22】[CLOUDUH / dual-wechat](https://github.com/CLOUDUH/dual-wechat) - 如何在Mac上通过脚本实现微信双开，并通过自动操作创建应用程序，修改图标后直接当作第二个微信使用，无需打开终端输入代码，且双开后无终端出现。
 * 【2024-04-15】[jixserver / free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * 【2024-04-15】[microsoft / rho](https://github.com/microsoft/rho) - Repo for Rho-1: Token-level Data Selection & Selective Pretraining of LLMs.
 * 【2024-04-15】[henry123-boy / SpaTracker](https://github.com/henry123-boy/SpaTracker) - 
