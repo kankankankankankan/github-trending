@@ -8,6 +8,20 @@
 
 ## All language
 
+* 【2024-04-29】[microsoft / MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+* 【2024-04-29】[SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
+* 【2024-04-29】[apple / corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
+* 【2024-04-29】[TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system.
+* 【2024-04-29】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
+* 【2024-04-29】[zyronon / douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile
+* 【2024-04-29】[Doriandarko / maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
+* 【2024-04-29】[adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
+* 【2024-04-29】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
+* 【2024-04-29】[EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+* 【2024-04-29】[plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) - Simple internet performance tester written in Python
+* 【2024-04-29】[OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+* 【2024-04-29】[yisol / IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
+* 【2024-04-29】[dcharatan / flowmap](https://github.com/dcharatan/flowmap) - Code for "FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent" by Cameron Smith*, David Charatan*, Ayush Tewari, and Vincent Sitzmann
 * 【2024-04-22】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 * 【2024-04-22】[meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2024-04-22】[meta-llama / codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
@@ -356,6 +370,8 @@
 
 ## Java
 
+* 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced.
+* 【2024-04-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-04-22】[epicstudios856 / Vectras-VM-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-04-15】[hebian1994 / cloud2024](https://github.com/hebian1994/cloud2024) - 
 * 【2024-04-15】[RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
@@ -431,6 +447,11 @@
 
 ## Python
 
+* 【2024-04-29】[SYSTRAN / faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
+* 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
+* 【2024-04-29】[plutobell / teelebot](https://github.com/plutobell/teelebot) - Python实现的Telegram Bot机器人框架，具有插件系统，插件支持热更新和热装载
+* 【2024-04-29】[pangao1990 / PPX](https://github.com/pangao1990/PPX) - 基于 JavaScript 和 Python，一键生成 macOS 和 Windows 平台客户端应用
 * 【2024-04-22】[pytorch / torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
 * 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 * 【2024-04-22】[liming-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
@@ -688,6 +709,8 @@
 
 ## Javascript
 
+* 【2024-04-29】[Lunakepio / Mario-Bros.js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
+* 【2024-04-29】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-22】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
 * 【2024-04-22】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
 * 【2024-04-22】[archtaurus / RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
@@ -825,6 +848,7 @@
 
 ## Go
 
+* 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 * 【2024-04-22】[danvergara / morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 * 【2024-04-22】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
 * 【2024-04-22】[bom-squad / protobom](https://github.com/bom-squad/protobom) - A universal SBOM representation in protocol buffers
@@ -920,6 +944,7 @@
 
 ## C
 
+* 【2024-04-29】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
 * 【2024-04-22】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 * 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 * 【2024-04-22】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
@@ -1105,6 +1130,10 @@
 
 ## C#
 
+* 【2024-04-29】[TheCod3rYouTube / PS5NorModifier](https://github.com/TheCod3rYouTube/PS5NorModifier) - The PS5 Nor Modifier is an easy to use Windows based application to rewrite your PS5 NOR file. This can be useful if your NOR is corrupt, or if you have a disc edition console that needs to be converted to digital in order to bypass the disc drive checks
+* 【2024-04-29】[bbradson / Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
+* 【2024-04-29】[Voland163 / TFTV](https://github.com/Voland163/TFTV) - Terror from the Void mod for Phoenix Point
+* 【2024-04-29】[stayintarkov / SIT-Mod-Ports](https://github.com/stayintarkov/SIT-Mod-Ports) - 
 * 【2024-04-22】[CombatExtended-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
 * 【2024-04-15】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
 * 【2024-04-15】[peass-ng / PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -1208,6 +1237,12 @@
 
 ## Html
 
+* 【2024-04-29】[KingsGambitLab / Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes) - This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes.
+* 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
+* 【2024-04-29】[SajedHassan / CSEx61-dockerized-pintos](https://github.com/SajedHassan/CSEx61-dockerized-pintos) - 
+* 【2024-04-29】[codewithsadee / grilli](https://github.com/codewithsadee/grilli) - Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+* 【2024-04-29】[elidianaandrade / dio-lab-portfolio](https://github.com/elidianaandrade/dio-lab-portfolio) - Repositório do lab Construindo seu Portfólio Front-end do Zero da Digital Innovation One.
+* 【2024-04-29】[reisxd / TizenBrew](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * 【2024-04-15】[naxiaoduo / 1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
 * 【2024-04-15】[jbloomAus / SAELens](https://github.com/jbloomAus/SAELens) - Training Sparse Autoencoders on Language Models
 * 【2024-04-15】[tomitokko / ai-blog-article-generator](https://github.com/tomitokko/ai-blog-article-generator) - 
@@ -1312,6 +1347,10 @@
 
 ## Css
 
+* 【2024-04-29】[Yandex-Practicum / go_final_project](https://github.com/Yandex-Practicum/go_final_project) - 
+* 【2024-04-29】[Zproger / bspwm-dotfiles](https://github.com/Zproger/bspwm-dotfiles) - A minimalistic Arch Linux build that is designed to make your development easier and faster
+* 【2024-04-29】[McShelby / hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
+* 【2024-04-29】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
 * 【2024-04-22】[codenihar / react-love-letter](https://github.com/codenihar/react-love-letter) - 
 * 【2024-04-22】[shitiven / GitPower](https://github.com/shitiven/GitPower) - A fast, secure and stable solution based on Python & Django
 * 【2024-04-15】[mahfuz0001 / onyxium-sass](https://github.com/mahfuz0001/onyxium-sass) - Become more active with our psychologist AI
@@ -1464,6 +1503,11 @@
 
 ## Unknown
 
+* 【2024-04-29】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
+* 【2024-04-29】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
+* 【2024-04-29】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+* 【2024-04-29】[nodelrd / ChatGPT-Next-Web-PLUS](https://github.com/nodelrd/ChatGPT-Next-Web-PLUS) - 基于chatgpt-next-web 增强版本，后台管理，接入知识库等。将按需持续接入midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts，支持gpt-4-all，支持GPTs商店。
+* 【2024-04-29】[WallKiller-glitch / V2raySSSSRShare](https://github.com/WallKiller-glitch/V2raySSSSRShare) - 科学上网，vpn机场推荐，支持shadowrocket，ss, ssr, v2ray, trojan, clash,clashr,需要自取（每日更新）
 * 【2024-04-22】[hegdepavankumar / Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience.
 * 【2024-04-22】[rbhatia46 / Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 * 【2024-04-22】[CryingMan666 / eternal-nodes](https://github.com/CryingMan666/eternal-nodes) - 手机预览往下滑❤️一个能每天自动生成高速机场的小站❤️免费节点/机场/白嫖/订阅/翻墙/加速器/ssr/v2ray/科学上网/trojan/hysteria2/VPN/代理/proxy/魔法/shadowsocks/socks5/推荐/安卓/梯子
