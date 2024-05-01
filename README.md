@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-05-01】[ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+* 【2024-05-01】[Kludex / fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
+* 【2024-05-01】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
+* 【2024-05-01】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+* 【2024-05-01】[obhq / jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
+* 【2024-05-01】[rejunity / z80-open-silicon](https://github.com/rejunity/z80-open-silicon) - Z80 open-source silicon. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.
+* 【2024-05-01】[JackAILab / ConsistentID](https://github.com/JackAILab/ConsistentID) - Customized ID Consistent for human
+* 【2024-05-01】[Innei / Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
+* 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 * 【2024-04-29】[microsoft / MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 * 【2024-04-29】[SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 * 【2024-04-29】[apple / corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
@@ -370,6 +379,8 @@
 
 ## Java
 
+* 【2024-05-01】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native fork of Kafka by separating storage to S3. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+* 【2024-05-01】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 * 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced.
 * 【2024-04-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-04-22】[epicstudios856 / Vectras-VM-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
@@ -447,6 +458,11 @@
 
 ## Python
 
+* 【2024-05-01】[microsoft / FILM](https://github.com/microsoft/FILM) - Official repo for "Make Your LLM Fully Utilize the Context"
+* 【2024-05-01】[truefoundry / cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
+* 【2024-05-01】[PixArt-alpha / PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
+* 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+* 【2024-05-01】[vanna-ai / vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 * 【2024-04-29】[SYSTRAN / faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 * 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
 * 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
@@ -709,6 +725,8 @@
 
 ## Javascript
 
+* 【2024-05-01】[MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+* 【2024-05-01】[virus010101 / linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|app论坛是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS项目，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛app完整功能
 * 【2024-04-29】[Lunakepio / Mario-Bros.js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
 * 【2024-04-29】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-22】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
@@ -944,6 +962,11 @@
 
 ## C
 
+* 【2024-05-01】[jstrosch / learning-malware-analysis](https://github.com/jstrosch/learning-malware-analysis) - This repository contains sample programs that mimick behavior found in real-world malware. The goal is to provide source code that can be compiled and used for learning purposes, without having to worry about handling live malware.
+* 【2024-05-01】[exploits-forsale / CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof-of-Concept for CVE-2024-21345
+* 【2024-05-01】[gyf304 / dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
+* 【2024-05-01】[exploits-forsale / CVE-2024-26218](https://github.com/exploits-forsale/CVE-2024-26218) - Proof-of-Concept for CVE-2024-26218
+* 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 * 【2024-04-29】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
 * 【2024-04-22】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 * 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
@@ -1040,6 +1063,8 @@
 
 ## C++
 
+* 【2024-05-01】[sherlockchou86 / VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
+* 【2024-05-01】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 * 【2024-04-22】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
 * 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
 * 【2024-04-15】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++
@@ -1130,6 +1155,12 @@
 
 ## C#
 
+* 【2024-05-01】[bbradson / Fishery](https://github.com/bbradson/Fishery) - Modding Library
+* 【2024-05-01】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+* 【2024-05-01】[project-fika / Fika-Plugin](https://github.com/project-fika/Fika-Plugin) - Client-side changes to make multiplayer work
+* 【2024-05-01】[stayintarkov / SIT.Manager.Avalonia](https://github.com/stayintarkov/SIT.Manager.Avalonia) - 
+* 【2024-05-01】[InvoxiPlayGames / FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival.
+* 【2024-05-01】[tryAGI / LangChain](https://github.com/tryAGI/LangChain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
 * 【2024-04-29】[TheCod3rYouTube / PS5NorModifier](https://github.com/TheCod3rYouTube/PS5NorModifier) - The PS5 Nor Modifier is an easy to use Windows based application to rewrite your PS5 NOR file. This can be useful if your NOR is corrupt, or if you have a disc edition console that needs to be converted to digital in order to bypass the disc drive checks
 * 【2024-04-29】[bbradson / Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 * 【2024-04-29】[Voland163 / TFTV](https://github.com/Voland163/TFTV) - Terror from the Void mod for Phoenix Point
@@ -1237,6 +1268,8 @@
 
 ## Html
 
+* 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
+* 【2024-05-01】[TacoGuy21 / ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2024-04-29】[KingsGambitLab / Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes) - This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes.
 * 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
 * 【2024-04-29】[SajedHassan / CSEx61-dockerized-pintos](https://github.com/SajedHassan/CSEx61-dockerized-pintos) - 
@@ -1347,6 +1380,10 @@
 
 ## Css
 
+* 【2024-05-01】[anthdm / gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack
+* 【2024-05-01】[moveit / moveit2_tutorials](https://github.com/moveit/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
+* 【2024-05-01】[darylsew / visualizer](https://github.com/darylsew/visualizer) - A Python/JS music visualizer.
+* 【2024-05-01】[chengzhongxue / halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) - 
 * 【2024-04-29】[Yandex-Practicum / go_final_project](https://github.com/Yandex-Practicum/go_final_project) - 
 * 【2024-04-29】[Zproger / bspwm-dotfiles](https://github.com/Zproger/bspwm-dotfiles) - A minimalistic Arch Linux build that is designed to make your development easier and faster
 * 【2024-04-29】[McShelby / hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
@@ -1503,6 +1540,13 @@
 
 ## Unknown
 
+* 【2024-05-01】[harsharock / BaseCamp](https://github.com/harsharock/BaseCamp) - BaseCamp Contracts
+* 【2024-05-01】[jkiolppm / Crypto-Miner-Soft](https://github.com/jkiolppm/Crypto-Miner-Soft) - miner bitcoin-mining crypto-miner bitcoin-miner cryptocurrency-mining xmr-miner dual-mining ton-miner btc-miner rvn-miner xna-miner ergo-miner kas-miner neox-miner ctxc-miner zephyr-miner zeph-miner aeon-miner zcash-miner open-sources-code-github
+* 【2024-05-01】[CodingChallengesFYI / SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
+* 【2024-05-01】[idk10-a / aviator](https://github.com/idk10-a/aviator) - Level up your Aviator game! This bot employs its prediction prowess to help you maximize your profit – and it's completely free!
+* 【2024-05-01】[project-fika / Fika-Documentation](https://github.com/project-fika/Fika-Documentation) - 
+* 【2024-05-01】[bpc-clone / bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
+* 【2024-05-01】[xiaobaikeji831 / cfDAIMA](https://github.com/xiaobaikeji831/cfDAIMA) - 
 * 【2024-04-29】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 * 【2024-04-29】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 * 【2024-04-29】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
