@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2024-05-08】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
+* 【2024-05-08】[HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
+* 【2024-05-08】[wandb / openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+* 【2024-05-08】[AtotheY / saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
+* 【2024-05-08】[Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+* 【2024-05-08】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
+* 【2024-05-08】[KindXiaoming / pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
+* 【2024-05-08】[tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
+* 【2024-05-08】[pydantic / logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
+* 【2024-05-08】[ca110us / epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
+* 【2024-05-08】[DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base
+* 【2024-05-08】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 * 【2024-05-01】[ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 * 【2024-05-01】[Kludex / fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 * 【2024-05-01】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
@@ -379,6 +391,7 @@
 
 ## Java
 
+* 【2024-05-08】[infinilabs / analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 * 【2024-05-01】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native fork of Kafka by separating storage to S3. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
 * 【2024-05-01】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 * 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced.
@@ -458,6 +471,15 @@
 
 ## Python
 
+* 【2024-05-08】[NVlabs / RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
+* 【2024-05-08】[Efficient-Large-Model / VILA](https://github.com/Efficient-Large-Model/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
+* 【2024-05-08】[huggingface / datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+* 【2024-05-08】[ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID) - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
+* 【2024-05-08】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+* 【2024-05-08】[Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+* 【2024-05-08】[dmunozv04 / iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+* 【2024-05-08】[katanaml / sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
+* 【2024-05-08】[RevoltSecurities / Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 * 【2024-05-01】[microsoft / FILM](https://github.com/microsoft/FILM) - Official repo for "Make Your LLM Fully Utilize the Context"
 * 【2024-05-01】[truefoundry / cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 * 【2024-05-01】[PixArt-alpha / PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
@@ -1063,6 +1085,9 @@
 
 ## C++
 
+* 【2024-05-08】[litucks / torzu](https://github.com/litucks/torzu) - Yet another Yuzu fork
+* 【2024-05-08】[dillo-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
+* 【2024-05-08】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
 * 【2024-05-01】[sherlockchou86 / VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 * 【2024-05-01】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 * 【2024-04-22】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
@@ -1155,6 +1180,9 @@
 
 ## C#
 
+* 【2024-05-08】[PreaawX / Aviator-Predictor-FULL](https://github.com/PreaawX/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
+* 【2024-05-08】[CCob / okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
+* 【2024-05-08】[oureveryday / Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
 * 【2024-05-01】[bbradson / Fishery](https://github.com/bbradson/Fishery) - Modding Library
 * 【2024-05-01】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2024-05-01】[project-fika / Fika-Plugin](https://github.com/project-fika/Fika-Plugin) - Client-side changes to make multiplayer work
@@ -1268,6 +1296,9 @@
 
 ## Html
 
+* 【2024-05-08】[drduh / YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+* 【2024-05-08】[leanprover-community / mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
+* 【2024-05-08】[supertestnet / coinjoin-workshop](https://github.com/supertestnet/coinjoin-workshop) - A workshop on constructing coinjoin transactions without a coordinator
 * 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
 * 【2024-05-01】[TacoGuy21 / ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2024-04-29】[KingsGambitLab / Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes) - This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes.
@@ -1380,6 +1411,11 @@
 
 ## Css
 
+* 【2024-05-08】[BSidesSF / ctf-2024-release](https://github.com/BSidesSF/ctf-2024-release) - 
+* 【2024-05-08】[emfcamp / numbermanagement](https://github.com/emfcamp/numbermanagement) - EMF phone number management system
+* 【2024-05-08】[GSAPP-CDP / archive](https://github.com/GSAPP-CDP/archive) - An archive of student final projects from the Computation Design Practices degree program at Columbia GSAPP
+* 【2024-05-08】[benaston / buttons.css](https://github.com/benaston/buttons.css) - CSS3 button experiments.
+* 【2024-05-08】[sachin0987 / happy-birthday-css-app](https://github.com/sachin0987/happy-birthday-css-app) - 
 * 【2024-05-01】[anthdm / gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack
 * 【2024-05-01】[moveit / moveit2_tutorials](https://github.com/moveit/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
 * 【2024-05-01】[darylsew / visualizer](https://github.com/darylsew/visualizer) - A Python/JS music visualizer.
@@ -1540,6 +1576,9 @@
 
 ## Unknown
 
+* 【2024-05-08】[Profluent-AI / OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems
+* 【2024-05-08】[raultrades / SMA-outfits](https://github.com/raultrades/SMA-outfits) - Analysis of SMA outfit (blackbox) use in public equity markets for real-time insight into wealth distribution and direct stock market influence. A call for transparency and public discourse.
+* 【2024-05-08】[youssefHosni / Awesome-AI-Data-Guided-Projects](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects) - A curated list of data science & AI guided projects to start building your portfolio
 * 【2024-05-01】[harsharock / BaseCamp](https://github.com/harsharock/BaseCamp) - BaseCamp Contracts
 * 【2024-05-01】[jkiolppm / Crypto-Miner-Soft](https://github.com/jkiolppm/Crypto-Miner-Soft) - miner bitcoin-mining crypto-miner bitcoin-miner cryptocurrency-mining xmr-miner dual-mining ton-miner btc-miner rvn-miner xna-miner ergo-miner kas-miner neox-miner ctxc-miner zephyr-miner zeph-miner aeon-miner zcash-miner open-sources-code-github
 * 【2024-05-01】[CodingChallengesFYI / SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
