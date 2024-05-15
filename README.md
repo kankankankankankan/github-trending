@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2024-05-15】[linyiLYi / bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
+* 【2024-05-15】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
+* 【2024-05-15】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
+* 【2024-05-15】[X-LANCE / AniTalker](https://github.com/X-LANCE/AniTalker) - 
+* 【2024-05-15】[glanceapp / glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+* 【2024-05-15】[fishaudio / fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+* 【2024-05-15】[alibaba-damo-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool, LLM based AI clipping intergrated || 开源、精准、方便的视频切片工具，集成了大语言模型AI智能剪辑功能
+* 【2024-05-15】[SOS-RS / frontend](https://github.com/SOS-RS/frontend) - 
+* 【2024-05-15】[rt64 / rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
+* 【2024-05-15】[elder-plinius / L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5
+* 【2024-05-15】[jgravelle / AutoGroq](https://github.com/jgravelle/AutoGroq) - 
+* 【2024-05-15】[Alpha-VLLM / Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
 * 【2024-05-08】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 * 【2024-05-08】[HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 * 【2024-05-08】[wandb / openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -391,6 +403,10 @@
 
 ## Java
 
+* 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite-aimbot fortnite-hack fortnite-cheat fortnite-wallhack fortnite-esp fortnite-wallhack fortnite-skinchanger fortnite-skin-swapper
+* 【2024-05-15】[JanusGraph / janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
+* 【2024-05-15】[lh728 / 0-to-1-Microservices-Distributed-E-commerce-System-Template](https://github.com/lh728/0-to-1-Microservices-Distributed-E-commerce-System-Template) - This is a microservices-based distributed e-commerce system template designed to leverage a wide range of advanced management tools and practices from 0 to 1.
+* 【2024-05-15】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files, with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository.
 * 【2024-05-08】[infinilabs / analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 * 【2024-05-01】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native fork of Kafka by separating storage to S3. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
 * 【2024-05-01】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
@@ -471,6 +487,12 @@
 
 ## Python
 
+* 【2024-05-15】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
+* 【2024-05-15】[entropy-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
+* 【2024-05-15】[multimodal-art-projection / MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
+* 【2024-05-15】[google-research / timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* 【2024-05-15】[Chaphlagical / Deblur-GS](https://github.com/Chaphlagical/Deblur-GS) - [I3D 2024] Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images
+* 【2024-05-15】[modelscope / agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
 * 【2024-05-08】[NVlabs / RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
 * 【2024-05-08】[Efficient-Large-Model / VILA](https://github.com/Efficient-Large-Model/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
 * 【2024-05-08】[huggingface / datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
@@ -747,6 +769,12 @@
 
 ## Javascript
 
+* 【2024-05-15】[AbhishekSuresh2 / Phoenix-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
+* 【2024-05-15】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
+* 【2024-05-15】[aegir-assembly / omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
+* 【2024-05-15】[JiyaGupta-cs / ShopNex](https://github.com/JiyaGupta-cs/ShopNex) - React Ecommerce App
+* 【2024-05-15】[x0tools / WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) - 
+* 【2024-05-15】[Admiral-Billy / Pokerogue-App](https://github.com/Admiral-Billy/Pokerogue-App) - An app to play Pokerogue.net in an app window. Wow!
 * 【2024-05-01】[MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 * 【2024-05-01】[virus010101 / linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|app论坛是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS项目，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛app完整功能
 * 【2024-04-29】[Lunakepio / Mario-Bros.js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
@@ -888,6 +916,7 @@
 
 ## Go
 
+* 【2024-05-15】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 * 【2024-04-22】[danvergara / morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 * 【2024-04-22】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
@@ -984,6 +1013,10 @@
 
 ## C
 
+* 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
+* 【2024-05-15】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
+* 【2024-05-15】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
+* 【2024-05-15】[cocomelonc / bsprishtina-2024-maldev-workshop](https://github.com/cocomelonc/bsprishtina-2024-maldev-workshop) - BSides Prishtina 2024 Malware Development and Persistence workshop
 * 【2024-05-01】[jstrosch / learning-malware-analysis](https://github.com/jstrosch/learning-malware-analysis) - This repository contains sample programs that mimick behavior found in real-world malware. The goal is to provide source code that can be compiled and used for learning purposes, without having to worry about handling live malware.
 * 【2024-05-01】[exploits-forsale / CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof-of-Concept for CVE-2024-21345
 * 【2024-05-01】[gyf304 / dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
@@ -1085,6 +1118,10 @@
 
 ## C++
 
+* 【2024-05-15】[xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp) - C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)
+* 【2024-05-15】[k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift
+* 【2024-05-15】[mirage-project / mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
+* 【2024-05-15】[ros-navigation / navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-08】[litucks / torzu](https://github.com/litucks/torzu) - Yet another Yuzu fork
 * 【2024-05-08】[dillo-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
 * 【2024-05-08】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
@@ -1180,6 +1217,9 @@
 
 ## C#
 
+* 【2024-05-15】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
+* 【2024-05-15】[rayenghanmi / RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+* 【2024-05-15】[victorverdoodt / Disaster-Response-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre. Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando-se ao Sistema Integrado de Informações sobre Desastres v3.
 * 【2024-05-08】[PreaawX / Aviator-Predictor-FULL](https://github.com/PreaawX/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
 * 【2024-05-08】[CCob / okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 * 【2024-05-08】[oureveryday / Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
@@ -1296,6 +1336,15 @@
 
 ## Html
 
+* 【2024-05-15】[anuragverma108 / SwapReads](https://github.com/anuragverma108/SwapReads) - This repo is officially accepted for GSSOC'2k24. SwapReads.com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures. Create your profile, list the books you're eager to swap, and join a vibrant community of passionate readers.
+* 【2024-05-15】[pybluez / pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
+* 【2024-05-15】[khushi-joshi-05 / Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website) - Foodie is a food ordering website that aims to provide users with a seamless experience for ordering food online, taking orders for pickup, and booking tables for dining in. The website showcases the quality and specialties of the food offered, along with a variety of services to cater to different user preferences.
+* 【2024-05-15】[ming1016 / SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + SwiftData + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
+* 【2024-05-15】[Suchitra-Sahoo / AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork) - Agrilearn Network is a comprehensive platform designed to empower farmers with essential insights and resources for successful agriculture practices. Our platform serves as an indispensable resource, offering a holistic approach enriched with detailed guidance, in-depth knowledge and strategic management approaches across various facets of farming.
+* 【2024-05-15】[liguodongiot / llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
+* 【2024-05-15】[Rakesh9100 / CalcDiverse](https://github.com/Rakesh9100/CalcDiverse) - CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.
+* 【2024-05-15】[SiddharthBahuguna / NEWS-AGGREGATOR-PROJECT](https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT) - The news aggregator project aims to create a centralized platform that curates and organizes news articles and updates from various sources across the internet. It is being developed to address the growing need for a consolidated and user-friendly platform that offers reliable and diverse news content
+* 【2024-05-15】[imoki / PaperTools](https://github.com/imoki/PaperTools) - 论文查重降重工具汇总
 * 【2024-05-08】[drduh / YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 * 【2024-05-08】[leanprover-community / mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 * 【2024-05-08】[supertestnet / coinjoin-workshop](https://github.com/supertestnet/coinjoin-workshop) - A workshop on constructing coinjoin transactions without a coordinator
@@ -1411,6 +1460,16 @@
 
 ## Css
 
+* 【2024-05-15】[Satyam1923 / Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player) - The JioSaavn Player project aims to create a feature-rich music player application leveraging the unofficial JioSaavn API. This application will provide users with a seamless experience to discover, stream, and organize their favorite music tracks from the extensive JioSaavn library.
+* 【2024-05-15】[zalando / restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
+* 【2024-05-15】[piug-07 / blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
+* 【2024-05-15】[stephband / scribe](https://github.com/stephband/scribe) - Renders music in HTML.
+* 【2024-05-15】[HimanshuNarware / CareerZunction_Intern](https://github.com/HimanshuNarware/CareerZunction_Intern) - CareerZunction, an open-source platform, offers 200+ internships. Its user-friendly interface enables students to access career resources and foster professional growth. By connecting students with diverse opportunities, it empowers them in their career journeys.
+* 【2024-05-15】[Its-Aman-Yadav / Community-Site](https://github.com/Its-Aman-Yadav/Community-Site) - This is open source village community site
+* 【2024-05-15】[Anishkagupta04 / RAPIDOC-HEALTHCARE-WEBSITE-](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-) - It is an online platform based on providing healthcare facilites to the user and information regarding hospital like availability of beds, total number of patients,,helping user to prebook appointments for OPD ,check availability of blood groups in hospitals and many more .
+* 【2024-05-15】[m-datsu / HWlD-spoofer-2024](https://github.com/m-datsu/HWlD-spoofer-2024) - HWID-Spoofer/Changer-2024-for-free
+* 【2024-05-15】[rose-pine / discord](https://github.com/rose-pine/discord) - Soho vibes for Discord
+* 【2024-05-15】[soulhotel / FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. FF Ultima.
 * 【2024-05-08】[BSidesSF / ctf-2024-release](https://github.com/BSidesSF/ctf-2024-release) - 
 * 【2024-05-08】[emfcamp / numbermanagement](https://github.com/emfcamp/numbermanagement) - EMF phone number management system
 * 【2024-05-08】[GSAPP-CDP / archive](https://github.com/GSAPP-CDP/archive) - An archive of student final projects from the Computation Design Practices degree program at Columbia GSAPP
@@ -1576,6 +1635,13 @@
 
 ## Unknown
 
+* 【2024-05-15】[Cry1ngMan / 1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙
+* 【2024-05-15】[theokwebb / C-from-Scratch](https://github.com/theokwebb/C-from-Scratch) - A roadmap to learn C from Scratch
+* 【2024-05-15】[01-ai / Yi-1.5](https://github.com/01-ai/Yi-1.5) - Yi-1.5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction-following capability.
+* 【2024-05-15】[AI-Guru / xlstm-resources](https://github.com/AI-Guru/xlstm-resources) - Resources about xLSTM by Sepp Hochreiter
+* 【2024-05-15】[shubham-gangpuri / Android-Interview-Questions](https://github.com/shubham-gangpuri/Android-Interview-Questions) - Android / Koltin / Java questions or topics for android developer interviews
+* 【2024-05-15】[gracenolan / Notes](https://github.com/gracenolan/Notes) - 
+* 【2024-05-15】[eclipse-sumo / sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 * 【2024-05-08】[Profluent-AI / OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems
 * 【2024-05-08】[raultrades / SMA-outfits](https://github.com/raultrades/SMA-outfits) - Analysis of SMA outfit (blackbox) use in public equity markets for real-time insight into wealth distribution and direct stock market influence. A call for transparency and public discourse.
 * 【2024-05-08】[youssefHosni / Awesome-AI-Data-Guided-Projects](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects) - A curated list of data science & AI guided projects to start building your portfolio
