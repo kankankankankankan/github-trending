@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2024-05-22】[naklecha / llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
+* 【2024-05-22】[HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+* 【2024-05-22】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
+* 【2024-05-22】[folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+* 【2024-05-22】[hiddify / hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+* 【2024-05-22】[rashadphz / farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
+* 【2024-05-22】[bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+* 【2024-05-22】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+* 【2024-05-22】[LLMBook-zh / LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 * 【2024-05-15】[linyiLYi / bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
 * 【2024-05-15】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2024-05-15】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
@@ -403,6 +412,7 @@
 
 ## Java
 
+* 【2024-05-22】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite-aimbot fortnite-hack fortnite-cheat fortnite-wallhack fortnite-esp fortnite-wallhack fortnite-skinchanger fortnite-skin-swapper
 * 【2024-05-15】[JanusGraph / janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 * 【2024-05-15】[lh728 / 0-to-1-Microservices-Distributed-E-commerce-System-Template](https://github.com/lh728/0-to-1-Microservices-Distributed-E-commerce-System-Template) - This is a microservices-based distributed e-commerce system template designed to leverage a wide range of advanced management tools and practices from 0 to 1.
@@ -487,6 +497,16 @@
 
 ## Python
 
+* 【2024-05-22】[TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE
+* 【2024-05-22】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
+* 【2024-05-22】[CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
+* 【2024-05-22】[IDEA-Research / Grounding-DINO-1.5-API](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) - API for Grounding DINO 1.5: IDEA Research's Most Capable Open-World Object Detection Model Series
+* 【2024-05-22】[alexfazio / viral-clips-crew](https://github.com/alexfazio/viral-clips-crew) - Your CrewAI Powered Video Editing Assistant
+* 【2024-05-22】[lanqian528 / chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+* 【2024-05-22】[HumanSignal / labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.
+* 【2024-05-22】[Fooyao / web3Task](https://github.com/Fooyao/web3Task) - 活动脚本汇总，更新通知介绍频道：https://t.me/hddinfo
+* 【2024-05-22】[lipku / metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
+* 【2024-05-22】[lucidrains / alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold 3 in Pytorch
 * 【2024-05-15】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
 * 【2024-05-15】[entropy-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
 * 【2024-05-15】[multimodal-art-projection / MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
@@ -769,6 +789,10 @@
 
 ## Javascript
 
+* 【2024-05-22】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+* 【2024-05-22】[joye61 / pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
+* 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
+* 【2024-05-22】[V2RaySSR / Free-VLESS](https://github.com/V2RaySSR/Free-VLESS) - 通过 Cloudflare，免费部署 VLESS节点
 * 【2024-05-15】[AbhishekSuresh2 / Phoenix-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
 * 【2024-05-15】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
 * 【2024-05-15】[aegir-assembly / omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
@@ -916,6 +940,8 @@
 
 ## Go
 
+* 【2024-05-22】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+* 【2024-05-22】[rancher / rke2](https://github.com/rancher/rke2) - 
 * 【2024-05-15】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 * 【2024-04-22】[danvergara / morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
@@ -1013,6 +1039,8 @@
 
 ## C
 
+* 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
+* 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
 * 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 * 【2024-05-15】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 * 【2024-05-15】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
@@ -1118,6 +1146,9 @@
 
 ## C++
 
+* 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+* 【2024-05-22】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
+* 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
 * 【2024-05-15】[xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp) - C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)
 * 【2024-05-15】[k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift
 * 【2024-05-15】[mirage-project / mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
@@ -1217,6 +1248,7 @@
 
 ## C#
 
+* 【2024-05-22】[Monika1313 / Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-15】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
 * 【2024-05-15】[rayenghanmi / RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
 * 【2024-05-15】[victorverdoodt / Disaster-Response-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre. Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando-se ao Sistema Integrado de Informações sobre Desastres v3.
@@ -1336,6 +1368,8 @@
 
 ## Html
 
+* 【2024-05-22】[controlpaths / hackbat](https://github.com/controlpaths/hackbat) - Hackbat repository
+* 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
 * 【2024-05-15】[anuragverma108 / SwapReads](https://github.com/anuragverma108/SwapReads) - This repo is officially accepted for GSSOC'2k24. SwapReads.com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures. Create your profile, list the books you're eager to swap, and join a vibrant community of passionate readers.
 * 【2024-05-15】[pybluez / pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 * 【2024-05-15】[khushi-joshi-05 / Food-ordering-website](https://github.com/khushi-joshi-05/Food-ordering-website) - Foodie is a food ordering website that aims to provide users with a seamless experience for ordering food online, taking orders for pickup, and booking tables for dining in. The website showcases the quality and specialties of the food offered, along with a variety of services to cater to different user preferences.
@@ -1460,6 +1494,9 @@
 
 ## Css
 
+* 【2024-05-22】[JAYESHBATRA / Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn) - Virtuo Learn is a platform that provides immersive learning experiences like never before. It offers simulations, 3D visualizations, customized quizzes, doubt engine, and videos, all in one place.
+* 【2024-05-22】[pipeops-dev / pipeops-html](https://github.com/pipeops-dev/pipeops-html) - 
+* 【2024-05-22】[newmanix / form-processing](https://github.com/newmanix/form-processing) - A starting point for an assignment on form fundamentals
 * 【2024-05-15】[Satyam1923 / Spring-Music-Player](https://github.com/Satyam1923/Spring-Music-Player) - The JioSaavn Player project aims to create a feature-rich music player application leveraging the unofficial JioSaavn API. This application will provide users with a seamless experience to discover, stream, and organize their favorite music tracks from the extensive JioSaavn library.
 * 【2024-05-15】[zalando / restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 * 【2024-05-15】[piug-07 / blogzen-OpenSource](https://github.com/piug-07/blogzen-OpenSource) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
@@ -1635,6 +1672,12 @@
 
 ## Unknown
 
+* 【2024-05-22】[mcinglis / c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
+* 【2024-05-22】[ulab-uiuc / AGI-survey](https://github.com/ulab-uiuc/AGI-survey) - 
+* 【2024-05-22】[Diyshift / 3D-Printer](https://github.com/Diyshift/3D-Printer) - Voron Stuff
+* 【2024-05-22】[Ouckah / Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
+* 【2024-05-22】[letthedataconfess / Data-Engineering-Books](https://github.com/letthedataconfess/Data-Engineering-Books) - 
+* 【2024-05-22】[P3TERX / GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 * 【2024-05-15】[Cry1ngMan / 1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙
 * 【2024-05-15】[theokwebb / C-from-Scratch](https://github.com/theokwebb/C-from-Scratch) - A roadmap to learn C from Scratch
 * 【2024-05-15】[01-ai / Yi-1.5](https://github.com/01-ai/Yi-1.5) - Yi-1.5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction-following capability.
