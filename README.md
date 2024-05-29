@@ -8,6 +8,18 @@
 
 ## All language
 
+* 【2024-05-29】[THU-MIG / yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
+* 【2024-05-29】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
+* 【2024-05-29】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
+* 【2024-05-29】[janhq / jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+* 【2024-05-29】[CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+* 【2024-05-29】[iyaja / llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
+* 【2024-05-29】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
+* 【2024-05-29】[lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
+* 【2024-05-29】[wintermute-cell / ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
+* 【2024-05-29】[ente-io / ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+* 【2024-05-29】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
+* 【2024-05-29】[mistralai / mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
 * 【2024-05-22】[naklecha / llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 * 【2024-05-22】[HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 * 【2024-05-22】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -412,6 +424,7 @@
 
 ## Java
 
+* 【2024-05-29】[ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 * 【2024-05-22】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite-aimbot fortnite-hack fortnite-cheat fortnite-wallhack fortnite-esp fortnite-wallhack fortnite-skinchanger fortnite-skin-swapper
 * 【2024-05-15】[JanusGraph / janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -497,6 +510,14 @@
 
 ## Python
 
+* 【2024-05-29】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
+* 【2024-05-29】[HITsz-TMG / UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - The codes about "Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts"
+* 【2024-05-29】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
+* 【2024-05-29】[lks-ai / anynode](https://github.com/lks-ai/anynode) - A Node for ComfyUI that does what you ask it to do
+* 【2024-05-29】[dbrojas / optlib](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
+* 【2024-05-29】[RUC-NLPIR / FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research
+* 【2024-05-29】[princeton-nlp / SimPO](https://github.com/princeton-nlp/SimPO) - SimPO: Simple Preference Optimization with a Reference-Free Reward
+* 【2024-05-29】[transcriptionstream / transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
 * 【2024-05-22】[TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE
 * 【2024-05-22】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
 * 【2024-05-22】[CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
@@ -789,6 +810,10 @@
 
 ## Javascript
 
+* 【2024-05-29】[WasperAI / Wasper](https://github.com/WasperAI/Wasper) - 
+* 【2024-05-29】[frappe / gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
+* 【2024-05-29】[ibrahimaitech / BLACK-PANTHER-XMD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD) - Black panther md is the fastest wabot that helps WhatsApp users to enjoy smooth life
+* 【2024-05-29】[Kingjux / Venocyber-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
 * 【2024-05-22】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 * 【2024-05-22】[joye61 / pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
@@ -940,6 +965,8 @@
 
 ## Go
 
+* 【2024-05-29】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
+* 【2024-05-29】[andydunstall / piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 * 【2024-05-22】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
 * 【2024-05-22】[rancher / rke2](https://github.com/rancher/rke2) - 
 * 【2024-05-15】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
@@ -1039,6 +1066,9 @@
 
 ## C
 
+* 【2024-05-29】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
+* 【2024-05-29】[null-luo / btrace](https://github.com/null-luo/btrace) - btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
+* 【2024-05-29】[pytorch / cpuinfo](https://github.com/pytorch/cpuinfo) - CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
 * 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
@@ -1146,6 +1176,10 @@
 
 ## C++
 
+* 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
+* 【2024-05-29】[microsoft / GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
+* 【2024-05-29】[tnodir / fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
+* 【2024-05-29】[google-ai-edge / mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-22】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
 * 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
@@ -1248,6 +1282,9 @@
 
 ## C#
 
+* 【2024-05-29】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
+* 【2024-05-29】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
+* 【2024-05-29】[thisisnabi / Blogger](https://github.com/thisisnabi/Blogger) - Clean Architecture, CQRS, and DDD Implementation by ASP.NET Core Blog problem domain.
 * 【2024-05-22】[Monika1313 / Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-15】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
 * 【2024-05-15】[rayenghanmi / RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
@@ -1368,6 +1405,10 @@
 
 ## Html
 
+* 【2024-05-29】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS.
+* 【2024-05-29】[jianchang512 / stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
+* 【2024-05-29】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
+* 【2024-05-29】[b120s / aviator](https://github.com/b120s/aviator) - Level up your Aviator game! This app employs its prediction prowess to help you maximize your profit - and it's completely free!
 * 【2024-05-22】[controlpaths / hackbat](https://github.com/controlpaths/hackbat) - Hackbat repository
 * 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
 * 【2024-05-15】[anuragverma108 / SwapReads](https://github.com/anuragverma108/SwapReads) - This repo is officially accepted for GSSOC'2k24. SwapReads.com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures. Create your profile, list the books you're eager to swap, and join a vibrant community of passionate readers.
@@ -1494,6 +1535,11 @@
 
 ## Css
 
+* 【2024-05-29】[zakirkun / arsip-gorengan-is](https://github.com/zakirkun/arsip-gorengan-is) - Arsip gorengan full konteks
+* 【2024-05-29】[PacktPublishing / Django-5-By-Example](https://github.com/PacktPublishing/Django-5-By-Example) - Django 5 By Example (5th Edition) published by Packt
+* 【2024-05-29】[OpenLake / GitStartedWithUs](https://github.com/OpenLake/GitStartedWithUs) - 
+* 【2024-05-29】[Poooooooo01 / sirusa](https://github.com/Poooooooo01/sirusa) - Buat Project Sistem Rumah Sakit
+* 【2024-05-29】[Samadeen / intro-component-with-signup](https://github.com/Samadeen/intro-component-with-signup) - 
 * 【2024-05-22】[JAYESHBATRA / Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn) - Virtuo Learn is a platform that provides immersive learning experiences like never before. It offers simulations, 3D visualizations, customized quizzes, doubt engine, and videos, all in one place.
 * 【2024-05-22】[pipeops-dev / pipeops-html](https://github.com/pipeops-dev/pipeops-html) - 
 * 【2024-05-22】[newmanix / form-processing](https://github.com/newmanix/form-processing) - A starting point for an assignment on form fundamentals
@@ -1672,6 +1718,14 @@
 
 ## Unknown
 
+* 【2024-05-29】[Fankouzu / solana-basic-ui](https://github.com/Fankouzu/solana-basic-ui) - Solana中文大全-由崔棉大师@mastercui和捕鲸船社区小伙伴共建的Solana学习社区
+* 【2024-05-29】[xForeSwitchEz / hamster-coin-tools-v1.2](https://github.com/xForeSwitchEz/hamster-coin-tools-v1.2) - 
+* 【2024-05-29】[zHex4z / ERDP](https://github.com/zHex4z/ERDP) - 
+* 【2024-05-29】[zHex4z / zHex4z1](https://github.com/zHex4z/zHex4z1) - apex-legends apex-hack apex-legends-hack apex-legends-cheat apex-legends-aimbot apex-legends-wallhack apex-free-hack apex-hacks apex-legends-hacks apex-legends-cheats apex-cheat apex-aimbot hacks-apex-legends hack-apex apex-hack-download download-apex-hack apex-legends-hack-pc apex-legends-hacker apex-legends-esp apex-legends-free-hack
+* 【2024-05-29】[Z4ee / Pipsi-WW-Releases](https://github.com/Z4ee/Pipsi-WW-Releases) - 
+* 【2024-05-29】[MatthewScould / MatthewScould](https://github.com/MatthewScould/MatthewScould) - 
+* 【2024-05-29】[plausible / community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition
+* 【2024-05-29】[kotlin-magazine / kotlin-magazine](https://github.com/kotlin-magazine/kotlin-magazine) - fun code() – A magazine for Kotlin™ developers
 * 【2024-05-22】[mcinglis / c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
 * 【2024-05-22】[ulab-uiuc / AGI-survey](https://github.com/ulab-uiuc/AGI-survey) - 
 * 【2024-05-22】[Diyshift / 3D-Printer](https://github.com/Diyshift/3D-Printer) - Voron Stuff
