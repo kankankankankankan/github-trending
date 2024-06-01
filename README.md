@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2024-06-01】[2noise / ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
+* 【2024-06-01】[tencent-ailab / V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
+* 【2024-06-01】[redpanda-data / connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
+* 【2024-06-01】[amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce) - Exploit PoC for CVE-2024-32002
+* 【2024-06-01】[TMElyralab / MusePose](https://github.com/TMElyralab/MusePose) - MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
+* 【2024-06-01】[alibaba-yuanjing-aigclab / ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - ViViD: Video Virtual Try-on using Diffusion Models
+* 【2024-06-01】[webprodigies / corinna-ai](https://github.com/webprodigies/corinna-ai) - Ai Chatbot that acts like a sales rep
+* 【2024-06-01】[GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
+* 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
+* 【2024-06-01】[googleapis / elixir-google-api](https://github.com/googleapis/elixir-google-api) - Elixir client libraries for accessing Google APIs.
+* 【2024-06-01】[lengyibai / wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+TS的王者荣耀图鉴🚀
 * 【2024-05-29】[THU-MIG / yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
 * 【2024-05-29】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 * 【2024-05-29】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
@@ -424,6 +435,7 @@
 
 ## Java
 
+* 【2024-06-01】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
 * 【2024-05-29】[ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 * 【2024-05-22】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite-aimbot fortnite-hack fortnite-cheat fortnite-wallhack fortnite-esp fortnite-wallhack fortnite-skinchanger fortnite-skin-swapper
@@ -510,6 +522,9 @@
 
 ## Python
 
+* 【2024-06-01】[Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+* 【2024-06-01】[bin123apple / AutoCoder](https://github.com/bin123apple/AutoCoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
+* 【2024-06-01】[adysec / wechat_sqlite](https://github.com/adysec/wechat_sqlite) - 微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
 * 【2024-05-29】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
 * 【2024-05-29】[HITsz-TMG / UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - The codes about "Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts"
 * 【2024-05-29】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
@@ -810,6 +825,10 @@
 
 ## Javascript
 
+* 【2024-06-01】[adysec / cf-mirror](https://github.com/adysec/cf-mirror) - AdySec CF拉平镜像站 | 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现
+* 【2024-06-01】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+* 【2024-06-01】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
+* 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 * 【2024-05-29】[WasperAI / Wasper](https://github.com/WasperAI/Wasper) - 
 * 【2024-05-29】[frappe / gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 * 【2024-05-29】[ibrahimaitech / BLACK-PANTHER-XMD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD) - Black panther md is the fastest wabot that helps WhatsApp users to enjoy smooth life
@@ -1066,6 +1085,9 @@
 
 ## C
 
+* 【2024-06-01】[greenplum-db / gpdb-archive](https://github.com/greenplum-db/gpdb-archive) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
+* 【2024-06-01】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
+* 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 * 【2024-05-29】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
 * 【2024-05-29】[null-luo / btrace](https://github.com/null-luo/btrace) - btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
 * 【2024-05-29】[pytorch / cpuinfo](https://github.com/pytorch/cpuinfo) - CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
@@ -1176,6 +1198,8 @@
 
 ## C++
 
+* 【2024-06-01】[Cambricon / triton-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton-Linalg conversion
+* 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 * 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
 * 【2024-05-29】[microsoft / GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 * 【2024-05-29】[tnodir / fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
@@ -1282,6 +1306,7 @@
 
 ## C#
 
+* 【2024-06-01】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2024-05-29】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
 * 【2024-05-29】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
 * 【2024-05-29】[thisisnabi / Blogger](https://github.com/thisisnabi/Blogger) - Clean Architecture, CQRS, and DDD Implementation by ASP.NET Core Blog problem domain.
@@ -1405,6 +1430,10 @@
 
 ## Html
 
+* 【2024-06-01】[arghadipmanna101 / Flipkart_Clone](https://github.com/arghadipmanna101/Flipkart_Clone) - Clone of Flipkart using HTML,CSS and JavaScript
+* 【2024-06-01】[iam-veeramalla / ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero) - Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
+* 【2024-06-01】[SiyangLi99 / open-alteryx-macro](https://github.com/SiyangLi99/open-alteryx-macro) - Welcome to the 'Open-Alteryx-Macro' project. This project is aimed at providing an open-source solution for managing and updating Alteryx Macros.
+* 【2024-06-01】[rubyforgood / pet-rescue](https://github.com/rubyforgood/pet-rescue) - Pet Rescue is an application making it easy to link adopters/fosters with pets. We work with grassroots pet rescue organizations to understand how we can make the most impact.
 * 【2024-05-29】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS.
 * 【2024-05-29】[jianchang512 / stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
 * 【2024-05-29】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
@@ -1535,6 +1564,12 @@
 
 ## Css
 
+* 【2024-06-01】[jfmartinz / ResourceHub](https://github.com/jfmartinz/ResourceHub) - ResourceHub is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community🚀
+* 【2024-06-01】[Rakesh9100 / Beautiify](https://github.com/Rakesh9100/Beautiify) - Beautiify comprises a curated selection of beautifully designed components and animations that can be seamlessly incorporated into any website, elevating its overall UI experience.
+* 【2024-06-01】[CodeSpace-Academy / StudentNo_Classcode_Group_Name-Surname_DJS07](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS07) - [DJS07] Starter Code for Module 7's Project Submission
+* 【2024-06-01】[creativetimofficial / argon-dashboard-laravel-bs4](https://github.com/creativetimofficial/argon-dashboard-laravel-bs4) - 
+* 【2024-06-01】[telegram-mini-apps-dev / vite-boilerplate](https://github.com/telegram-mini-apps-dev/vite-boilerplate) - This template provides a minimal setup to get TWA working in Vite with React, TypeScript, HMR and some ESLint rules.
+* 【2024-06-01】[fluxus-executor / fluxus-executor.github.io](https://github.com/fluxus-executor/fluxus-executor.github.io) - Fluxus is a powerful and popular free Roblox script executor with a user-friendly interface.
 * 【2024-05-29】[zakirkun / arsip-gorengan-is](https://github.com/zakirkun/arsip-gorengan-is) - Arsip gorengan full konteks
 * 【2024-05-29】[PacktPublishing / Django-5-By-Example](https://github.com/PacktPublishing/Django-5-By-Example) - Django 5 By Example (5th Edition) published by Packt
 * 【2024-05-29】[OpenLake / GitStartedWithUs](https://github.com/OpenLake/GitStartedWithUs) - 
@@ -1718,6 +1753,8 @@
 
 ## Unknown
 
+* 【2024-06-01】[weijunext / indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+* 【2024-06-01】[adysec / nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每日更新 | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现
 * 【2024-05-29】[Fankouzu / solana-basic-ui](https://github.com/Fankouzu/solana-basic-ui) - Solana中文大全-由崔棉大师@mastercui和捕鲸船社区小伙伴共建的Solana学习社区
 * 【2024-05-29】[xForeSwitchEz / hamster-coin-tools-v1.2](https://github.com/xForeSwitchEz/hamster-coin-tools-v1.2) - 
 * 【2024-05-29】[zHex4z / ERDP](https://github.com/zHex4z/ERDP) - 
