@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* 【2024-06-08】[hcengineering / platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+* 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
 * 【2024-06-01】[2noise / ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 * 【2024-06-01】[tencent-ailab / V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 * 【2024-06-01】[redpanda-data / connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
@@ -435,6 +438,7 @@
 
 ## Java
 
+* 【2024-06-08】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 * 【2024-06-01】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
 * 【2024-05-29】[ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 * 【2024-05-22】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
@@ -522,6 +526,9 @@
 
 ## Python
 
+* 【2024-06-08】[livekit / agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
+* 【2024-06-08】[isaac-sim / IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
+* 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-01】[Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 * 【2024-06-01】[bin123apple / AutoCoder](https://github.com/bin123apple/AutoCoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
 * 【2024-06-01】[adysec / wechat_sqlite](https://github.com/adysec/wechat_sqlite) - 微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
@@ -984,6 +991,7 @@
 
 ## Go
 
+* 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-05-29】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
 * 【2024-05-29】[andydunstall / piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 * 【2024-05-22】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
@@ -1306,6 +1314,7 @@
 
 ## C#
 
+* 【2024-06-08】[nomi-san / parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-01】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2024-05-29】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
 * 【2024-05-29】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
