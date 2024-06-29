@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-06-29】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
+* 【2024-06-29】[astral-sh / uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+* 【2024-06-29】[stacks-network / stacks-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
+* 【2024-06-29】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 * 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 * 【2024-06-08】[hcengineering / platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 * 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
@@ -832,6 +836,8 @@
 
 ## Javascript
 
+* 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+* 【2024-06-29】[ciiiii / cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 * 【2024-06-01】[adysec / cf-mirror](https://github.com/adysec/cf-mirror) - AdySec CF拉平镜像站 | 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现
 * 【2024-06-01】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 * 【2024-06-01】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
@@ -991,6 +997,7 @@
 
 ## Go
 
+* 【2024-06-29】[wavetermdev / waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 * 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-05-29】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
 * 【2024-05-29】[andydunstall / piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
@@ -1093,6 +1100,7 @@
 
 ## C
 
+* 【2024-06-29】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
 * 【2024-06-01】[greenplum-db / gpdb-archive](https://github.com/greenplum-db/gpdb-archive) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 * 【2024-06-01】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
@@ -1314,6 +1322,7 @@
 
 ## C#
 
+* 【2024-06-29】[SonarSource / sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C# and VB.NET projects
 * 【2024-06-08】[nomi-san / parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-01】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2024-05-29】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
@@ -1439,6 +1448,8 @@
 
 ## Html
 
+* 【2024-06-29】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+* 【2024-06-29】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
 * 【2024-06-01】[arghadipmanna101 / Flipkart_Clone](https://github.com/arghadipmanna101/Flipkart_Clone) - Clone of Flipkart using HTML,CSS and JavaScript
 * 【2024-06-01】[iam-veeramalla / ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero) - Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
 * 【2024-06-01】[SiyangLi99 / open-alteryx-macro](https://github.com/SiyangLi99/open-alteryx-macro) - Welcome to the 'Open-Alteryx-Macro' project. This project is aimed at providing an open-source solution for managing and updating Alteryx Macros.
@@ -1573,6 +1584,7 @@
 
 ## Css
 
+* 【2024-06-29】[gromo / jquery.scrollbar](https://github.com/gromo/jquery.scrollbar) - jQuery CSS Customizable Scrollbar
 * 【2024-06-01】[jfmartinz / ResourceHub](https://github.com/jfmartinz/ResourceHub) - ResourceHub is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community🚀
 * 【2024-06-01】[Rakesh9100 / Beautiify](https://github.com/Rakesh9100/Beautiify) - Beautiify comprises a curated selection of beautifully designed components and animations that can be seamlessly incorporated into any website, elevating its overall UI experience.
 * 【2024-06-01】[CodeSpace-Academy / StudentNo_Classcode_Group_Name-Surname_DJS07](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS07) - [DJS07] Starter Code for Module 7's Project Submission
