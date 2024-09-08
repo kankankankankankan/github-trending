@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-09-08】[ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+* 【2024-09-08】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
+* 【2024-09-08】[polarsource / polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 * 【2024-08-22】[toss / es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 * 【2024-08-22】[OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 * 【2024-08-22】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
@@ -460,6 +463,8 @@
 
 ## Java
 
+* 【2024-09-08】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
+* 【2024-09-08】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-08-22】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2024-08-22】[apache / hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 * 【2024-07-22】[syncthing / syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
@@ -553,6 +558,8 @@
 
 ## Python
 
+* 【2024-09-08】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+* 【2024-09-08】[OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
 * 【2024-08-22】[huggingface / lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 * 【2024-08-22】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
 * 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
@@ -871,6 +878,9 @@
 
 ## Javascript
 
+* 【2024-09-08】[UseInterstellar / Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
+* 【2024-09-08】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* 【2024-09-08】[dromara / skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
 * 【2024-08-22】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-22】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 * 【2024-08-15】[AIGODLIKE / AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
@@ -1268,6 +1278,8 @@
 
 ## C++
 
+* 【2024-09-08】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+* 【2024-09-08】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 * 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 * 【2024-07-29】[elfmz / far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 * 【2024-07-29】[fxsound2 / fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
@@ -1382,6 +1394,7 @@
 
 ## C#
 
+* 【2024-09-08】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-08-22】[berichan / ACNHMobileSpawner](https://github.com/berichan/ACNHMobileSpawner) - Animal Crossing New Horizons real-time multi-tool built in Unity.
 * 【2024-07-22】[fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 * 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast .NET C# Implementation of ULID for .NET and Unity.
@@ -1653,6 +1666,7 @@
 
 ## Css
 
+* 【2024-09-08】[dotnet-presentations / blazor-hybrid-workshop](https://github.com/dotnet-presentations/blazor-hybrid-workshop) - A full day workshop (.NET MAUI Blazor Hybrid Workshop in a Box) on how to build Blazor Hybrid apps with .NET MAUI for iOS, Android, macOS, and Windows
 * 【2024-08-15】[biopython / biopython.github.io](https://github.com/biopython/biopython.github.io) - Source of biopython.org website, migrated from MediaWiki
 * 【2024-07-22】[rust-lang / reference](https://github.com/rust-lang/reference) - The Rust Reference
 * 【2024-07-01】[Dalufishe / palserver-GUI](https://github.com/Dalufishe/palserver-GUI) - GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。
@@ -1846,6 +1860,7 @@
 
 ## Unknown
 
+* 【2024-09-08】[KaringX / karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 * 【2024-08-22】[pnp / copilot-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
 * 【2024-07-29】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-22】[Cyfrin / foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
