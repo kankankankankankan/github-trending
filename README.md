@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-09-15】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
+* 【2024-09-15】[xyflow / xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 * 【2024-09-08】[ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 * 【2024-09-08】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 * 【2024-09-08】[polarsource / polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
@@ -558,6 +560,8 @@
 
 ## Python
 
+* 【2024-09-15】[instructlab / instructlab](https://github.com/instructlab/instructlab) - InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.
+* 【2024-09-15】[dromara / domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
 * 【2024-09-08】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-09-08】[OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
 * 【2024-08-22】[huggingface / lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
@@ -878,6 +882,8 @@
 
 ## Javascript
 
+* 【2024-09-15】[cmliu / CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+* 【2024-09-15】[SAP / openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 * 【2024-09-08】[UseInterstellar / Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 * 【2024-09-08】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * 【2024-09-08】[dromara / skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
@@ -1049,6 +1055,7 @@
 
 ## Go
 
+* 【2024-09-15】[DataDog / dd-trace-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring.
 * 【2024-08-22】[sourcegraph / sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 * 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 * 【2024-08-22】[twmb / franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.7+. Producing, consuming, transacting, administrating, etc.
@@ -1160,6 +1167,9 @@
 
 ## C
 
+* 【2024-09-15】[raspberrypi / rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
+* 【2024-09-15】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
+* 【2024-09-15】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 * 【2024-08-15】[kilograham / rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 * 【2024-07-29】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-07-29】[hanwckf / bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
@@ -1394,6 +1404,7 @@
 
 ## C#
 
+* 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 * 【2024-09-08】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-08-22】[berichan / ACNHMobileSpawner](https://github.com/berichan/ACNHMobileSpawner) - Animal Crossing New Horizons real-time multi-tool built in Unity.
 * 【2024-07-22】[fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
@@ -1666,6 +1677,8 @@
 
 ## Css
 
+* 【2024-09-15】[Automattic / themes](https://github.com/Automattic/themes) - Free WordPress themes made by Automattic for WordPress.org and WordPress.com.
+* 【2024-09-15】[dohliam / dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 * 【2024-09-08】[dotnet-presentations / blazor-hybrid-workshop](https://github.com/dotnet-presentations/blazor-hybrid-workshop) - A full day workshop (.NET MAUI Blazor Hybrid Workshop in a Box) on how to build Blazor Hybrid apps with .NET MAUI for iOS, Android, macOS, and Windows
 * 【2024-08-15】[biopython / biopython.github.io](https://github.com/biopython/biopython.github.io) - Source of biopython.org website, migrated from MediaWiki
 * 【2024-07-22】[rust-lang / reference](https://github.com/rust-lang/reference) - The Rust Reference
@@ -1860,6 +1873,7 @@
 
 ## Unknown
 
+* 【2024-09-15】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * 【2024-09-08】[KaringX / karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 * 【2024-08-22】[pnp / copilot-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
 * 【2024-07-29】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
