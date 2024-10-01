@@ -476,6 +476,7 @@
 
 ## Java
 
+* 【2024-10-01】[comet-ml / opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
 * 【2024-09-29】[camunda / camunda](https://github.com/camunda/camunda) - Process Orchestration Framework
 * 【2024-09-22】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 * 【2024-09-22】[microsoft / typespec](https://github.com/microsoft/typespec) - 
@@ -574,6 +575,8 @@
 
 ## Python
 
+* 【2024-10-01】[alexta69 / metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+* 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
 * 【2024-09-29】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 * 【2024-09-29】[hyperknot / openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 * 【2024-09-29】[meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
@@ -1192,6 +1195,10 @@
 
 ## C
 
+* 【2024-10-01】[sabrogden / Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
+* 【2024-10-01】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
+* 【2024-10-01】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
+* 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
 * 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 * 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-22】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar. Copy files over the cell phone camera!
@@ -1316,6 +1323,7 @@
 
 ## C++
 
+* 【2024-10-01】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
 * 【2024-09-22】[niedev / RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 * 【2024-09-08】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 * 【2024-09-08】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
@@ -1433,6 +1441,7 @@
 
 ## C#
 
+* 【2024-10-01】[mcmonkeyprojects / SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 * 【2024-09-29】[blake502 / balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
 * 【2024-09-29】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-09-29】[NuGet / NuGet.Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
@@ -1571,6 +1580,7 @@
 
 ## Html
 
+* 【2024-10-01】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 * 【2024-09-29】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 * 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-09-22】[git / git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
@@ -1912,6 +1922,7 @@
 
 ## Unknown
 
+* 【2024-10-01】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-29】[chiphuyen / dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 * 【2024-09-29】[KHwang9883 / MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 * 【2024-09-22】[birobirobiro / awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
