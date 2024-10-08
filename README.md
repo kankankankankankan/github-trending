@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-10-08】[mendableai / firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+* 【2024-10-08】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+* 【2024-10-08】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
 * 【2024-09-29】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
 * 【2024-09-29】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 * 【2024-09-29】[ml-explore / mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
@@ -476,6 +479,7 @@
 
 ## Java
 
+* 【2024-10-08】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet
 * 【2024-10-01】[comet-ml / opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
 * 【2024-09-29】[camunda / camunda](https://github.com/camunda/camunda) - Process Orchestration Framework
 * 【2024-09-22】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
@@ -575,6 +579,9 @@
 
 ## Python
 
+* 【2024-10-08】[alandtse / alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
+* 【2024-10-08】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data
+* 【2024-10-08】[Open-Wine-Components / umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 * 【2024-10-01】[alexta69 / metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
 * 【2024-09-29】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -906,6 +913,8 @@
 
 ## Javascript
 
+* 【2024-10-08】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
+* 【2024-10-08】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-29】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
 * 【2024-09-22】[lyfe00011 / whatsapp-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
 * 【2024-09-15】[cmliu / CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
@@ -1081,6 +1090,11 @@
 
 ## Go
 
+* 【2024-10-08】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
+* 【2024-10-08】[iam-veeramalla / observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
+* 【2024-10-08】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
+* 【2024-10-08】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
+* 【2024-10-08】[Forceu / Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * 【2024-09-29】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 * 【2024-09-22】[encoredev / encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
 * 【2024-09-15】[DataDog / dd-trace-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring.
@@ -1195,6 +1209,7 @@
 
 ## C
 
+* 【2024-10-08】[morrownr / 8821au-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets - v5.12.5.2
 * 【2024-10-01】[sabrogden / Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 * 【2024-10-01】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
 * 【2024-10-01】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
@@ -1441,6 +1456,9 @@
 
 ## C#
 
+* 【2024-10-08】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
+* 【2024-10-08】[openai / openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
+* 【2024-10-08】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2024-10-01】[mcmonkeyprojects / SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 * 【2024-09-29】[blake502 / balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
 * 【2024-09-29】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
@@ -1580,6 +1598,7 @@
 
 ## Html
 
+* 【2024-10-08】[DharshiBalasubramaniyam / ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript.
 * 【2024-10-01】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 * 【2024-09-29】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 * 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
@@ -1724,6 +1743,7 @@
 
 ## Css
 
+* 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
 * 【2024-09-29】[refact0r / system24](https://github.com/refact0r/system24) - a tui-style discord theme
 * 【2024-09-29】[primary-theme / obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 * 【2024-09-15】[Automattic / themes](https://github.com/Automattic/themes) - Free WordPress themes made by Automattic for WordPress.org and WordPress.com.
@@ -1922,6 +1942,7 @@
 
 ## Unknown
 
+* 【2024-10-08】[awesome-foss / awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 * 【2024-10-01】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-29】[chiphuyen / dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 * 【2024-09-29】[KHwang9883 / MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
