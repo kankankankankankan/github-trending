@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-10-22】[solana-developers / program-examples](https://github.com/solana-developers/program-examples) - A repository of Solana program examples
+* 【2024-10-22】[getomni-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
+* 【2024-10-22】[facebookresearch / co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
+* 【2024-10-22】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-10-15】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 * 【2024-10-15】[mfts / papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 * 【2024-10-15】[golemcloud / golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.
@@ -484,6 +488,8 @@
 
 ## Java
 
+* 【2024-10-22】[SoLegendary / reignofnether](https://github.com/SoLegendary/reignofnether) - 
+* 【2024-10-22】[VanceVagell / kv4p-ht](https://github.com/VanceVagell/kv4p-ht) - Open source handheld ham radio project KV4P-HT
 * 【2024-10-15】[gahogg / Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
 * 【2024-10-08】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet
 * 【2024-10-01】[comet-ml / opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
@@ -919,6 +925,8 @@
 
 ## Javascript
 
+* 【2024-10-22】[automatisch / automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+* 【2024-10-22】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 * 【2024-10-15】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
 * 【2024-10-15】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-10-15】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on.
@@ -1099,6 +1107,7 @@
 
 ## Go
 
+* 【2024-10-22】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2024-10-15】[kercre123 / wire-pod](https://github.com/kercre123/wire-pod) - Free, fully-featured server software for the Anki Vector robot.
 * 【2024-10-08】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 * 【2024-10-08】[iam-veeramalla / observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
@@ -1467,6 +1476,8 @@
 
 ## C#
 
+* 【2024-10-22】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
+* 【2024-10-22】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
 * 【2024-10-15】[bloxstraplabs / bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 * 【2024-10-15】[HaveIBeenPwned / PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
 * 【2024-10-15】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
@@ -1613,6 +1624,10 @@
 
 ## Html
 
+* 【2024-10-22】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - 🚀 Welcome🌈 , This repo is officially accepted for GSSOC extended 2k24🌟 & Hacktoberfest'24🌟This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos.
+* 【2024-10-22】[vishanurag / Canvas-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
+* 【2024-10-22】[ayush-that / FinVeda](https://github.com/ayush-that/FinVeda) - A dynamic financial literacy app with Arthsathi AI chatbot, finance blogs, market trends, SIP calculator, and a quiz for effortless finance learning.
+* 【2024-10-22】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 * 【2024-10-15】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
 * 【2024-10-08】[DharshiBalasubramaniyam / ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript.
 * 【2024-10-01】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
@@ -1759,6 +1774,8 @@
 
 ## Css
 
+* 【2024-10-22】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
+* 【2024-10-22】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-10-15】[AnswerDotAI / fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 * 【2024-10-15】[lemonmade / bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 * 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
