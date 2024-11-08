@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-11-08】[DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+* 【2024-11-08】[zmh-program / chatnio](https://github.com/zmh-program/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+* 【2024-11-08】[lailongwei / llbc](https://github.com/lailongwei/llbc) - 一个简洁、高效、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
 * 【2024-11-01】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 * 【2024-11-01】[udecode / plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 * 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
@@ -602,6 +605,10 @@
 
 ## Python
 
+* 【2024-11-08】[geekcomputers / Python](https://github.com/geekcomputers/Python) - My Python Examples
+* 【2024-11-08】[cvat-ai / cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+* 【2024-11-08】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+* 【2024-11-08】[DS4SD / docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 * 【2024-11-01】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 * 【2024-11-01】[homebrewltd / ichigo](https://github.com/homebrewltd/ichigo) - Llama3.1 learns to Listen
 * 【2024-11-01】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
@@ -1126,6 +1133,7 @@
 
 ## Go
 
+* 【2024-11-08】[openbao / openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 * 【2024-10-29】[henrygd / beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 * 【2024-10-29】[maddalax / htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 * 【2024-10-22】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
@@ -1381,6 +1389,8 @@
 
 ## C++
 
+* 【2024-11-08】[cagnulein / qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
+* 【2024-11-08】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 * 【2024-10-29】[CookiePLMonster / SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
 * 【2024-10-01】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
@@ -1799,6 +1809,7 @@
 
 ## Css
 
+* 【2024-11-08】[learningequality / kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 * 【2024-10-22】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
 * 【2024-10-22】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-10-15】[AnswerDotAI / fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
@@ -2002,6 +2013,7 @@
 
 ## Unknown
 
+* 【2024-11-08】[dbt-labs / jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
 * 【2024-11-01】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-10-29】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-10-08】[awesome-foss / awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
