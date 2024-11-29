@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-11-29】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
+* 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 * 【2024-11-22】[awslabs / multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2024-11-22】[getmaxun / maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]
 * 【2024-11-22】[arkohut / pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。
@@ -620,6 +622,10 @@
 
 ## Python
 
+* 【2024-11-29】[Guovin / iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
+* 【2024-11-29】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+* 【2024-11-29】[keephq / keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+* 【2024-11-29】[allenai / open-instruct](https://github.com/allenai/open-instruct) - 
 * 【2024-11-22】[NVIDIA / bionemo-framework](https://github.com/NVIDIA/bionemo-framework) - BioNeMo Framework: For building and adapting AI models in drug discovery at scale
 * 【2024-11-22】[TEN-framework / TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
 * 【2024-11-22】[RockChinQ / LangBot](https://github.com/RockChinQ/LangBot) - [WebUI Beta 测试✨] 😎高稳定、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、Moonshot（Kimi）、gpt4free、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
@@ -1153,6 +1159,7 @@
 
 ## Go
 
+* 【2024-11-29】[Project-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
 * 【2024-11-15】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes
 * 【2024-11-08】[openbao / openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 * 【2024-10-29】[henrygd / beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -1278,6 +1285,7 @@
 
 ## C
 
+* 【2024-11-29】[hengyoush / kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
 * 【2024-11-15】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
@@ -1536,6 +1544,7 @@
 
 ## C#
 
+* 【2024-11-29】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-11-22】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 * 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 9.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 * 【2024-11-15】[CommunityToolkit / Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
@@ -1687,6 +1696,7 @@
 
 ## Html
 
+* 【2024-11-29】[wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
 * 【2024-11-15】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-10-22】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - 🚀 Welcome🌈 , This repo is officially accepted for GSSOC extended 2k24🌟 & Hacktoberfest'24🌟This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos.
 * 【2024-10-22】[vishanurag / Canvas-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
@@ -1838,6 +1848,7 @@
 
 ## Css
 
+* 【2024-11-29】[drgullin / icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 * 【2024-11-08】[learningequality / kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 * 【2024-10-22】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
 * 【2024-10-22】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
@@ -2042,6 +2053,7 @@
 
 ## Unknown
 
+* 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-15】[microsoft / vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
 * 【2024-11-15】[stackblitz / webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 * 【2024-11-08】[dbt-labs / jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
