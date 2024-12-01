@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-12-01】[4gray / iptvnator](https://github.com/4gray/iptvnator) - 📺 Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * 【2024-11-29】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 * 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 * 【2024-11-22】[awslabs / multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -622,6 +623,7 @@
 
 ## Python
 
+* 【2024-12-01】[disposable-email-domains / disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 * 【2024-11-29】[Guovin / iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
 * 【2024-11-29】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 * 【2024-11-29】[keephq / keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
@@ -972,6 +974,8 @@
 
 ## Javascript
 
+* 【2024-12-01】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
+* 【2024-12-01】[xanderfrangos / twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 * 【2024-11-15】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 * 【2024-11-01】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 * 【2024-11-01】[Dooy / chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support Web / PWA / Linux / Win / MacOS platform
@@ -1159,6 +1163,8 @@
 
 ## Go
 
+* 【2024-12-01】[nezhahq / nezha](https://github.com/nezhahq/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
+* 【2024-12-01】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 * 【2024-11-29】[Project-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
 * 【2024-11-15】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes
 * 【2024-11-08】[openbao / openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -1285,6 +1291,8 @@
 
 ## C
 
+* 【2024-12-01】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.
+* 【2024-12-01】[ashvardanian / SimSIMD](https://github.com/ashvardanian/SimSIMD) - Up to 200x Faster Dot Products & Similarity Metrics — for Python, Rust, C, JS, and Swift, supporting f64, f32, f16 real & complex, i8, and bit vectors using SIMD for both AVX2, AVX-512, NEON, SVE, & SVE2 📐
 * 【2024-11-29】[hengyoush / kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
 * 【2024-11-15】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
@@ -1419,6 +1427,8 @@
 
 ## C++
 
+* 【2024-12-01】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
+* 【2024-12-01】[elalish / manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
 * 【2024-11-22】[microsoft / BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 * 【2024-11-22】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * 【2024-11-22】[LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -2053,6 +2063,7 @@
 
 ## Unknown
 
+* 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 * 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-15】[microsoft / vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
 * 【2024-11-15】[stackblitz / webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
