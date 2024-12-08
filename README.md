@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-12-08】[QuivrHQ / MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+* 【2024-12-08】[imputnet / cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+* 【2024-12-08】[al1abb / invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
+* 【2024-12-08】[PostgREST / postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+* 【2024-12-08】[evolutionaryscale / esm](https://github.com/evolutionaryscale/esm) - 
 * 【2024-12-01】[4gray / iptvnator](https://github.com/4gray/iptvnator) - 📺 Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * 【2024-11-29】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 * 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
@@ -512,6 +517,7 @@
 
 ## Java
 
+* 【2024-12-08】[eclipse-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * 【2024-11-22】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 * 【2024-11-15】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * 【2024-11-01】[CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -623,6 +629,11 @@
 
 ## Python
 
+* 【2024-12-08】[gusye1234 / nano-graphrag](https://github.com/gusye1234/nano-graphrag) - A simple, easy-to-hack GraphRAG implementation
+* 【2024-12-08】[pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
+* 【2024-12-08】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+* 【2024-12-08】[vladmandic / automatic](https://github.com/vladmandic/automatic) - SD.Next: Advanced Implementation Generative Image Models
+* 【2024-12-08】[moshstudio / TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 * 【2024-12-01】[disposable-email-domains / disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 * 【2024-11-29】[Guovin / iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
 * 【2024-11-29】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -1554,6 +1565,7 @@
 
 ## C#
 
+* 【2024-12-08】[stephanstapel / ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C# assembly for creating and reading ZUGFeRD invoices
 * 【2024-11-29】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-11-22】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 * 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 9.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
@@ -1706,6 +1718,7 @@
 
 ## Html
 
+* 【2024-12-08】[Flomp / wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 * 【2024-11-29】[wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
 * 【2024-11-15】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-10-22】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - 🚀 Welcome🌈 , This repo is officially accepted for GSSOC extended 2k24🌟 & Hacktoberfest'24🌟This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos.
@@ -2063,6 +2076,7 @@
 
 ## Unknown
 
+* 【2024-12-08】[tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 * 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-15】[microsoft / vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
