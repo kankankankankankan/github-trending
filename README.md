@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-12-22】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
+* 【2024-12-22】[Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+* 【2024-12-22】[apankrat / nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
+* 【2024-12-22】[seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
+* 【2024-12-22】[anthropics / anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+* 【2024-12-22】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
+* 【2024-12-22】[microsoft / PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
+* 【2024-12-22】[shardeum / shardeum](https://github.com/shardeum/shardeum) - Shardeum is an EVM based autoscaling blockchain
+* 【2024-12-22】[XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+* 【2024-12-22】[github / CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 * 【2024-12-15】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 * 【2024-12-15】[Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 * 【2024-12-15】[Saghen / blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
@@ -521,6 +531,7 @@
 
 ## Java
 
+* 【2024-12-22】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 * 【2024-12-08】[eclipse-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * 【2024-11-22】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 * 【2024-11-15】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
@@ -633,6 +644,10 @@
 
 ## Python
 
+* 【2024-12-22】[PacktPublishing / LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+* 【2024-12-22】[shobrook / wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
+* 【2024-12-22】[AnswerDotAI / ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
+* 【2024-12-22】[Soulter / AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信平台，支持 OpenAI GPT、Ollama、DeepsSeek、Llama、GLM、Gemini、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。
 * 【2024-12-15】[mherrmann / helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 * 【2024-12-15】[google-gemini / generative-ai-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API
 * 【2024-12-15】[healthchecks / healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -992,6 +1007,7 @@
 
 ## Javascript
 
+* 【2024-12-22】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 * 【2024-12-15】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2024-12-15】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 * 【2024-12-15】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
@@ -1186,6 +1202,7 @@
 
 ## Go
 
+* 【2024-12-22】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-12-01】[nezhahq / nezha](https://github.com/nezhahq/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-12-01】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 * 【2024-11-29】[Project-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
@@ -1453,6 +1470,7 @@
 
 ## C++
 
+* 【2024-12-22】[LuisaGroup / LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-Performance Rendering Framework on Stream Architectures
 * 【2024-12-15】[Detanup01 / gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 * 【2024-12-01】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 * 【2024-12-01】[elalish / manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
@@ -1581,6 +1599,7 @@
 
 ## C#
 
+* 【2024-12-22】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 * 【2024-12-08】[stephanstapel / ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C# assembly for creating and reading ZUGFeRD invoices
 * 【2024-11-29】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-11-22】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
@@ -1734,6 +1753,9 @@
 
 ## Html
 
+* 【2024-12-22】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
+* 【2024-12-22】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+* 【2024-12-22】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
 * 【2024-12-15】[horilla-opensource / horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
 * 【2024-12-08】[Flomp / wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 * 【2024-11-29】[wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note) - 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
@@ -2094,6 +2116,7 @@
 
 ## Unknown
 
+* 【2024-12-22】[PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 * 【2024-12-15】[proxifly / free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * 【2024-12-08】[tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
