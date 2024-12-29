@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-12-29】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+* 【2024-12-29】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
+* 【2024-12-29】[mbadolato / iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
+* 【2024-12-29】[kangfenmao / cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * 【2024-12-22】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 * 【2024-12-22】[Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 * 【2024-12-22】[apankrat / nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -1007,6 +1011,9 @@
 
 ## Javascript
 
+* 【2024-12-29】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
+* 【2024-12-29】[maboloshi / github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+* 【2024-12-29】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2024-12-22】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 * 【2024-12-15】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2024-12-15】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
@@ -1202,6 +1209,8 @@
 
 ## Go
 
+* 【2024-12-29】[cashapp / cloner](https://github.com/cashapp/cloner) - 
+* 【2024-12-29】[gin-gonic / examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 * 【2024-12-22】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-12-01】[nezhahq / nezha](https://github.com/nezhahq/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-12-01】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
@@ -1331,6 +1340,9 @@
 
 ## C
 
+* 【2024-12-29】[RamonUnch / AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
+* 【2024-12-29】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
+* 【2024-12-29】[EpicGamesExt / raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 * 【2024-12-15】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-15】[oracle / bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 * 【2024-12-15】[apache / cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
@@ -1599,6 +1611,7 @@
 
 ## C#
 
+* 【2024-12-29】[LagrangeDev / Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 * 【2024-12-22】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 * 【2024-12-08】[stephanstapel / ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C# assembly for creating and reading ZUGFeRD invoices
 * 【2024-11-29】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
@@ -1753,6 +1766,7 @@
 
 ## Html
 
+* 【2024-12-29】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-22】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
 * 【2024-12-22】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 * 【2024-12-22】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
@@ -1910,6 +1924,8 @@
 
 ## Css
 
+* 【2024-12-29】[aws-samples / amplify-next-template](https://github.com/aws-samples/amplify-next-template) - This is a Next.js starter for building a fullstack app with AWS Amplify.
+* 【2024-12-29】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 * 【2024-12-15】[supabase / auth-js](https://github.com/supabase/auth-js) - An isomorphic Javascript library for Supabase Auth.
 * 【2024-11-29】[drgullin / icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 * 【2024-11-08】[learningequality / kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
@@ -2116,6 +2132,10 @@
 
 ## Unknown
 
+* 【2024-12-29】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
+* 【2024-12-29】[shadps4-emu / shadps4-game-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
+* 【2024-12-29】[deepseek-ai / awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
+* 【2024-12-29】[deepseek-ai / DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 * 【2024-12-22】[PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 * 【2024-12-15】[proxifly / free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * 【2024-12-08】[tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
