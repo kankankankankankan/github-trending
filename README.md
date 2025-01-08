@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-01-08】[zaidmukaddam / miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+* 【2025-01-08】[zigbee2mqtt / hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
+* 【2025-01-08】[rectorphp / rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 * 【2025-01-01】[pathwaycom / pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 * 【2025-01-01】[DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 * 【2025-01-01】[elizaOS / eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -539,6 +542,8 @@
 
 ## Java
 
+* 【2025-01-08】[xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+* 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 * 【2025-01-01】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) natively support KAG...
 * 【2025-01-01】[binarywang / WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 * 【2025-01-01】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
@@ -656,6 +661,7 @@
 
 ## Python
 
+* 【2025-01-08】[NVIDIA / nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
 * 【2025-01-01】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
 * 【2025-01-01】[neuraloperator / neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators.
 * 【2025-01-01】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
@@ -1022,6 +1028,7 @@
 
 ## Javascript
 
+* 【2025-01-08】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-01】[notwaldorf / emoji-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
 * 【2025-01-01】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-12-29】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
@@ -1222,6 +1229,8 @@
 
 ## Go
 
+* 【2025-01-08】[sysadminsmedia / homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
+* 【2025-01-08】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 * 【2025-01-01】[daytonaio / daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 * 【2024-12-29】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-29】[gin-gonic / examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
@@ -1354,6 +1363,9 @@
 
 ## C
 
+* 【2025-01-08】[Waujito / youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems that rely on SNI
+* 【2025-01-08】[zjutjh / zjut-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
+* 【2025-01-08】[quickjs-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 * 【2025-01-01】[KreitinnSoftware / MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
 * 【2025-01-01】[bmorcelli / M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
 * 【2024-12-29】[RamonUnch / AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
@@ -1498,6 +1510,9 @@
 
 ## C++
 
+* 【2025-01-08】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs.srsran.com/projects/project
+* 【2025-01-08】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+* 【2025-01-08】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.
 * 【2025-01-01】[dalathegreat / Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters
 * 【2025-01-01】[NVIDIA / DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 * 【2025-01-01】[moveit / moveit2](https://github.com/moveit/moveit2) - 🤖 MoveIt for ROS 2
@@ -1631,6 +1646,7 @@
 
 ## C#
 
+* 【2025-01-08】[SciSharp / BotSharp](https://github.com/SciSharp/BotSharp) - AI Multi-Agent Framework in .NET
 * 【2025-01-01】[ZGGSONG / STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
 * 【2024-12-29】[LagrangeDev / Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
@@ -1788,6 +1804,7 @@
 
 ## Html
 
+* 【2025-01-08】[dgunning / edgartools](https://github.com/dgunning/edgartools) - Navigate SEC Edgar data in Python
 * 【2025-01-01】[gehaxelt / phuzz](https://github.com/gehaxelt/phuzz) - 
 * 【2024-12-29】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-22】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
@@ -1947,6 +1964,8 @@
 
 ## Css
 
+* 【2025-01-08】[zhaohuabing / hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
+* 【2025-01-08】[remy / mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 * 【2025-01-01】[themeselection / flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 * 【2025-01-01】[ZYYO666 / homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
 * 【2025-01-01】[vicwomg / pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
