@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-04-22】[elie222 / inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+* 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 * 【2025-04-08】[meta-llama / llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 * 【2025-04-08】[funstory-ai / BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 * 【2025-04-08】[supabase-community / supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
@@ -597,6 +599,8 @@
 
 ## Java
 
+* 【2025-04-22】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
+* 【2025-04-22】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-04-08】[NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
 * 【2025-04-01】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
 * 【2025-04-01】[leck995 / WutheringWavesTool](https://github.com/leck995/WutheringWavesTool) - 鸣潮助手，鸣潮工具集与启动器，主要功能有获取角色信息，解锁帧率，实现库街区签到，游戏时长统计以及抽卡分析(支持国际服账号)。
@@ -732,6 +736,9 @@
 
 ## Python
 
+* 【2025-04-22】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
+* 【2025-04-22】[jixiaozhong / Sonic](https://github.com/jixiaozhong/Sonic) - Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"
+* 【2025-04-22】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
 * 【2025-04-08】[vllm-project / llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 * 【2025-04-01】[fatihak / InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 * 【2025-04-01】[leminlimez / Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -1127,6 +1134,8 @@
 
 ## Javascript
 
+* 【2025-04-22】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
+* 【2025-04-22】[discord / discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2025-04-01】[xnx3 / translate](https://github.com/xnx3/translate) - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
 * 【2025-04-01】[zen-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 * 【2025-03-08】[browserbase / mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
@@ -1337,6 +1346,8 @@
 
 ## Go
 
+* 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
+* 【2025-04-22】[usual2970 / certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 * 【2025-04-08】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-04-08】[grafana / mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 * 【2025-04-01】[alireza0 / s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
@@ -1646,6 +1657,10 @@
 
 ## C++
 
+* 【2025-04-22】[Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+* 【2025-04-22】[ggml-org / whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+* 【2025-04-22】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
+* 【2025-04-22】[cifertech / nRFBox](https://github.com/cifertech/nRFBox) - All-in-One Gadget for Dominating BLE and 2.4GHz Networks | BLE Jammer - BLE Spoofer - Scanner
 * 【2025-04-08】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 * 【2025-04-01】[shdwmtr / millennium](https://github.com/shdwmtr/millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
 * 【2025-03-29】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
@@ -1794,6 +1809,7 @@
 
 ## C#
 
+* 【2025-04-22】[dotnet / macios](https://github.com/dotnet/macios) - .NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#
 * 【2025-04-01】[BedrockLauncher / BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher) - 
 * 【2025-03-29】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 * 【2025-03-29】[dexyfex / CodeWalker](https://github.com/dexyfex/CodeWalker) - 
@@ -2147,6 +2163,8 @@
 
 ## Css
 
+* 【2025-04-22】[adriankarlen / textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
+* 【2025-04-22】[LondheShubham153 / tws-portfolio](https://github.com/LondheShubham153/tws-portfolio) - 
 * 【2025-04-08】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
 * 【2025-04-08】[aftertheflood / sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
 * 【2025-04-01】[JaKooLit / Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
