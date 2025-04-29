@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-04-29】[getzep / graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+* 【2025-04-29】[Tencent / Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+* 【2025-04-29】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+* 【2025-04-29】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 * 【2025-04-22】[elie222 / inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 * 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 * 【2025-04-08】[meta-llama / llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
@@ -736,6 +740,10 @@
 
 ## Python
 
+* 【2025-04-29】[microsoft / UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
+* 【2025-04-29】[modelscope / FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+* 【2025-04-29】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS) and Speech-to-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon.
+* 【2025-04-29】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 * 【2025-04-22】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 * 【2025-04-22】[jixiaozhong / Sonic](https://github.com/jixiaozhong/Sonic) - Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"
 * 【2025-04-22】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
@@ -1134,6 +1142,9 @@
 
 ## Javascript
 
+* 【2025-04-29】[cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
+* 【2025-04-29】[hmjz100 / LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
+* 【2025-04-29】[tavily-ai / tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - 
 * 【2025-04-22】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 * 【2025-04-22】[discord / discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2025-04-01】[xnx3 / translate](https://github.com/xnx3/translate) - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
@@ -1346,6 +1357,7 @@
 
 ## Go
 
+* 【2025-04-29】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 * 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 * 【2025-04-22】[usual2970 / certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 * 【2025-04-08】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
@@ -1498,6 +1510,8 @@
 
 ## C
 
+* 【2025-04-29】[PerformanC / ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+* 【2025-04-29】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
 * 【2025-04-08】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-04-01】[Johannes4Linux / Linux_Driver_Tutorial_legacy](https://github.com/Johannes4Linux/Linux_Driver_Tutorial_legacy) - A Tutorial how to get started with Linux Kernel Modules and Linux Drivers.
 * 【2025-03-29】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
@@ -1809,6 +1823,7 @@
 
 ## C#
 
+* 【2025-04-29】[intro-skipper / intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2025-04-22】[dotnet / macios](https://github.com/dotnet/macios) - .NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#
 * 【2025-04-01】[BedrockLauncher / BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher) - 
 * 【2025-03-29】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
@@ -1982,6 +1997,8 @@
 
 ## Html
 
+* 【2025-04-29】[sidex15 / susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
+* 【2025-04-29】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-08】[sunnyoggcp / github-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
 * 【2025-04-08】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2025-03-29】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
@@ -2163,6 +2180,7 @@
 
 ## Css
 
+* 【2025-04-29】[strues / retinajs](https://github.com/strues/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants
 * 【2025-04-22】[adriankarlen / textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 * 【2025-04-22】[LondheShubham153 / tws-portfolio](https://github.com/LondheShubham153/tws-portfolio) - 
 * 【2025-04-08】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
@@ -2390,6 +2408,7 @@
 
 ## Unknown
 
+* 【2025-04-29】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 * 【2025-04-08】[NeverSinkDev / NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 * 【2025-03-29】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2025-03-22】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
