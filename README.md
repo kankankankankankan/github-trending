@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-05-15】[airweave-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app
+* 【2025-05-15】[xming521 / WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
+* 【2025-05-15】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
 * 【2025-05-08】[microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 * 【2025-05-08】[voideditor / void](https://github.com/voideditor/void) - 
 * 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
@@ -609,6 +612,7 @@
 
 ## Java
 
+* 【2025-05-15】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-08】[ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 * 【2025-05-01】[lavalink-devs / youtube-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer.
 * 【2025-05-01】[kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
@@ -750,6 +754,8 @@
 
 ## Python
 
+* 【2025-05-15】[browser-use / web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
+* 【2025-05-15】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 * 【2025-05-08】[sunnypilot / sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.
 * 【2025-05-08】[yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 * 【2025-05-08】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
@@ -1159,6 +1165,9 @@
 
 ## Javascript
 
+* 【2025-05-15】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+* 【2025-05-15】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
+* 【2025-05-15】[OpenZeppelin / openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
 * 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 * 【2025-05-08】[GeoNode / geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 * 【2025-04-29】[cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
@@ -1376,6 +1385,7 @@
 
 ## Go
 
+* 【2025-05-15】[langgenius / dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 * 【2025-05-08】[0xJacky / nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 * 【2025-05-08】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 * 【2025-05-08】[gosom / google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
@@ -2027,6 +2037,7 @@
 
 ## Html
 
+* 【2025-05-15】[thewickedkarma / blackeye-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued. Kindly use other working alternatives.
 * 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web-based tool for processing images and converting documents with a simple interface
 * 【2025-04-29】[sidex15 / susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 * 【2025-04-29】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
@@ -2439,6 +2450,7 @@
 
 ## Unknown
 
+* 【2025-05-15】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 * 【2025-05-08】[ZJU-LLMs / Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 * 【2025-04-29】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 * 【2025-04-08】[NeverSinkDev / NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
