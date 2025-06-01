@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2025-06-01】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+* 【2025-06-01】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+* 【2025-06-01】[aaPanel / BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+* 【2025-06-01】[fastapi / fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+* 【2025-06-01】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+* 【2025-06-01】[promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+* 【2025-06-01】[ok-oldking / ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
+* 【2025-06-01】[chenzomi12 / aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2025-05-29】[Fosowl / agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 * 【2025-05-29】[NomicFoundation / hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 * 【2025-05-29】[Lagrange-Labs / deep-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
@@ -616,6 +624,7 @@
 
 ## Java
 
+* 【2025-06-01】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 * 【2025-05-29】[apache / tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
 * 【2025-05-15】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-08】[ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
@@ -759,6 +768,8 @@
 
 ## Python
 
+* 【2025-06-01】[coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
+* 【2025-06-01】[KwaiVGI / LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 * 【2025-05-22】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
 * 【2025-05-22】[apache / iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg
 * 【2025-05-15】[browser-use / web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
@@ -1172,6 +1183,10 @@
 
 ## Javascript
 
+* 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
+* 【2025-06-01】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
+* 【2025-06-01】[hexgrad / kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
+* 【2025-06-01】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2025-05-29】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 * 【2025-05-29】[minio / object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage 🧮
 * 【2025-05-22】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -1723,6 +1738,8 @@
 
 ## C++
 
+* 【2025-06-01】[microsoft / onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
+* 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-22】[ERGO-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
 * 【2025-05-22】[duixcom / Duix.mobile](https://github.com/duixcom/Duix.mobile) - 
 * 【2025-05-01】[MuShibo / Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
@@ -1878,6 +1895,8 @@
 
 ## C#
 
+* 【2025-06-01】[oculus-samples / Unity-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity.
+* 【2025-06-01】[huynhsontung / Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 * 【2025-05-29】[MicrosoftDocs / windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
 * 【2025-05-22】[clawsoftware / clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
 * 【2025-05-08】[w4po / ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
@@ -2244,6 +2263,7 @@
 
 ## Css
 
+* 【2025-06-01】[hunvreus / basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 * 【2025-05-29】[themesberg / flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 * 【2025-05-22】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.
 * 【2025-05-22】[sameerasw / my-internet](https://github.com/sameerasw/my-internet) - Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on
@@ -2475,6 +2495,10 @@
 
 ## Unknown
 
+* 【2025-06-01】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
+* 【2025-06-01】[deepseek-ai / DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
+* 【2025-06-01】[TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
+* 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 * 【2025-05-22】[MicrosoftDocs / WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 * 【2025-05-22】[lvgl / lvgl_editor](https://github.com/lvgl/lvgl_editor) - 
 * 【2025-05-15】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
