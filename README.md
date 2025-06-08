@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2025-06-08】[topoteretes / cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
+* 【2025-06-08】[codexu / note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+* 【2025-06-08】[DavidHDev / react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
+* 【2025-06-08】[jwohlwend / boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
+* 【2025-06-08】[deepsense-ai / ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
+* 【2025-06-08】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
+* 【2025-06-08】[iib0011 / omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+* 【2025-06-08】[alphacep / vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 * 【2025-06-01】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2025-06-01】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 * 【2025-06-01】[aaPanel / BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
@@ -624,6 +632,7 @@
 
 ## Java
 
+* 【2025-06-08】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-06-01】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 * 【2025-05-29】[apache / tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
 * 【2025-05-15】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
@@ -768,6 +777,9 @@
 
 ## Python
 
+* 【2025-06-08】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
+* 【2025-06-08】[coleam00 / Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
+* 【2025-06-08】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 * 【2025-06-01】[coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
 * 【2025-06-01】[KwaiVGI / LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 * 【2025-05-22】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
@@ -1183,6 +1195,8 @@
 
 ## Javascript
 
+* 【2025-06-08】[eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+* 【2025-06-08】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 * 【2025-06-01】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-06-01】[hexgrad / kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
@@ -1411,6 +1425,7 @@
 
 ## Go
 
+* 【2025-06-08】[kubetail-org / kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
 * 【2025-05-29】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 * 【2025-05-29】[manusa / kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-05-22】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -1895,6 +1910,9 @@
 
 ## C#
 
+* 【2025-06-08】[SteveDunn / Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
+* 【2025-06-08】[UnderminersTeam / UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
+* 【2025-06-08】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * 【2025-06-01】[oculus-samples / Unity-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity.
 * 【2025-06-01】[huynhsontung / Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 * 【2025-05-29】[MicrosoftDocs / windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
@@ -2076,6 +2094,7 @@
 
 ## Html
 
+* 【2025-06-08】[microsoft / CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) - 
 * 【2025-05-29】[uiverse-io / galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 * 【2025-05-22】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
 * 【2025-05-15】[thewickedkarma / blackeye-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued. Kindly use other working alternatives.
@@ -2263,6 +2282,7 @@
 
 ## Css
 
+* 【2025-06-08】[JustAdumbPrsn / Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) - A minimalist Glassmorphism based theme to elevate the UI of Zen browser
 * 【2025-06-01】[hunvreus / basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 * 【2025-05-29】[themesberg / flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 * 【2025-05-22】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.
