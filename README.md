@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-07-01】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
+* 【2025-07-01】[aldinokemal / go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+* 【2025-07-01】[snailyp / gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
+* 【2025-07-01】[vanshb03 / Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-06-29】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 * 【2025-06-29】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 * 【2025-06-29】[coleam00 / ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
@@ -642,6 +646,9 @@
 
 ## Java
 
+* 【2025-07-01】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+* 【2025-07-01】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
+* 【2025-07-01】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 * 【2025-06-08】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-06-01】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
@@ -788,6 +795,8 @@
 
 ## Python
 
+* 【2025-07-01】[tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+* 【2025-07-01】[wyeeeee / hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
 * 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 * 【2025-06-29】[huangjunsen0406 / py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
 * 【2025-06-29】[gensyn-ai / rl-swarm](https://github.com/gensyn-ai/rl-swarm) - A fully open source framework for creating RL training swarms over the internet.
@@ -1217,6 +1226,8 @@
 
 ## Javascript
 
+* 【2025-07-01】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
+* 【2025-07-01】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 * 【2025-06-29】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * 【2025-06-29】[extesy / hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
@@ -1454,6 +1465,11 @@
 
 ## Go
 
+* 【2025-07-01】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
+* 【2025-07-01】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
+* 【2025-07-01】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+* 【2025-07-01】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
+* 【2025-07-01】[bootdotdev / bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 * 【2025-06-29】[NVIDIA / KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2025-06-22】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -1792,6 +1808,9 @@
 
 ## C++
 
+* 【2025-07-01】[nisargjhaveri / WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
+* 【2025-07-01】[Mahdi-zarei / nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+* 【2025-07-01】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-22】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 * 【2025-06-22】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
@@ -1955,6 +1974,8 @@
 
 ## C#
 
+* 【2025-07-01】[TheAirBlow / HyperSploit](https://github.com/TheAirBlow/HyperSploit) - Bypasses HyperOS restrictions on bootloader unlocking
+* 【2025-07-01】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
 * 【2025-06-22】[microsoft / Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
 * 【2025-06-22】[syncfusion / maui-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for .NET MAUI offers high-quality UI controls to help you build rich, high-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-06-22】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
@@ -2145,6 +2166,8 @@
 
 ## Html
 
+* 【2025-07-01】[Anduin2017 / AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
+* 【2025-07-01】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 * 【2025-06-29】[yuzono / manga-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks.
 * 【2025-06-22】[docker / labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - Your trusted home for discovering MCP tools – seamlessly integrated into Docker
 * 【2025-06-22】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
@@ -2337,6 +2360,9 @@
 
 ## Css
 
+* 【2025-07-01】[civilblur / mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
+* 【2025-07-01】[selkies-project / selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
+* 【2025-07-01】[leanprover-community / leanprover-community.github.io](https://github.com/leanprover-community/leanprover-community.github.io) - Hosts the website for mathlib and other Lean community infrastructure.
 * 【2025-06-15】[lscambo13 / ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.
 * 【2025-06-15】[google-gemini / gemini-api-quickstart](https://github.com/google-gemini/gemini-api-quickstart) - Get up and running with the Gemini API in under 5 minutes (with Python)
 * 【2025-06-08】[JustAdumbPrsn / Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) - A minimalist Glassmorphism based theme to elevate the UI of Zen browser
