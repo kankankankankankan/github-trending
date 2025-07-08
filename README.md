@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-07-08】[rustfs / rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
+* 【2025-07-08】[humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+* 【2025-07-08】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-07-01】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
 * 【2025-07-01】[aldinokemal / go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
 * 【2025-07-01】[snailyp / gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
@@ -646,6 +649,8 @@
 
 ## Java
 
+* 【2025-07-08】[Aefyr / SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
+* 【2025-07-08】[FaceAISDK / FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
 * 【2025-07-01】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2025-07-01】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 * 【2025-07-01】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
@@ -795,6 +800,11 @@
 
 ## Python
 
+* 【2025-07-08】[megadose / toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+* 【2025-07-08】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
+* 【2025-07-08】[Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+* 【2025-07-08】[joeyism / linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
+* 【2025-07-08】[dongshuyan / Upload_Machine](https://github.com/dongshuyan/Upload_Machine) - Upload local resources to PT trackers automatically using requests.
 * 【2025-07-01】[tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 * 【2025-07-01】[wyeeeee / hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
 * 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
@@ -1465,6 +1475,12 @@
 
 ## Go
 
+* 【2025-07-08】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
+* 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
+* 【2025-07-08】[zerodha / kite-mcp-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
+* 【2025-07-08】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
+* 【2025-07-08】[MightyMoud / sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
+* 【2025-07-08】[Xpl0itU / WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
 * 【2025-07-01】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-07-01】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
 * 【2025-07-01】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -1640,6 +1656,9 @@
 
 ## C
 
+* 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
+* 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
+* 【2025-07-08】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
 * 【2025-06-29】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 * 【2025-06-29】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 * 【2025-06-15】[PostHog / DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
@@ -1808,6 +1827,8 @@
 
 ## C++
 
+* 【2025-07-08】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
+* 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 * 【2025-07-01】[nisargjhaveri / WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
 * 【2025-07-01】[Mahdi-zarei / nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 * 【2025-07-01】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
@@ -1974,6 +1995,11 @@
 
 ## C#
 
+* 【2025-07-08】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
+* 【2025-07-08】[RMC-14 / RMC-14](https://github.com/RMC-14/RMC-14) - RMC-14 is an asymmetric PvP game that runs on Robust Toolbox.
+* 【2025-07-08】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
+* 【2025-07-08】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs - Csharp and open version of windows builtin runas.exe
+* 【2025-07-08】[Maassoft / ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
 * 【2025-07-01】[TheAirBlow / HyperSploit](https://github.com/TheAirBlow/HyperSploit) - Bypasses HyperOS restrictions on bootloader unlocking
 * 【2025-07-01】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
 * 【2025-06-22】[microsoft / Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.
@@ -2166,6 +2192,7 @@
 
 ## Html
 
+* 【2025-07-08】[syoius / MaaYuan](https://github.com/syoius/MaaYuan) - 代号鸢 / 如鸢 一键长草小助手
 * 【2025-07-01】[Anduin2017 / AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
 * 【2025-07-01】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 * 【2025-06-29】[yuzono / manga-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks.
@@ -2360,6 +2387,8 @@
 
 ## Css
 
+* 【2025-07-08】[MicrosoftDocs / Azure-RMSDocs](https://github.com/MicrosoftDocs/Azure-RMSDocs) - Public content repo for Azure RMS content in OPS
+* 【2025-07-08】[myfreeer / cppreference2mshelp](https://github.com/myfreeer/cppreference2mshelp) - cppreference.com html archive converter to microsoft help (for Visual Studio 2012+) and chm help (for Windows)
 * 【2025-07-01】[civilblur / mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 * 【2025-07-01】[selkies-project / selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 * 【2025-07-01】[leanprover-community / leanprover-community.github.io](https://github.com/leanprover-community/leanprover-community.github.io) - Hosts the website for mathlib and other Lean community infrastructure.
