@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2025-07-22】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+* 【2025-07-22】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
+* 【2025-07-22】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+* 【2025-07-22】[C4illin / ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+* 【2025-07-22】[simstudioai / sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+* 【2025-07-22】[mishushakov / llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
+* 【2025-07-22】[Freika / dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Location History (Google Maps Timeline)
 * 【2025-07-15】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * 【2025-07-15】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-15】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -805,6 +812,7 @@
 
 ## Python
 
+* 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
 * 【2025-07-15】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
 * 【2025-07-08】[megadose / toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
 * 【2025-07-08】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
@@ -1242,6 +1250,7 @@
 
 ## Javascript
 
+* 【2025-07-22】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2025-07-01】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 * 【2025-07-01】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 * 【2025-06-29】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -1481,6 +1490,9 @@
 
 ## Go
 
+* 【2025-07-22】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+* 【2025-07-22】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
+* 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-15】[RezaSi / go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
 * 【2025-07-15】[Ullaakut / cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 * 【2025-07-08】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
@@ -1664,6 +1676,9 @@
 
 ## C
 
+* 【2025-07-22】[HarbourMasters / SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - 
+* 【2025-07-22】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
+* 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
 * 【2025-07-08】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
@@ -2003,6 +2018,10 @@
 
 ## C#
 
+* 【2025-07-22】[rwmt / Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith's Multiplayer mod for RimWorld
+* 【2025-07-22】[REDSIM / VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
+* 【2025-07-22】[imDema / FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
+* 【2025-07-22】[Azure / azure-mcp](https://github.com/Azure/azure-mcp) - The Azure MCP Server, bringing the power of Azure to your agents.
 * 【2025-07-15】[SakiRinn / LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
 * 【2025-07-15】[justinpbarnett / unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-07-08】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
@@ -2398,6 +2417,8 @@
 
 ## Css
 
+* 【2025-07-22】[Chainlift / liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
+* 【2025-07-22】[aculix / bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
 * 【2025-07-08】[MicrosoftDocs / Azure-RMSDocs](https://github.com/MicrosoftDocs/Azure-RMSDocs) - Public content repo for Azure RMS content in OPS
 * 【2025-07-08】[myfreeer / cppreference2mshelp](https://github.com/myfreeer/cppreference2mshelp) - cppreference.com html archive converter to microsoft help (for Visual Studio 2012+) and chm help (for Windows)
 * 【2025-07-01】[civilblur / mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
