@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2025-08-01】[SkyworkAI / SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
+* 【2025-08-01】[EmenstaNougat / ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.
+* 【2025-08-01】[9001 / copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+* 【2025-08-01】[Canner / WrenAI](https://github.com/Canner/WrenAI) - ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.
+* 【2025-08-01】[fastrepl / hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 * 【2025-07-29】[daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 * 【2025-07-29】[outline / outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 * 【2025-07-29】[ashishpatel26 / 500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
@@ -664,6 +669,8 @@
 
 ## Java
 
+* 【2025-08-01】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
+* 【2025-08-01】[apache / fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics.
 * 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
 * 【2025-07-29】[coze-dev / coze-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
 * 【2025-07-29】[CellularPrivacy / Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
@@ -819,6 +826,9 @@
 
 ## Python
 
+* 【2025-08-01】[OSU-NLP-Group / HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.
+* 【2025-08-01】[microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+* 【2025-08-01】[nikmcfly / ANUS](https://github.com/nikmcfly/ANUS) - 
 * 【2025-07-29】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
 * 【2025-07-29】[ml-explore / mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 * 【2025-07-29】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
@@ -1261,6 +1271,7 @@
 
 ## Javascript
 
+* 【2025-08-01】[viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 * 【2025-07-29】[Azgaar / Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 * 【2025-07-29】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 * 【2025-07-22】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
@@ -1503,6 +1514,9 @@
 
 ## Go
 
+* 【2025-08-01】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
+* 【2025-08-01】[sst / opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+* 【2025-08-01】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
 * 【2025-07-29】[lharries / whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 * 【2025-07-29】[YouROK / TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 * 【2025-07-29】[tnborg / panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
@@ -1692,6 +1706,7 @@
 
 ## C
 
+* 【2025-08-01】[TEN-framework / ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents.
 * 【2025-07-29】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-07-29】[FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 * 【2025-07-22】[HarbourMasters / SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - 
@@ -2039,6 +2054,10 @@
 
 ## C#
 
+* 【2025-08-01】[modelcontextprotocol / csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
+* 【2025-08-01】[AIDotNet / OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
+* 【2025-08-01】[Luca3317 / TMPEffects](https://github.com/Luca3317/TMPEffects) - Easily animate Unity text and apply other effects with custom tags
+* 【2025-08-01】[CoplayDev / unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-07-29】[Cleanuparr / Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 * 【2025-07-22】[rwmt / Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith's Multiplayer mod for RimWorld
 * 【2025-07-22】[REDSIM / VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
@@ -2243,6 +2262,7 @@
 
 ## Html
 
+* 【2025-08-01】[sky22333 / hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 * 【2025-07-15】[AeolusUX / ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
 * 【2025-07-08】[syoius / MaaYuan](https://github.com/syoius/MaaYuan) - 代号鸢 / 如鸢 一键长草小助手
 * 【2025-07-01】[Anduin2017 / AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
@@ -2439,6 +2459,7 @@
 
 ## Css
 
+* 【2025-08-01】[tw93 / weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 * 【2025-07-29】[mylinuxforwork / dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch, Fedora and openSuse.
 * 【2025-07-22】[Chainlift / liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
 * 【2025-07-22】[aculix / bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
@@ -2682,6 +2703,10 @@
 
 ## Unknown
 
+* 【2025-08-01】[FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
+* 【2025-08-01】[omkarcloud / google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
+* 【2025-08-01】[crescentpartha / CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers) - A collection of programming CheatSheets for developers to boost your productivity and quick review to remember while working.
+* 【2025-08-01】[MuriithiEric / July2025Cohort-Hackathon1](https://github.com/MuriithiEric/July2025Cohort-Hackathon1) - 
 * 【2025-07-29】[melontini / bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2025-06-29】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
 * 【2025-06-29】[tc39 / proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
