@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-09-29】[rapid7 / metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+* 【2025-09-29】[onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 * 【2025-09-22】[Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 * 【2025-09-22】[basecamp / omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 * 【2025-09-22】[WECENG / ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
@@ -868,6 +870,10 @@
 
 ## Python
 
+* 【2025-09-29】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
+* 【2025-09-29】[imputnet / helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
+* 【2025-09-29】[elliottech / lighter-python](https://github.com/elliottech/lighter-python) - Public Python SDK for Lighter
+* 【2025-09-29】[Comfy-Org / ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 * 【2025-09-22】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 * 【2025-09-15】[NVIDIA / garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 * 【2025-09-15】[sentient-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
@@ -1338,6 +1344,8 @@
 
 ## Javascript
 
+* 【2025-09-29】[sohzm / cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
+* 【2025-09-29】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-09-15】[home-sweet-gnome / dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 * 【2025-09-08】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 * 【2025-09-08】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
@@ -1595,6 +1603,8 @@
 
 ## Go
 
+* 【2025-09-29】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+* 【2025-09-29】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-09-15】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 * 【2025-09-01】[jorgerojas26 / lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 * 【2025-09-01】[charmbracelet / crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -1792,6 +1802,7 @@
 
 ## C
 
+* 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
 * 【2025-09-01】[nanovms / nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 * 【2025-08-29】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
 * 【2025-08-29】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
@@ -1976,6 +1987,8 @@
 
 ## C++
 
+* 【2025-09-29】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
+* 【2025-09-29】[luanti-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 * 【2025-09-22】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
 * 【2025-09-22】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 * 【2025-09-15】[daijro / camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
@@ -2160,6 +2173,10 @@
 
 ## C#
 
+* 【2025-09-29】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - WeMod patcher allows you to get some WeMod Pro features absolutely free
+* 【2025-09-29】[IAmParadox27 / jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
+* 【2025-09-29】[9p4 / jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
+* 【2025-09-29】[Mzying2001 / CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 * 【2025-09-22】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 * 【2025-09-15】[TheMulhima / Lumafly](https://github.com/TheMulhima/Lumafly) - A cross platform mod manager for Hollow Knight written in Avalonia.
 * 【2025-09-08】[ClassIsland / ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
@@ -2380,6 +2397,7 @@
 
 ## Html
 
+* 【2025-09-29】[dsc-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-01】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 * 【2025-08-29】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
@@ -2587,6 +2605,7 @@
 
 ## Css
 
+* 【2025-09-29】[bahamas10 / ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
 * 【2025-09-22】[kayozxo / GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
 * 【2025-09-08】[skeletonlabs / skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 * 【2025-09-01】[flick9000 / winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
@@ -2838,6 +2857,7 @@
 
 ## Unknown
 
+* 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share.
 * 【2025-09-22】[iam-veeramalla / ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch.
 * 【2025-09-08】[enescingoz / awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
 * 【2025-09-08】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
