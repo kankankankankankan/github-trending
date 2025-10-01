@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-10-01】[anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
+* 【2025-10-01】[Done-0 / fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+* 【2025-10-01】[cjpais / Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+* 【2025-10-01】[SDWebImage / SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 * 【2025-09-29】[rapid7 / metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 * 【2025-09-29】[onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 * 【2025-09-22】[Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
@@ -702,6 +706,7 @@
 
 ## Java
 
+* 【2025-10-01】[jabrena / cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines. 👉 Your feedback is important to evolve this project. Participate in the following questionnaire: 👈 https://forms.gle/TpNXENjmu45wuXoi6
 * 【2025-09-15】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2025-09-08】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 * 【2025-09-08】[Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.
@@ -870,6 +875,8 @@
 
 ## Python
 
+* 【2025-10-01】[Oros42 / IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
+* 【2025-10-01】[StanfordVL / BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx
 * 【2025-09-29】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 * 【2025-09-29】[imputnet / helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 * 【2025-09-29】[elliottech / lighter-python](https://github.com/elliottech/lighter-python) - Public Python SDK for Lighter
@@ -1344,6 +1351,9 @@
 
 ## Javascript
 
+* 【2025-10-01】[gkjohnson / three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
+* 【2025-10-01】[github / awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+* 【2025-10-01】[ruvnet / claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 * 【2025-09-29】[sohzm / cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 * 【2025-09-29】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-09-15】[home-sweet-gnome / dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
@@ -1603,6 +1613,8 @@
 
 ## Go
 
+* 【2025-10-01】[NexaAI / nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
+* 【2025-10-01】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-09-29】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 * 【2025-09-29】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-09-15】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
@@ -1802,6 +1814,7 @@
 
 ## C
 
+* 【2025-10-01】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 * 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
 * 【2025-09-01】[nanovms / nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 * 【2025-08-29】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
@@ -1987,6 +2000,9 @@
 
 ## C++
 
+* 【2025-10-01】[NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
+* 【2025-10-01】[mhogomchungu / media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
+* 【2025-10-01】[Lymphatus / caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
 * 【2025-09-29】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 * 【2025-09-29】[luanti-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 * 【2025-09-22】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
@@ -2173,6 +2189,8 @@
 
 ## C#
 
+* 【2025-10-01】[litedb-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+* 【2025-10-01】[BrighterCommand / Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 * 【2025-09-29】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - WeMod patcher allows you to get some WeMod Pro features absolutely free
 * 【2025-09-29】[IAmParadox27 / jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
 * 【2025-09-29】[9p4 / jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
@@ -2857,6 +2875,7 @@
 
 ## Unknown
 
+* 【2025-10-01】[keon / awesome-nlp](https://github.com/keon/awesome-nlp) - 📖 A curated list of resources dedicated to Natural Language Processing (NLP)
 * 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share.
 * 【2025-09-22】[iam-veeramalla / ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch.
 * 【2025-09-08】[enescingoz / awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
