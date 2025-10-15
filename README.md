@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2025-10-15】[datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
+* 【2025-10-15】[nitrojs / nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+* 【2025-10-15】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
+* 【2025-10-15】[chili-chips-ba / wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
+* 【2025-10-15】[KellerJordan / modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
+* 【2025-10-15】[volcengine / MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 * 【2025-10-08】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-10-08】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-08】[firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -713,6 +719,7 @@
 
 ## Java
 
+* 【2025-10-15】[Geniusay / ChopperBot](https://github.com/Geniusay/ChopperBot) - 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮
 * 【2025-10-08】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 * 【2025-10-08】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
 * 【2025-10-08】[jenkinsci / configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
@@ -885,6 +892,10 @@
 
 ## Python
 
+* 【2025-10-15】[sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+* 【2025-10-15】[TobikoData / sqlmesh](https://github.com/TobikoData/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
+* 【2025-10-15】[HKUDS / DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+* 【2025-10-15】[harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 * 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-08】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 * 【2025-10-01】[Oros42 / IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
@@ -1363,6 +1374,8 @@
 
 ## Javascript
 
+* 【2025-10-15】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+* 【2025-10-15】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-08】[department-of-veterans-affairs / vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
 * 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
 * 【2025-10-01】[gkjohnson / three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
@@ -1627,6 +1640,7 @@
 
 ## Go
 
+* 【2025-10-15】[sjzar / chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 * 【2025-10-01】[NexaAI / nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 * 【2025-10-01】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-09-29】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
@@ -1828,6 +1842,9 @@
 
 ## C
 
+* 【2025-10-15】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
+* 【2025-10-15】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
+* 【2025-10-15】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-10-08】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-01】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 * 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
@@ -2015,6 +2032,8 @@
 
 ## C++
 
+* 【2025-10-15】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+* 【2025-10-15】[stack-of-tasks / pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 * 【2025-10-08】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-01】[NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 * 【2025-10-01】[mhogomchungu / media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
@@ -2205,6 +2224,7 @@
 
 ## C#
 
+* 【2025-10-15】[DearVa / Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 * 【2025-10-01】[litedb-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 * 【2025-10-01】[BrighterCommand / Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 * 【2025-09-29】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - WeMod patcher allows you to get some WeMod Pro features absolutely free
@@ -2431,6 +2451,7 @@
 
 ## Html
 
+* 【2025-10-15】[o8oo8o / WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
 * 【2025-10-08】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-09-29】[dsc-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
@@ -2640,6 +2661,8 @@
 
 ## Css
 
+* 【2025-10-15】[egoist / hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
+* 【2025-10-15】[yesiamrajeev / Hacktoberfest2025-Portfolio](https://github.com/yesiamrajeev/Hacktoberfest2025-Portfolio) - Star˗ˏˋ ★ ˎˊ˗ this repo......... contribute to following repos as this repo is excluded................................ 1st) https://github.com/yesiamrajeev/FaceDetection_Prototype3 2nd)https://github.com/yesiamrajeev/Hacktoberfest2025-Pixelated-Draw
 * 【2025-10-08】[supabase / supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 * 【2025-09-29】[bahamas10 / ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
 * 【2025-09-22】[kayozxo / GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
@@ -2893,6 +2916,7 @@
 
 ## Unknown
 
+* 【2025-10-15】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2025-10-08】[Iamrushabhshahh / AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution) - Comprehensive collection of study materials, practice exams Question, and Personally Solved Mcq to help you prepare for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.
 * 【2025-10-01】[keon / awesome-nlp](https://github.com/keon/awesome-nlp) - 📖 A curated list of resources dedicated to Natural Language Processing (NLP)
 * 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share.
