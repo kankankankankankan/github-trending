@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2025-10-29】[microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
+* 【2025-10-29】[spipm / Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
+* 【2025-10-29】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+* 【2025-10-29】[coinbase / x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 * 【2025-10-22】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 * 【2025-10-22】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-10-22】[anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -723,6 +727,7 @@
 
 ## Java
 
+* 【2025-10-29】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 * 【2025-10-22】[jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
 * 【2025-10-15】[Geniusay / ChopperBot](https://github.com/Geniusay/ChopperBot) - 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮
 * 【2025-10-08】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
@@ -897,6 +902,7 @@
 
 ## Python
 
+* 【2025-10-29】[TNTwise / REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 * 【2025-10-22】[hyperliquid-dex / hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) - SDK for Hyperliquid API trading with Python.
 * 【2025-10-15】[sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 * 【2025-10-15】[TobikoData / sqlmesh](https://github.com/TobikoData/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
@@ -1380,6 +1386,9 @@
 
 ## Javascript
 
+* 【2025-10-29】[wangwangit / SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+* 【2025-10-29】[n00bcodr / Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
+* 【2025-10-29】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-10-22】[lioensky / VCPToolBox](https://github.com/lioensky/VCPToolBox) - 一个全新的，强大的AI-API-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！
 * 【2025-10-22】[vanzan01 / claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - 🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude Code.
 * 【2025-10-15】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
@@ -1648,6 +1657,7 @@
 
 ## Go
 
+* 【2025-10-29】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 * 【2025-10-22】[tbphp / gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 * 【2025-10-15】[sjzar / chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 * 【2025-10-01】[NexaAI / nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
@@ -1851,6 +1861,8 @@
 
 ## C
 
+* 【2025-10-29】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
+* 【2025-10-29】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-10-22】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 * 【2025-10-22】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 * 【2025-10-15】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
@@ -2043,6 +2055,10 @@
 
 ## C++
 
+* 【2025-10-29】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
+* 【2025-10-29】[category-labs / monad](https://github.com/category-labs/monad) - 
+* 【2025-10-29】[unitreerobotics / unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer
+* 【2025-10-29】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 * 【2025-10-22】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-10-15】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 * 【2025-10-15】[stack-of-tasks / pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
@@ -2465,6 +2481,8 @@
 
 ## Html
 
+* 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0
+* 【2025-10-29】[skindhu / Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 * 【2025-10-22】[simonw / tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 * 【2025-10-15】[o8oo8o / WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
 * 【2025-10-08】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
@@ -2676,6 +2694,8 @@
 
 ## Css
 
+* 【2025-10-29】[lossless1024 / StreaMonitor](https://github.com/lossless1024/StreaMonitor) - Adult live stream downloader for advanced people. I could have chosen a better name.
+* 【2025-10-29】[n00bcodr / Jellyfish](https://github.com/n00bcodr/Jellyfish) - Jellyfin Theme inspired by Flow, Zesty and Ultrachromic
 * 【2025-10-15】[egoist / hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 * 【2025-10-15】[yesiamrajeev / Hacktoberfest2025-Portfolio](https://github.com/yesiamrajeev/Hacktoberfest2025-Portfolio) - Star˗ˏˋ ★ ˎˊ˗ this repo......... contribute to following repos as this repo is excluded................................ 1st) https://github.com/yesiamrajeev/FaceDetection_Prototype3 2nd)https://github.com/yesiamrajeev/Hacktoberfest2025-Pixelated-Draw
 * 【2025-10-08】[supabase / supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
@@ -2931,6 +2951,7 @@
 
 ## Unknown
 
+* 【2025-10-29】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 * 【2025-10-22】[lukasmasuch / best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * 【2025-10-22】[mahseema / awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2025-10-15】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
