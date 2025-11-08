@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2025-11-08】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
+* 【2025-11-08】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
+* 【2025-11-08】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
+* 【2025-11-08】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
+* 【2025-11-08】[antiwork / gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
+* 【2025-11-08】[coder / code-server](https://github.com/coder/code-server) - VS Code in the browser
 * 【2025-11-01】[Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2025-11-01】[666ghj / BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 * 【2025-10-29】[microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
@@ -906,6 +912,9 @@
 
 ## Python
 
+* 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
+* 【2025-11-08】[JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+* 【2025-11-08】[langchain-ai / langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py) - For your multi-agent needs
 * 【2025-11-01】[google / adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
 * 【2025-11-01】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
 * 【2025-11-01】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
@@ -1878,6 +1887,8 @@
 
 ## C
 
+* 【2025-11-08】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
+* 【2025-11-08】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-10-29】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 * 【2025-10-29】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-10-22】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
@@ -2072,6 +2083,7 @@
 
 ## C++
 
+* 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 * 【2025-11-01】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 * 【2025-11-01】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 * 【2025-11-01】[mnh-jansson / open-battery-information](https://github.com/mnh-jansson/open-battery-information) - 
@@ -2717,6 +2729,7 @@
 
 ## Css
 
+* 【2025-11-08】[GregTech-Odyssey / GregTech-Odyssey](https://github.com/GregTech-Odyssey/GregTech-Odyssey) - 
 * 【2025-10-29】[lossless1024 / StreaMonitor](https://github.com/lossless1024/StreaMonitor) - Adult live stream downloader for advanced people. I could have chosen a better name.
 * 【2025-10-29】[n00bcodr / Jellyfish](https://github.com/n00bcodr/Jellyfish) - Jellyfin Theme inspired by Flow, Zesty and Ultrachromic
 * 【2025-10-15】[egoist / hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
@@ -2974,6 +2987,8 @@
 
 ## Unknown
 
+* 【2025-11-08】[MoonshotAI / Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
+* 【2025-11-08】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2025-11-01】[google-labs-code / jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-11-01】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
 * 【2025-10-29】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
