@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2025-11-15】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+* 【2025-11-15】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+* 【2025-11-15】[bobeff / open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+* 【2025-11-15】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* 【2025-11-15】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 * 【2025-11-08】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 * 【2025-11-08】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 * 【2025-11-08】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
@@ -912,6 +917,11 @@
 
 ## Python
 
+* 【2025-11-15】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
+* 【2025-11-15】[RLinf / RLinf](https://github.com/RLinf/RLinf) - RLinf is a flexible and scalable open-source infrastructure designed for post-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning.
+* 【2025-11-15】[thinking-machines-lab / tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
+* 【2025-11-15】[googlefonts / googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
+* 【2025-11-15】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
 * 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
 * 【2025-11-08】[JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 * 【2025-11-08】[langchain-ai / langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py) - For your multi-agent needs
@@ -1406,6 +1416,7 @@
 
 ## Javascript
 
+* 【2025-11-15】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 * 【2025-11-01】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
 * 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
 * 【2025-11-01】[xixu-me / Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms | 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
@@ -1681,6 +1692,8 @@
 
 ## Go
 
+* 【2025-11-15】[beclab / Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+* 【2025-11-15】[opencloud-eu / opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 * 【2025-11-01】[Tencent / WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 * 【2025-11-01】[base / node](https://github.com/base/node) - Everything required to run your own Base node
 * 【2025-10-29】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
@@ -1887,6 +1900,7 @@
 
 ## C
 
+* 【2025-11-15】[NMminer1024 / NMMiner](https://github.com/NMminer1024/NMMiner) - A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery
 * 【2025-11-08】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
 * 【2025-11-08】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-10-29】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -2083,6 +2097,10 @@
 
 ## C++
 
+* 【2025-11-15】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
+* 【2025-11-15】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+* 【2025-11-15】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+* 【2025-11-15】[Livox-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 * 【2025-11-01】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 * 【2025-11-01】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
@@ -2284,6 +2302,7 @@
 
 ## C#
 
+* 【2025-11-15】[microsoft / agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 * 【2025-11-01】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 * 【2025-11-01】[wixtoolset / wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
 * 【2025-10-22】[GlitchEnzo / NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
@@ -2515,6 +2534,7 @@
 
 ## Html
 
+* 【2025-11-15】[Sjj1024 / PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 * 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 * 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0
 * 【2025-10-29】[skindhu / Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
