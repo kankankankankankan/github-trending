@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-12-22】[sgl-project / mini-sglang](https://github.com/sgl-project/mini-sglang) - 
+* 【2025-12-22】[pollen-robotics / reachy_mini](https://github.com/pollen-robotics/reachy_mini) - Reachy Mini's SDK
+* 【2025-12-22】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
 * 【2025-12-15】[openai / codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 * 【2025-12-15】[datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * 【2025-12-15】[HuLaSpark / HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
@@ -750,6 +753,8 @@
 
 ## Java
 
+* 【2025-12-22】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+* 【2025-12-22】[Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 * 【2025-12-15】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * 【2025-12-08】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
 * 【2025-12-08】[google / tsunami-security-scanner-plugins](https://github.com/google/tsunami-security-scanner-plugins) - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.
@@ -930,6 +935,7 @@
 
 ## Python
 
+* 【2025-12-22】[city96 / ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 * 【2025-12-15】[zhinianboke / xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 * 【2025-12-15】[Mirrowel / LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM Gateway: One API, every LLM. OpenAI-compatible endpoints with multi-provider translation and intelligent load-balancing.
 * 【2025-12-15】[rendercv / rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
@@ -1440,6 +1446,7 @@
 
 ## Javascript
 
+* 【2025-12-22】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 * 【2025-12-15】[ChinaGodMan / UserScripts](https://github.com/ChinaGodMan/UserScripts) - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
 * 【2025-12-08】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - A powerful unofficial Gemini Desktop Application built with Electron. Fast, clean, and always accessible on Windows, Linux, and macOS. The perfect desktop app for seamless Google Gemini AI chatting and productivity.
 * 【2025-11-15】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -1718,6 +1725,8 @@
 
 ## Go
 
+* 【2025-12-22】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
+* 【2025-12-22】[hatchet-dev / hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 * 【2025-12-15】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 * 【2025-12-15】[negokaz / excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
 * 【2025-12-15】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
@@ -1932,6 +1941,8 @@
 
 ## C
 
+* 【2025-12-22】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
+* 【2025-12-22】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 * 【2025-12-15】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
 * 【2025-11-15】[NMminer1024 / NMMiner](https://github.com/NMminer1024/NMMiner) - A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery
 * 【2025-11-08】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
@@ -2130,6 +2141,10 @@
 
 ## C++
 
+* 【2025-12-22】[chongdashu / unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).
+* 【2025-12-22】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding framework
+* 【2025-12-22】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
+* 【2025-12-22】[futo-org / android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 * 【2025-12-15】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 * 【2025-11-15】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 * 【2025-11-15】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
@@ -2792,6 +2807,9 @@
 
 ## Css
 
+* 【2025-12-22】[sapthesh / Birthday](https://github.com/sapthesh/Birthday) - The Customizable Birthday Web Template is a versatile and user-friendly website template designed to celebrate birthdays in a fun and personalized way.
+* 【2025-12-22】[elifouts / Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
+* 【2025-12-22】[pyOpenSci / software-peer-review](https://github.com/pyOpenSci/software-peer-review) - pyOpenSci's guidebook for package authors, reviewers, and editors
 * 【2025-12-15】[miantiao-me / BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 * 【2025-12-15】[github / actions-learning-pathway](https://github.com/github/actions-learning-pathway) - Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.
 * 【2025-12-15】[ankitects / anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
