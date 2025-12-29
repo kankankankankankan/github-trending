@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-12-29】[tw93 / Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+* 【2025-12-29】[Sergeydigl3 / zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
+* 【2025-12-29】[BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 * 【2025-12-22】[sgl-project / mini-sglang](https://github.com/sgl-project/mini-sglang) - 
 * 【2025-12-22】[pollen-robotics / reachy_mini](https://github.com/pollen-robotics/reachy_mini) - Reachy Mini's SDK
 * 【2025-12-22】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
@@ -935,6 +938,8 @@
 
 ## Python
 
+* 【2025-12-29】[wshobson / agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+* 【2025-12-29】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 * 【2025-12-22】[city96 / ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 * 【2025-12-15】[zhinianboke / xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 * 【2025-12-15】[Mirrowel / LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM Gateway: One API, every LLM. OpenAI-compatible endpoints with multi-provider translation and intelligent load-balancing.
@@ -1446,6 +1451,7 @@
 
 ## Javascript
 
+* 【2025-12-29】[elementdavv / internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)
 * 【2025-12-22】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 * 【2025-12-15】[ChinaGodMan / UserScripts](https://github.com/ChinaGodMan/UserScripts) - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
 * 【2025-12-08】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - A powerful unofficial Gemini Desktop Application built with Electron. Fast, clean, and always accessible on Windows, Linux, and macOS. The perfect desktop app for seamless Google Gemini AI chatting and productivity.
@@ -1725,6 +1731,8 @@
 
 ## Go
 
+* 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
+* 【2025-12-29】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 * 【2025-12-22】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 * 【2025-12-22】[hatchet-dev / hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 * 【2025-12-15】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
@@ -1941,6 +1949,10 @@
 
 ## C
 
+* 【2025-12-29】[streetpea / chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+* 【2025-12-29】[cgsecurity / testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
+* 【2025-12-29】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
+* 【2025-12-29】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * 【2025-12-22】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 * 【2025-12-22】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 * 【2025-12-15】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
@@ -2141,6 +2153,7 @@
 
 ## C++
 
+* 【2025-12-29】[anthwlock / untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * 【2025-12-22】[chongdashu / unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).
 * 【2025-12-22】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding framework
 * 【2025-12-22】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
@@ -2351,6 +2364,7 @@
 
 ## C#
 
+* 【2025-12-29】[builtbybel / CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr*ap Fixer
 * 【2025-12-15】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 * 【2025-12-15】[builtbybel / Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
 * 【2025-12-08】[memstechtips / Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
@@ -2589,6 +2603,7 @@
 
 ## Html
 
+* 【2025-12-29】[D-Ogi / WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA Models: A Python application leveraging state-of-the-art deep learning models to effectively remove watermarks from images with a user-friendly PyQt6 interface.
 * 【2025-12-15】[colonelpanichacks / flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-08】[newrelic / newrelic-browser-agent](https://github.com/newrelic/newrelic-browser-agent) - New Relic Browser Agent
 * 【2025-12-01】[joyce677 / TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
@@ -2807,6 +2822,7 @@
 
 ## Css
 
+* 【2025-12-29】[sumruler / typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat) - 一款精心打磨过的多色多功能Typora主题
 * 【2025-12-22】[sapthesh / Birthday](https://github.com/sapthesh/Birthday) - The Customizable Birthday Web Template is a versatile and user-friendly website template designed to celebrate birthdays in a fun and personalized way.
 * 【2025-12-22】[elifouts / Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
 * 【2025-12-22】[pyOpenSci / software-peer-review](https://github.com/pyOpenSci/software-peer-review) - pyOpenSci's guidebook for package authors, reviewers, and editors
@@ -3073,6 +3089,8 @@
 
 ## Unknown
 
+* 【2025-12-29】[automata / aicodeguide](https://github.com/automata/aicodeguide) - AI Code Guide is a roadmap to start coding with AI
+* 【2025-12-29】[AZeC4 / TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 * 【2025-12-08】[ebertti / awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 * 【2025-12-08】[WICG / email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
 * 【2025-12-08】[byJoey / cfnew](https://github.com/byJoey/cfnew) - 
