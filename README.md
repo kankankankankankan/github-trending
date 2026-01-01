@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-01-01】[afkarxyz / SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+* 【2026-01-01】[google-gemini / computer-use-preview](https://github.com/google-gemini/computer-use-preview) - 
+* 【2026-01-01】[timescale / pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+* 【2026-01-01】[resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 * 【2025-12-29】[tw93 / Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 * 【2025-12-29】[Sergeydigl3 / zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
 * 【2025-12-29】[BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
@@ -938,6 +942,10 @@
 
 ## Python
 
+* 【2026-01-01】[tencent-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
+* 【2026-01-01】[anthropics / skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+* 【2026-01-01】[rossant / awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
+* 【2026-01-01】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
 * 【2025-12-29】[wshobson / agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 * 【2025-12-29】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 * 【2025-12-22】[city96 / ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
@@ -1731,6 +1739,9 @@
 
 ## Go
 
+* 【2026-01-01】[dundee / gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
+* 【2026-01-01】[docker / cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
+* 【2026-01-01】[maximhq / bifrost](https://github.com/maximhq/bifrost) - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 * 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
 * 【2025-12-29】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 * 【2025-12-22】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
@@ -1949,6 +1960,8 @@
 
 ## C
 
+* 【2026-01-01】[dsp56300 / gearmulator](https://github.com/dsp56300/gearmulator) - Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs
+* 【2026-01-01】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 * 【2025-12-29】[streetpea / chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 * 【2025-12-29】[cgsecurity / testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 * 【2025-12-29】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
@@ -3089,6 +3102,7 @@
 
 ## Unknown
 
+* 【2026-01-01】[cursor / cursor](https://github.com/cursor/cursor) - The AI Code Editor
 * 【2025-12-29】[automata / aicodeguide](https://github.com/automata/aicodeguide) - AI Code Guide is a roadmap to start coding with AI
 * 【2025-12-29】[AZeC4 / TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 * 【2025-12-08】[ebertti / awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
