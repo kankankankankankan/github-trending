@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+* 【2026-02-08】[openai / skills](https://github.com/openai/skills) - Skills Catalog for Codex
+* 【2026-02-08】[microsoft / litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
+* 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+* 【2026-02-08】[ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* 【2026-02-08】[likec4 / likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 * 【2026-02-01】[ThePrimeagen / 99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
 * 【2026-02-01】[anthropics / claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * 【2026-02-01】[openclaw / openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -786,6 +792,7 @@
 
 ## Java
 
+* 【2026-02-08】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 * 【2026-02-01】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 * 【2026-01-29】[AsamK / signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 * 【2026-01-29】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
@@ -973,6 +980,10 @@
 
 ## Python
 
+* 【2026-02-08】[chenyme / grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
+* 【2026-02-08】[hao-ai-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
+* 【2026-02-08】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+* 【2026-02-08】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨
 * 【2026-02-01】[TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 * 【2026-02-01】[happycola233 / tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 * 【2026-02-01】[fastino-ai / GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
@@ -1509,6 +1520,8 @@
 
 ## Javascript
 
+* 【2026-02-08】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
+* 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 * 【2026-02-01】[crocodilestick / Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 * 【2026-02-01】[anomalyco / opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) - 
 * 【2026-02-01】[w1249178256 / xyzw_web_helper](https://github.com/w1249178256/xyzw_web_helper) - 咸鱼之王web端
@@ -1796,6 +1809,8 @@
 
 ## Go
 
+* 【2026-02-08】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
+* 【2026-02-08】[kagent-dev / kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 * 【2026-02-01】[NoFxAiOS / nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
 * 【2026-02-01】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 * 【2026-01-29】[go-vikunja / vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
@@ -2025,6 +2040,8 @@
 
 ## C
 
+* 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
+* 【2026-02-08】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
 * 【2026-01-29】[NVIDIA / libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 * 【2026-01-22】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 * 【2026-01-15】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
@@ -2235,6 +2252,7 @@
 
 ## C++
 
+* 【2026-02-08】[e2002 / yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
 * 【2026-02-01】[oceanbase / seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows.
 * 【2026-01-29】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2026-01-22】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
@@ -2451,6 +2469,8 @@
 
 ## C#
 
+* 【2026-02-08】[ramjke / Translumo](https://github.com/ramjke/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
+* 【2026-02-08】[Taiizor / Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 * 【2026-02-01】[Ruben2776 / PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 * 【2026-01-29】[Facepunch / sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * 【2026-01-29】[iiDk-the-actual / iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) - A mod menu for Gorilla Tag with over 1000+ mods
@@ -3191,6 +3211,7 @@
 
 ## Unknown
 
+* 【2026-02-08】[ShepAlderson / copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
 * 【2026-02-01】[BehiSecc / awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 * 【2026-02-01】[microsoft / playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 * 【2026-02-01】[666OS / ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
