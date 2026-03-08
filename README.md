@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2026-03-08】[666ghj / MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+* 【2026-03-08】[msitarzewski / agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+* 【2026-03-08】[agentjido / jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
+* 【2026-03-08】[microsoft / hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
+* 【2026-03-08】[alibaba / page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 * 【2026-03-01】[ruvnet / ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 * 【2026-03-01】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
@@ -805,6 +810,7 @@
 
 ## Java
 
+* 【2026-03-08】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2026-03-01】[1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
 * 【2026-02-08】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 * 【2026-02-01】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
@@ -994,6 +1000,11 @@
 
 ## Python
 
+* 【2026-03-08】[pgmpy / pgmpy](https://github.com/pgmpy/pgmpy) - Python library for Causal AI
+* 【2026-03-08】[AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+* 【2026-03-08】[inclusionAI / AReaL](https://github.com/inclusionAI/AReaL) - Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
+* 【2026-03-08】[lingfengQAQ / webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+* 【2026-03-08】[teng-lin / notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
 * 【2026-03-01】[ginobefun / agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
 * 【2026-03-01】[leggedrobotics / rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics.
 * 【2026-03-01】[muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
@@ -1542,6 +1553,8 @@
 
 ## Javascript
 
+* 【2026-03-08】[pbakaus / impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+* 【2026-03-08】[jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * 【2026-03-01】[liyupi / ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站
 * 【2026-03-01】[mozilla-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 * 【2026-03-01】[expo / skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
@@ -1839,6 +1852,10 @@
 
 ## Go
 
+* 【2026-03-08】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
+* 【2026-03-08】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+* 【2026-03-08】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
+* 【2026-03-08】[canopy-network / canopy](https://github.com/canopy-network/canopy) - The official go implementation of the Canopy Network protocol
 * 【2026-03-01】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 * 【2026-03-01】[ArvinLovegood / go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * 【2026-03-01】[oapi-codegen / oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -2075,6 +2092,7 @@
 
 ## C
 
+* 【2026-03-08】[waveshareteam / e-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-02-15】[dorianborian / sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 * 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 * 【2026-02-08】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
@@ -2507,6 +2525,8 @@
 
 ## C#
 
+* 【2026-03-08】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
+* 【2026-03-08】[s1t5 / mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration and a dashboard.
 * 【2026-02-15】[CoderGamester / mcp-unity](https://github.com/CoderGamester/mcp-unity) - Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf and other IDEs
 * 【2026-02-15】[IvanMurzak / Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - AI-powered bridge connecting LLMs and advanced AI agents to the Unity Editor via the Model Context Protocol (MCP). Chat with AI to generate code, debug errors, and automate game development tasks directly within your project.
 * 【2026-02-15】[Azure / azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team.
