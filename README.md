@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-03-22】[Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+* 【2026-03-22】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+* 【2026-03-22】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
+* 【2026-03-22】[louis-e / arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 * 【2026-03-15】[volcengine / OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 * 【2026-03-15】[dimensionalOS / dimos](https://github.com/dimensionalOS/dimos) - The Dimensional Framework
 * 【2026-03-15】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
@@ -815,6 +819,7 @@
 
 ## Java
 
+* 【2026-03-22】[openrocket / openrocket](https://github.com/openrocket/openrocket) - Model-rocketry aerodynamics and trajectory simulation software
 * 【2026-03-15】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 * 【2026-03-15】[googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) - Google Cloud Client Library for Java
 * 【2026-03-08】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
@@ -1007,6 +1012,12 @@
 
 ## Python
 
+* 【2026-03-22】[langchain-ai / open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
+* 【2026-03-22】[opengaming / osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
+* 【2026-03-22】[meta-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
+* 【2026-03-22】[microsoft / apm](https://github.com/microsoft/apm) - Agent Package Manager
+* 【2026-03-22】[facebookresearch / vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
+* 【2026-03-22】[huggingface / skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 * 【2026-03-15】[vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 * 【2026-03-15】[originalankur / maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 * 【2026-03-08】[pgmpy / pgmpy](https://github.com/pgmpy/pgmpy) - Python library for Causal AI
@@ -1562,6 +1573,8 @@
 
 ## Javascript
 
+* 【2026-03-22】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* 【2026-03-22】[zhw2590582 / ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - 🎨 ArtPlayer.js is a modern and full featured HTML5 video player
 * 【2026-03-15】[SheepChef / Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 * 【2026-03-15】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-03-08】[pbakaus / impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -2105,6 +2118,10 @@
 
 ## C
 
+* 【2026-03-22】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
+* 【2026-03-22】[ACreTeam / ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
+* 【2026-03-22】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
+* 【2026-03-22】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2026-03-08】[waveshareteam / e-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-02-15】[dorianborian / sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 * 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
@@ -2319,6 +2336,7 @@
 
 ## C++
 
+* 【2026-03-22】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 * 【2026-03-15】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
 * 【2026-03-15】[NVlabs / GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
 * 【2026-03-15】[azahar-emu / azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
@@ -2794,6 +2812,8 @@
 
 ## Html
 
+* 【2026-03-22】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
+* 【2026-03-22】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 * 【2026-03-15】[f / prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * 【2026-03-15】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 * 【2026-03-15】[shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
