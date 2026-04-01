@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-04-01】[luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+* 【2026-04-01】[Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+* 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
+* 【2026-04-01】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 * 【2026-03-29】[SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 * 【2026-03-29】[virattt / dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 * 【2026-03-29】[agentscope-ai / agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
@@ -822,6 +826,9 @@
 
 ## Java
 
+* 【2026-04-01】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
+* 【2026-04-01】[maxwai / NClientV3](https://github.com/maxwai/NClientV3) - An unofficial NHentai android client
+* 【2026-04-01】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 * 【2026-03-29】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 * 【2026-03-22】[openrocket / openrocket](https://github.com/openrocket/openrocket) - Model-rocketry aerodynamics and trajectory simulation software
 * 【2026-03-15】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
@@ -1016,6 +1023,8 @@
 
 ## Python
 
+* 【2026-04-01】[aliasrobotics / cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
+* 【2026-04-01】[SkyworkAI / Matrix-Game](https://github.com/SkyworkAI/Matrix-Game) - Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory
 * 【2026-03-29】[mvanhorn / last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 * 【2026-03-29】[alirezarezvani / claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 * 【2026-03-29】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云 PaaS 平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
@@ -1580,6 +1589,9 @@
 
 ## Javascript
 
+* 【2026-04-01】[ChrisWiles / claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+* 【2026-04-01】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
+* 【2026-04-01】[idinging / freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
 * 【2026-03-29】[figma / mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 * 【2026-03-29】[decolua / 9router](https://github.com/decolua/9router) - Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models
 * 【2026-03-22】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1885,6 +1897,8 @@
 
 ## Go
 
+* 【2026-04-01】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
+* 【2026-04-01】[CJackHwang / ds2api](https://github.com/CJackHwang/ds2api) - Deepseek客户端对话转API，高性能，多账号轮询，包含完整后台管理系统，支持纯vercel、docker部署使用。兼容Openclaw🦞、Roocode、Claudecode、Kilocode等工具
 * 【2026-03-29】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * 【2026-03-29】[runkids / skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 * 【2026-03-29】[riba2534 / feishu-cli](https://github.com/riba2534/feishu-cli) - 
@@ -2130,6 +2144,7 @@
 
 ## C
 
+* 【2026-04-01】[LNH-team / pico-launcher](https://github.com/LNH-team/pico-launcher) - Rom browser frontend for Pico Loader.
 * 【2026-03-22】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 * 【2026-03-22】[ACreTeam / ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 * 【2026-03-22】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
@@ -2348,6 +2363,8 @@
 
 ## C++
 
+* 【2026-04-01】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and reflection library for modern C++. BEVE, CBOR, CSV, MessagePack, TOML, YAML, EETF
+* 【2026-04-01】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 * 【2026-03-29】[HailToDodongo / pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 * 【2026-03-22】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 * 【2026-03-15】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
@@ -2572,6 +2589,9 @@
 
 ## C#
 
+* 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
+* 【2026-04-01】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
+* 【2026-04-01】[microsoft / aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 * 【2026-03-29】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
 * 【2026-03-29】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * 【2026-03-15】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -2827,6 +2847,8 @@
 
 ## Html
 
+* 【2026-04-01】[ruzin / stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting intelligence using locally hosted Small Language Models. StenoAI Scribe for structured clinical notes in development.
+* 【2026-04-01】[Systems-Modeling / SysML-v2-Release](https://github.com/Systems-Modeling/SysML-v2-Release) - The latest incremental release of SysML v2. Start here.
 * 【2026-03-29】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2026-03-22】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
 * 【2026-03-22】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
@@ -3336,6 +3358,9 @@
 
 ## Unknown
 
+* 【2026-04-01】[Kavex / GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
+* 【2026-04-01】[antonbabenko / terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+* 【2026-04-01】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-03-29】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 * 【2026-03-01】[VoltAgent / awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 * 【2026-02-15】[OldUnreal / UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
