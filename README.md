@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2026-04-15】[jamiepine / voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
+* 【2026-04-15】[pascalorg / editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+* 【2026-04-15】[chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+* 【2026-04-15】[shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
+* 【2026-04-15】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 * 【2026-04-08】[google-ai-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * 【2026-04-08】[NVIDIA / personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
 * 【2026-04-08】[abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
@@ -833,6 +838,8 @@
 
 ## Java
 
+* 【2026-04-15】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
+* 【2026-04-15】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-04-08】[DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
 * 【2026-04-01】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
 * 【2026-04-01】[maxwai / NClientV3](https://github.com/maxwai/NClientV3) - An unofficial NHentai android client
@@ -1031,6 +1038,9 @@
 
 ## Python
 
+* 【2026-04-15】[hugohe3 / ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
+* 【2026-04-15】[paperswithbacktest / awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+* 【2026-04-15】[Tracer-Cloud / opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era ✨
 * 【2026-04-08】[NVIDIA-NeMo / DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.
 * 【2026-04-01】[aliasrobotics / cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 * 【2026-04-01】[SkyworkAI / Matrix-Game](https://github.com/SkyworkAI/Matrix-Game) - Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory
@@ -1598,6 +1608,10 @@
 
 ## Javascript
 
+* 【2026-04-15】[ComposioHQ / awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) - A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.
+* 【2026-04-15】[Unitech / pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+* 【2026-04-15】[jo-inc / camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
+* 【2026-04-15】[antvis / chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills.
 * 【2026-04-08】[levnikolaevich / claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - Plugin suite + bundled MCP servers for Claude Code. Full delivery lifecycle: Agile pipeline with multi-model AI review, project bootstrap, documentation generation, codebase audits, performance optimization, community workflows. Includes hex-line (hash-verified editing), hex-graph (code knowledge graph), and hex-ssh (remote SSH) MCP servers.
 * 【2026-04-08】[stephengpope / thepopebot](https://github.com/stephengpope/thepopebot) - The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7.
 * 【2026-04-08】[coreyhaines31 / marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -1909,6 +1923,8 @@
 
 ## Go
 
+* 【2026-04-15】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+* 【2026-04-15】[versity / versitygw](https://github.com/versity/versitygw) - versity s3 gateway
 * 【2026-04-08】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 * 【2026-04-01】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 * 【2026-04-01】[CJackHwang / ds2api](https://github.com/CJackHwang/ds2api) - Deepseek客户端对话转API，高性能，多账号轮询，包含完整后台管理系统，支持纯vercel、docker部署使用。兼容Openclaw🦞、Roocode、Claudecode、Kilocode等工具
@@ -2157,6 +2173,7 @@
 
 ## C
 
+* 【2026-04-15】[bellard / mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 * 【2026-04-01】[LNH-team / pico-launcher](https://github.com/LNH-team/pico-launcher) - Rom browser frontend for Pico Loader.
 * 【2026-03-22】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 * 【2026-03-22】[ACreTeam / ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
@@ -2376,6 +2393,7 @@
 
 ## C++
 
+* 【2026-04-15】[nvidia-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 * 【2026-04-08】[love2d / love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 * 【2026-04-01】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and reflection library for modern C++. BEVE, CBOR, CSV, MessagePack, TOML, YAML, EETF
 * 【2026-04-01】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
@@ -3375,6 +3393,7 @@
 
 ## Unknown
 
+* 【2026-04-15】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 * 【2026-04-08】[blader / humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 * 【2026-04-08】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 * 【2026-04-08】[afshinea / stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
