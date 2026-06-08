@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-06-08】[yikart / AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
+* 【2026-06-08】[RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
+* 【2026-06-08】[refactoringhq / tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
+* 【2026-06-08】[microsoft / pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 * 【2026-06-01】[D4Vinci / Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 * 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 * 【2026-06-01】[FareedKhan-dev / train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
@@ -888,6 +892,7 @@
 
 ## Java
 
+* 【2026-06-08】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
 * 【2026-06-01】[jqwik-team / jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
 * 【2026-06-01】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-29】[github / copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
@@ -1095,6 +1100,11 @@
 
 ## Python
 
+* 【2026-06-08】[MemPalace / mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
+* 【2026-06-08】[Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+* 【2026-06-08】[SudoHopeX / KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible.
+* 【2026-06-08】[moorcheh-ai / memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
+* 【2026-06-08】[plastic-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 * 【2026-06-01】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 * 【2026-06-01】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * 【2026-06-01】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
@@ -1694,6 +1704,9 @@
 
 ## Javascript
 
+* 【2026-06-08】[santifer / career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+* 【2026-06-08】[NomaDamas / k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
+* 【2026-06-08】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * 【2026-06-01】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
 * 【2026-06-01】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
 * 【2026-06-01】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post-event analytics.
@@ -2034,6 +2047,8 @@
 
 ## Go
 
+* 【2026-06-08】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
+* 【2026-06-08】[multigres / multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 * 【2026-06-01】[Armur-Ai / Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools.
 * 【2026-06-01】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications.
 * 【2026-06-01】[zakirullin / files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
@@ -2308,6 +2323,8 @@
 
 ## C
 
+* 【2026-06-08】[kaansenol5 / VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
+* 【2026-06-08】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.
 * 【2026-06-01】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
 * 【2026-05-22】[OpenTenBase / OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.
 * 【2026-05-22】[meshcore-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
@@ -2540,6 +2557,7 @@
 
 ## C++
 
+* 【2026-06-08】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-01】[wled / WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 * 【2026-05-29】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-22】[opentoonz / opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
@@ -2778,6 +2796,7 @@
 
 ## C#
 
+* 【2026-06-08】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2026-06-01】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-06-01】[Jeric-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
 * 【2026-06-01】[KSP-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
@@ -3583,6 +3602,9 @@
 
 ## Unknown
 
+* 【2026-06-08】[phuryn / pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+* 【2026-06-08】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
+* 【2026-06-08】[microsoft / Dataverse-skills](https://github.com/microsoft/Dataverse-skills) - Microsoft Dataverse skills for AI coding agents. Wraps the Dataverse MCP server, Dataverse CLI, Python SDK, and PAC CLI behind specialist skills for building, querying, deploying, and administering Dataverse environments.
 * 【2026-06-01】[WangRongsheng / awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * 【2026-06-01】[vanshb03 / Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-29】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
