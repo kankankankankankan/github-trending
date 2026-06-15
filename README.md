@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-06-15】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+* 【2026-06-15】[Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 * 【2026-06-08】[yikart / AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 * 【2026-06-08】[RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 * 【2026-06-08】[refactoringhq / tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -892,6 +894,7 @@
 
 ## Java
 
+* 【2026-06-15】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
 * 【2026-06-08】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
 * 【2026-06-01】[jqwik-team / jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
 * 【2026-06-01】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
@@ -1100,6 +1103,9 @@
 
 ## Python
 
+* 【2026-06-15】[openinterpreter / openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+* 【2026-06-15】[Ar9av / obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern
+* 【2026-06-15】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 * 【2026-06-08】[MemPalace / mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 * 【2026-06-08】[Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 * 【2026-06-08】[SudoHopeX / KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible.
@@ -1704,6 +1710,9 @@
 
 ## Javascript
 
+* 【2026-06-15】[sigalor / whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
+* 【2026-06-15】[technomancer702 / nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.
+* 【2026-06-15】[js-org / js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 * 【2026-06-08】[santifer / career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 * 【2026-06-08】[NomaDamas / k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
 * 【2026-06-08】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -2047,6 +2056,8 @@
 
 ## Go
 
+* 【2026-06-15】[kenn-io / agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+* 【2026-06-15】[jetify-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 * 【2026-06-08】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
 * 【2026-06-08】[multigres / multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 * 【2026-06-01】[Armur-Ai / Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools.
@@ -2323,6 +2334,8 @@
 
 ## C
 
+* 【2026-06-15】[coredevices / PebbleOS](https://github.com/coredevices/PebbleOS) - 
+* 【2026-06-15】[HarbourMasters / 2ship2harkinian](https://github.com/HarbourMasters/2ship2harkinian) - 
 * 【2026-06-08】[kaansenol5 / VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 * 【2026-06-08】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.
 * 【2026-06-01】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
@@ -2557,6 +2570,9 @@
 
 ## C++
 
+* 【2026-06-15】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
+* 【2026-06-15】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
+* 【2026-06-15】[Natfii / UnrealClaude](https://github.com/Natfii/UnrealClaude) - Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.
 * 【2026-06-08】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-01】[wled / WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 * 【2026-05-29】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
@@ -2796,6 +2812,7 @@
 
 ## C#
 
+* 【2026-06-15】[dotnet / android](https://github.com/dotnet/android) - .NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
 * 【2026-06-08】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2026-06-01】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-06-01】[Jeric-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
@@ -3072,6 +3089,10 @@
 
 ## Html
 
+* 【2026-06-15】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
+* 【2026-06-15】[rezarahiminia / worldcup2026](https://github.com/rezarahiminia/worldcup2026) - Grab your football API data for FIFA World Cup 2026 competition!
+* 【2026-06-15】[hmislk / hmis](https://github.com/hmislk/hmis) - This is an Open Source Java EE based Hospital Information Management System
+* 【2026-06-15】[rust-lang / blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 * 【2026-05-29】[S3DFX-CYBER / GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 * 【2026-05-22】[karpathy / jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.
@@ -3318,6 +3339,8 @@
 
 ## Css
 
+* 【2026-06-15】[typora / theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
+* 【2026-06-15】[katorlys / rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
 * 【2026-06-01】[SAPTARSHI-coder / EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css) - Animation-first CSS framework with reusable UI components, modern effects, and zero dependencies. Lightweight, beginner-friendly, and open-source.
 * 【2026-05-29】[zarazhangrui / codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 * 【2026-05-29】[AumGupta / abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
@@ -3602,6 +3625,7 @@
 
 ## Unknown
 
+* 【2026-06-15】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 * 【2026-06-08】[phuryn / pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 * 【2026-06-08】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 * 【2026-06-08】[microsoft / Dataverse-skills](https://github.com/microsoft/Dataverse-skills) - Microsoft Dataverse skills for AI coding agents. Wraps the Dataverse MCP server, Dataverse CLI, Python SDK, and PAC CLI behind specialist skills for building, querying, deploying, and administering Dataverse environments.
