@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2026-06-29】[simplex-chat / simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+* 【2026-06-29】[xbtlin / ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+* 【2026-06-29】[Robbyant / lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+* 【2026-06-29】[altic-dev / FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
+* 【2026-06-29】[HKUDS / Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
+* 【2026-06-29】[browser-use / video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 * 【2026-06-22】[palmier-io / palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 * 【2026-06-22】[calesthio / OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 * 【2026-06-22】[chopratejas / headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
@@ -899,6 +905,8 @@
 
 ## Java
 
+* 【2026-06-29】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - Procedural terrain generation with diffusion models (in Minecraft)
+* 【2026-06-29】[opensource4you / astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
 * 【2026-06-22】[MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 * 【2026-06-22】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
 * 【2026-06-15】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
@@ -1110,6 +1118,7 @@
 
 ## Python
 
+* 【2026-06-29】[shuvonsec / claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.
 * 【2026-06-22】[THUDM / slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 * 【2026-06-15】[openinterpreter / openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 * 【2026-06-15】[Ar9av / obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern
@@ -1718,6 +1727,7 @@
 
 ## Javascript
 
+* 【2026-06-29】[earthtojake / text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 * 【2026-06-22】[tradesdontlie / tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 * 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust.
 * 【2026-06-22】[rohitg00 / awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
@@ -2069,6 +2079,9 @@
 
 ## Go
 
+* 【2026-06-29】[workweave / router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
+* 【2026-06-29】[AgentWrapper / agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
+* 【2026-06-29】[Gentleman-Programming / gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-06-22】[sartoopjj / thefeed](https://github.com/sartoopjj/thefeed) - DNS-based feed reader and lite messenger for environments where only DNS queries work. Read Telegram channels and public X accounts, and exchange end-to-end-encrypted messages with other users — all over DNS.
 * 【2026-06-22】[smtg-ai / claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 * 【2026-06-15】[kenn-io / agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
@@ -2349,6 +2362,8 @@
 
 ## C
 
+* 【2026-06-29】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
+* 【2026-06-29】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, secure, portable, multiprotocol bootloader and boot manager.
 * 【2026-06-22】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
 * 【2026-06-22】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 * 【2026-06-22】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - Unreal Engine SDK Generator
@@ -2590,6 +2605,8 @@
 
 ## C++
 
+* 【2026-06-29】[AztecProtocol / aztec-packages](https://github.com/AztecProtocol/aztec-packages) - 
+* 【2026-06-29】[optiscaler / OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 * 【2026-06-22】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-06-22】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
 * 【2026-06-15】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
@@ -2834,6 +2851,9 @@
 
 ## C#
 
+* 【2026-06-29】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi-database support
+* 【2026-06-29】[itsfatduck / optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+* 【2026-06-29】[space-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
 * 【2026-06-22】[iOfficeAI / OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 * 【2026-06-22】[shrimqy / Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative
 * 【2026-06-15】[dotnet / android](https://github.com/dotnet/android) - .NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
@@ -3113,6 +3133,10 @@
 
 ## Html
 
+* 【2026-06-29】[alchaincyf / huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
+* 【2026-06-29】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
+* 【2026-06-29】[meleantonio / awesome-econ-ai-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) - AI Skills for Economists
+* 【2026-06-29】[perma-id / w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 * 【2026-06-22】[techjarves / USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.
 * 【2026-06-22】[akiralereal / iptv](https://github.com/akiralereal/iptv) - 基于 Docker 的 IPTV 直播源管理与分发系统：可视化后台、咪咕源抓取（含体育赛事/EPG），支持外部源管理与 m3u txt 订阅；内置纬来体育、Red Bull、4K 卫视及港澳台等，开箱即用。
 * 【2026-06-15】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
@@ -3365,6 +3389,8 @@
 
 ## Css
 
+* 【2026-06-29】[saucelabs / sauce-docs](https://github.com/saucelabs/sauce-docs) - Documentation for the Sauce Labs Platform
+* 【2026-06-29】[recloudstream / csdocs](https://github.com/recloudstream/csdocs) - 
 * 【2026-06-15】[typora / theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
 * 【2026-06-15】[katorlys / rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
 * 【2026-06-01】[SAPTARSHI-coder / EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css) - Animation-first CSS framework with reusable UI components, modern effects, and zero dependencies. Lightweight, beginner-friendly, and open-source.
@@ -3651,6 +3677,9 @@
 
 ## Unknown
 
+* 【2026-06-29】[sanbuphy / learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
+* 【2026-06-29】[ocaml / opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
+* 【2026-06-29】[deepseek-ai / awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 * 【2026-06-22】[alchaincyf / zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 * 【2026-06-22】[martj42 / international_results](https://github.com/martj42/international_results) - 
 * 【2026-06-22】[owainlewis / awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
