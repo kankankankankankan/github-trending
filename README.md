@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2026-07-15】[OpenCut-app / OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+* 【2026-07-15】[Nutlope / hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+* 【2026-07-15】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
+* 【2026-07-15】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project.
+* 【2026-07-15】[Graphify-Labs / graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+* 【2026-07-15】[HenryNdubuaku / maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
 * 【2026-07-08】[MadsLorentzen / ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 * 【2026-07-08】[Zackriya-Solutions / meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
 * 【2026-07-08】[TencentCloud / CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
@@ -918,6 +924,7 @@
 
 ## Java
 
+* 【2026-07-15】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-08】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 * 【2026-07-08】[mateaix / matecloud](https://github.com/mateaix/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 * 【2026-07-01】[bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) - Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.
@@ -1134,6 +1141,11 @@
 
 ## Python
 
+* 【2026-07-15】[cactus-compute / needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
+* 【2026-07-15】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
+* 【2026-07-15】[Vexa-ai / vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
+* 【2026-07-15】[NVlabs / FoundationPose](https://github.com/NVlabs/FoundationPose) - [CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects
+* 【2026-07-15】[google / skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 * 【2026-07-08】[maziyarpanahi / openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0
 * 【2026-07-08】[HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 * 【2026-07-01】[interviewstreet / hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
@@ -1746,6 +1758,8 @@
 
 ## Javascript
 
+* 【2026-07-15】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
+* 【2026-07-15】[MarSeventh / CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 * 【2026-07-08】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 * 【2026-07-08】[jnMetaCode / superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 * 【2026-07-08】[Piebald-AI / claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
@@ -2107,6 +2121,9 @@
 
 ## Go
 
+* 【2026-07-15】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
+* 【2026-07-15】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+* 【2026-07-15】[esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 * 【2026-07-08】[gastownhall / gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-07-08】[openclaw / crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite.
 * 【2026-07-01】[palemoky / chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
@@ -2395,6 +2412,9 @@
 
 ## C
 
+* 【2026-07-15】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
+* 【2026-07-15】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
+* 【2026-07-15】[LibreDWG / libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 * 【2026-07-08】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 * 【2026-07-01】[fanchmwrt / fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open-source enterprise-grade router system based on OpenWrt.
 * 【2026-06-29】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
@@ -2640,6 +2660,8 @@
 
 ## C++
 
+* 【2026-07-15】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
+* 【2026-07-15】[throneproj / Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 * 【2026-07-08】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-07-01】[The-Powder-Toy / The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 * 【2026-06-29】[AztecProtocol / aztec-packages](https://github.com/AztecProtocol/aztec-packages) - 
@@ -2888,6 +2910,9 @@
 
 ## C#
 
+* 【2026-07-15】[Linsxyx / KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
+* 【2026-07-15】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
+* 【2026-07-15】[FakeFishGames / Barotrauma](https://github.com/FakeFishGames/Barotrauma) - A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.
 * 【2026-07-08】[FlorianButz / DynamicWin](https://github.com/FlorianButz/DynamicWin) - A Dynamic Island inspired app for Windows machines.
 * 【2026-07-01】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
 * 【2026-07-01】[Dailin521 / codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state.
@@ -3175,6 +3200,8 @@
 
 ## Html
 
+* 【2026-07-15】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
+* 【2026-07-15】[alchaincyf / darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 * 【2026-07-08】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 * 【2026-07-08】[matlab / simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
 * 【2026-07-08】[fernfei / OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) - ONLYOFFICE Personal 是一款基于wasm运行的Office办公套件，无需服务端直接运行。
@@ -3434,6 +3461,7 @@
 
 ## Css
 
+* 【2026-07-15】[ConardLi / garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 * 【2026-07-08】[XiaomingX / ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * 【2026-07-01】[anushkasark08 / The-Lighthouse](https://github.com/anushkasark08/The-Lighthouse) - 
 * 【2026-06-29】[saucelabs / sauce-docs](https://github.com/saucelabs/sauce-docs) - Documentation for the Sauce Labs Platform
@@ -3724,6 +3752,8 @@
 
 ## Unknown
 
+* 【2026-07-15】[kepano / kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
+* 【2026-07-15】[NopeCHALLC / nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 * 【2026-07-08】[kangarooking / cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 * 【2026-07-08】[travisvn / awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * 【2026-07-01】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
