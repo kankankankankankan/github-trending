@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
+* 【2026-07-29】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
+* 【2026-07-29】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+* 【2026-07-29】[opengeos / GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+* 【2026-07-29】[microsoft / agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 * 【2026-07-22】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 * 【2026-07-22】[tirth8205 / code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 * 【2026-07-22】[ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
@@ -933,6 +938,9 @@
 
 ## Java
 
+* 【2026-07-29】[OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+* 【2026-07-29】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
+* 【2026-07-29】[icysymmetra / tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe) - This repository is a Morphe patch source for TikTok. It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3
 * 【2026-07-15】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-08】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 * 【2026-07-08】[mateaix / matecloud](https://github.com/mateaix/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
@@ -1150,6 +1158,9 @@
 
 ## Python
 
+* 【2026-07-29】[HKUDS / OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
+* 【2026-07-29】[lightseekorg / tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
+* 【2026-07-29】[agentscope-ai / QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 * 【2026-07-22】[NVIDIA / cosmos-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
 * 【2026-07-15】[cactus-compute / needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 * 【2026-07-15】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
@@ -1768,6 +1779,11 @@
 
 ## Javascript
 
+* 【2026-07-29】[citrolabs / ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+* 【2026-07-29】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+* 【2026-07-29】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
+* 【2026-07-29】[renatoasse / opensquad](https://github.com/renatoasse/opensquad) - 
+* 【2026-07-29】[visualbruno / 3DGenStudio](https://github.com/visualbruno/3DGenStudio) - 
 * 【2026-07-22】[xuanyustudio / LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) - 🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线
 * 【2026-07-22】[evidence-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 * 【2026-07-22】[JuliusBrussee / caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -2137,6 +2153,12 @@
 
 ## Go
 
+* 【2026-07-29】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+* 【2026-07-29】[larksuite / cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
+* 【2026-07-29】[black-ant / Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
+* 【2026-07-29】[micro-editor / micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
+* 【2026-07-29】[alibaba / skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
+* 【2026-07-29】[Mininglamp-OSS / octo-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
 * 【2026-07-22】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
 * 【2026-07-22】[agentscope-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 * 【2026-07-22】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
@@ -2432,6 +2454,8 @@
 
 ## C
 
+* 【2026-07-29】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
+* 【2026-07-29】[mercedes-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 * 【2026-07-22】[tr4m0ryp / tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).
 * 【2026-07-22】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 * 【2026-07-15】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
@@ -2682,6 +2706,8 @@
 
 ## C++
 
+* 【2026-07-29】[microsoft / foundry-local](https://github.com/microsoft/foundry-local) - 
+* 【2026-07-29】[vicinaehq / vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 * 【2026-07-22】[handy-computer / transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 * 【2026-07-22】[lightgbm-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * 【2026-07-22】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
@@ -2935,6 +2961,7 @@
 
 ## C#
 
+* 【2026-07-29】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
 * 【2026-07-22】[neelabo / NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.
 * 【2026-07-15】[Linsxyx / KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
 * 【2026-07-15】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
@@ -3226,6 +3253,9 @@
 
 ## Html
 
+* 【2026-07-29】[freenet / web](https://github.com/freenet/web) - 
+* 【2026-07-29】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude.ai usage right from your Mac menu bar
+* 【2026-07-29】[maester365 / maester](https://github.com/maester365/maester) - Maester is a test automation framework to help you stay in control of your Microsoft security configuration.
 * 【2026-07-22】[mohitagw15856 / pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.
 * 【2026-07-22】[averygan / reclip](https://github.com/averygan/reclip) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 * 【2026-07-15】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
@@ -3782,6 +3812,8 @@
 
 ## Unknown
 
+* 【2026-07-29】[emilkowalski / skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
+* 【2026-07-29】[hicccc77 / WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 * 【2026-07-22】[MoonshotAI / Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot's most powerful model
 * 【2026-07-22】[0xNyk / awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 * 【2026-07-22】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
