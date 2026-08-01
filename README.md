@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-08-01】[zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+* 【2026-08-01】[different-ai / openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
+* 【2026-08-01】[agavra / tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
+* 【2026-08-01】[usekaneo / kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 * 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 * 【2026-07-29】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 * 【2026-07-29】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
@@ -1158,6 +1162,9 @@
 
 ## Python
 
+* 【2026-08-01】[trailofbits / skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+* 【2026-08-01】[microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
+* 【2026-08-01】[0x4m4 / hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
 * 【2026-07-29】[HKUDS / OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
 * 【2026-07-29】[lightseekorg / tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
 * 【2026-07-29】[agentscope-ai / QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
@@ -1779,6 +1786,9 @@
 
 ## Javascript
 
+* 【2026-08-01】[woosal1337 / blog](https://github.com/woosal1337/blog) - My blog website.
+* 【2026-08-01】[nyxxbit / discord-quest-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.
+* 【2026-08-01】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 * 【2026-07-29】[citrolabs / ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 * 【2026-07-29】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 * 【2026-07-29】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
@@ -2153,6 +2163,11 @@
 
 ## Go
 
+* 【2026-08-01】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal
+* 【2026-08-01】[adithyan-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.
+* 【2026-08-01】[github / gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
+* 【2026-08-01】[NdoleStudio / httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
+* 【2026-08-01】[nianzhibai / 91](https://github.com/nianzhibai/91) - nine one
 * 【2026-07-29】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * 【2026-07-29】[larksuite / cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 * 【2026-07-29】[black-ant / Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
@@ -2706,6 +2721,7 @@
 
 ## C++
 
+* 【2026-08-01】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.
 * 【2026-07-29】[microsoft / foundry-local](https://github.com/microsoft/foundry-local) - 
 * 【2026-07-29】[vicinaehq / vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 * 【2026-07-22】[handy-computer / transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
@@ -3253,6 +3269,7 @@
 
 ## Html
 
+* 【2026-08-01】[lewislulu / html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 * 【2026-07-29】[freenet / web](https://github.com/freenet/web) - 
 * 【2026-07-29】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude.ai usage right from your Mac menu bar
 * 【2026-07-29】[maester365 / maester](https://github.com/maester365/maester) - Maester is a test automation framework to help you stay in control of your Microsoft security configuration.
@@ -3519,6 +3536,7 @@
 
 ## Css
 
+* 【2026-08-01】[rk192324217 / cubosapiens_world-tools](https://github.com/rk192324217/cubosapiens_world-tools) - 
 * 【2026-07-22】[SillyTavern / SillyTavern-Docs](https://github.com/SillyTavern/SillyTavern-Docs) - Documentation website for SillyTavern.
 * 【2026-07-22】[thedevdojo / wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 * 【2026-07-15】[ConardLi / garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
