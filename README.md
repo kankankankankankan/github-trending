@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-08-15】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+* 【2026-08-15】[macro-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+* 【2026-08-15】[holaboss-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+* 【2026-08-15】[lightningpixel / modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 * 【2026-08-08】[PrimeIntellect-ai / prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 * 【2026-08-08】[cloudflare / computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 * 【2026-08-08】[semantica-agi / semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -949,6 +953,7 @@
 
 ## Java
 
+* 【2026-08-15】[zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 * 【2026-08-08】[Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open-source enterprise IM
 * 【2026-07-29】[OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 * 【2026-07-29】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
@@ -1170,6 +1175,9 @@
 
 ## Python
 
+* 【2026-08-15】[Lightricks / LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+* 【2026-08-15】[newton-physics / newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+* 【2026-08-15】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 * 【2026-08-08】[huangruiteng / loopx](https://github.com/huangruiteng/loopx) - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
 * 【2026-08-08】[NVIDIA-NeMo / Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 * 【2026-08-01】[trailofbits / skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -1796,6 +1804,10 @@
 
 ## Javascript
 
+* 【2026-08-15】[darkzOGx / youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
+* 【2026-08-15】[bmad-code-org / BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+* 【2026-08-15】[laoma2053 / awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
+* 【2026-08-15】[DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 * 【2026-08-08】[microsoft / power-platform-skills](https://github.com/microsoft/power-platform-skills) - A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 * 【2026-08-08】[WorldFlowAI / everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 * 【2026-08-01】[woosal1337 / blog](https://github.com/woosal1337/blog) - My blog website.
@@ -2175,6 +2187,11 @@
 
 ## Go
 
+* 【2026-08-15】[astaxie / TokenHub](https://github.com/astaxie/TokenHub) - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.
+* 【2026-08-15】[oseghalep / cloud-cost-optimization-hub](https://github.com/oseghalep/cloud-cost-optimization-hub) - Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure. Features include multi-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce.
+* 【2026-08-15】[futrx-com / remote.futrx](https://github.com/futrx-com/remote.futrx) - 
+* 【2026-08-15】[leookun / cursor-byok](https://github.com/leookun/cursor-byok) - cursor-byok is a local implementation of Cursor's backend. https://github.com/leookun/cursor-byok/releases
+* 【2026-08-15】[kubernetes-sigs / agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 * 【2026-08-08】[agent-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-08-08】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 * 【2026-08-01】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal
@@ -2483,6 +2500,8 @@
 
 ## C
 
+* 【2026-08-15】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
+* 【2026-08-15】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
 * 【2026-07-29】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
 * 【2026-07-29】[mercedes-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 * 【2026-07-22】[tr4m0ryp / tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).
@@ -2735,6 +2754,10 @@
 
 ## C++
 
+* 【2026-08-15】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology
+* 【2026-08-15】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
+* 【2026-08-15】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
+* 【2026-08-15】[safijari / openpuck](https://github.com/safijari/openpuck) - Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
 * 【2026-08-01】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.
 * 【2026-07-29】[microsoft / foundry-local](https://github.com/microsoft/foundry-local) - 
 * 【2026-07-29】[vicinaehq / vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -2991,6 +3014,9 @@
 
 ## C#
 
+* 【2026-08-15】[Unity-Technologies / skills](https://github.com/Unity-Technologies/skills) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows
+* 【2026-08-15】[madoiscool / LuaTools](https://github.com/madoiscool/LuaTools) - AppID Manager for ST
+* 【2026-08-15】[sbroenne / mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI - 23 tools, 214 operations for AI-powered Excel automation via COM API
 * 【2026-08-08】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
 * 【2026-07-29】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
 * 【2026-07-22】[neelabo / NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.
@@ -3284,6 +3310,7 @@
 
 ## Html
 
+* 【2026-08-15】[huytieu / COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
 * 【2026-08-08】[ahatem / IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 * 【2026-08-08】[Commando-X / vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices.
 * 【2026-08-08】[itshen / learn-ai](https://github.com/itshen/learn-ai) - AI 产品从入门到精通 —— 面向 AI 产品经理的完整培训课程，涵盖大模型底层原理到 AI 工程化落地
@@ -3848,6 +3875,8 @@
 
 ## Unknown
 
+* 【2026-08-15】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search.
+* 【2026-08-15】[abubakarsiddik31 / claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
 * 【2026-08-08】[jinchenma94 / bazi-skill](https://github.com/jinchenma94/bazi-skill) - 四柱八字命理分析
 * 【2026-07-29】[emilkowalski / skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 * 【2026-07-29】[hicccc77 / WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
