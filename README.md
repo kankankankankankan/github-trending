@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2026-08-29】[bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+* 【2026-08-29】[JetBrains / go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
+* 【2026-08-29】[tailscale / tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
+* 【2026-08-29】[swoole / typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
+* 【2026-08-29】[marin-community / marin](https://github.com/marin-community/marin) - Open-source framework for the research and development of foundation models.
+* 【2026-08-29】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 * 【2026-08-22】[mahlernim / google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) - Visualize your year in travel using your Google Location History (Timeline) data
 * 【2026-08-22】[AprilNEA / OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 * 【2026-08-22】[modular / modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
@@ -1181,6 +1187,9 @@
 
 ## Python
 
+* 【2026-08-29】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
+* 【2026-08-29】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+* 【2026-08-29】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations for emerging model architectures
 * 【2026-08-22】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 * 【2026-08-22】[Osmantic / ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 * 【2026-08-22】[forcedotcom / sf-skills](https://github.com/forcedotcom/sf-skills) - Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.
@@ -2199,6 +2208,7 @@
 
 ## Go
 
+* 【2026-08-29】[compozy / compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.
 * 【2026-08-22】[kunchenguid / no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 * 【2026-08-22】[zzet / gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d
 * 【2026-08-22】[ongridio / ongrid](https://github.com/ongridio/ongrid) - An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.
@@ -2515,6 +2525,7 @@
 
 ## C
 
+* 【2026-08-29】[sunblaze-ucb / exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 * 【2026-08-15】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 * 【2026-08-15】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
 * 【2026-07-29】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
@@ -2769,6 +2780,9 @@
 
 ## C++
 
+* 【2026-08-29】[MatixYo / ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
+* 【2026-08-29】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
+* 【2026-08-29】[react / yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 * 【2026-08-22】[OpenHD / OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 * 【2026-08-22】[ROCm / FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-08-22】[charlie12345 / ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
@@ -3032,6 +3046,7 @@
 
 ## C#
 
+* 【2026-08-29】[TeamWheelWizard / WheelWizard](https://github.com/TeamWheelWizard/WheelWizard) - WheelWizard, Retro Rewind Launcher
 * 【2026-08-22】[scp222thj / MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules
 * 【2026-08-22】[snownico0722 / PaperTodo](https://github.com/snownico0722/PaperTodo) - 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.
 * 【2026-08-15】[Unity-Technologies / skills](https://github.com/Unity-Technologies/skills) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows
@@ -3330,6 +3345,8 @@
 
 ## Html
 
+* 【2026-08-29】[Manavarya09 / design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
+* 【2026-08-29】[tianma-if / edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
 * 【2026-08-22】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 * 【2026-08-15】[huytieu / COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
 * 【2026-08-08】[ahatem / IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
@@ -3602,6 +3619,7 @@
 
 ## Css
 
+* 【2026-08-29】[Jenqyang / Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 * 【2026-08-01】[rk192324217 / cubosapiens_world-tools](https://github.com/rk192324217/cubosapiens_world-tools) - 
 * 【2026-07-22】[SillyTavern / SillyTavern-Docs](https://github.com/SillyTavern/SillyTavern-Docs) - Documentation website for SillyTavern.
 * 【2026-07-22】[thedevdojo / wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
@@ -3896,6 +3914,7 @@
 
 ## Unknown
 
+* 【2026-08-29】[nilbuild / design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 * 【2026-08-22】[noamseg / interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
 * 【2026-08-15】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search.
 * 【2026-08-15】[abubakarsiddik31 / claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
