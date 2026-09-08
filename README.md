@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2026-09-08】[heygen-com / hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+* 【2026-09-08】[mksglu / context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+* 【2026-09-08】[MoonTechLab / LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+* 【2026-09-08】[The-Swarm-Corporation / AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+* 【2026-09-08】[BraveOPotato / FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 * 【2026-09-01】[THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 * 【2026-09-01】[kaifcodec / user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.
 * 【2026-09-01】[handsomestWei / patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
@@ -969,6 +974,7 @@
 
 ## Java
 
+* 【2026-09-08】[Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) - 
 * 【2026-09-01】[fish2018 / webhtv](https://github.com/fish2018/webhtv) - WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。
 * 【2026-09-01】[MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 * 【2026-08-22】[aklivity / zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
@@ -1194,6 +1200,9 @@
 
 ## Python
 
+* 【2026-09-08】[bikini / exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
+* 【2026-09-08】[AgriciDaniel / claude-ads](https://github.com/AgriciDaniel/claude-ads) - Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.
+* 【2026-09-08】[k2-fsa / OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 * 【2026-09-01】[securo-finance / securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 * 【2026-09-01】[debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 * 【2026-09-01】[mukul975 / cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
@@ -1833,6 +1842,10 @@
 
 ## Javascript
 
+* 【2026-09-08】[mekos2772 / ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
+* 【2026-09-08】[FB208 / OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
+* 【2026-09-08】[Yu9191 / wloc](https://github.com/Yu9191/wloc) - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+* 【2026-09-08】[amElnagdy / delegate-skills](https://github.com/amElnagdy/delegate-skills) - Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.
 * 【2026-09-01】[DsThakurRawat / Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) - 
 * 【2026-08-22】[chuspeeism / dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
 * 【2026-08-22】[cloudflare / security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
@@ -2541,6 +2554,8 @@
 
 ## C
 
+* 【2026-09-08】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
+* 【2026-09-08】[maxsteeel / nomount](https://github.com/maxsteeel/nomount) - NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
 * 【2026-09-01】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 * 【2026-08-29】[sunblaze-ucb / exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 * 【2026-08-15】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
@@ -3365,6 +3380,7 @@
 
 ## Html
 
+* 【2026-09-08】[techjarves / OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required.
 * 【2026-09-01】[Abdess / retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with emulator source code as the deciding authority.
 * 【2026-08-29】[Manavarya09 / design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
 * 【2026-08-29】[tianma-if / edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
@@ -3937,6 +3953,9 @@
 
 ## Unknown
 
+* 【2026-09-08】[ombharatiya / ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
+* 【2026-09-08】[NarratorAI-Studio / narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
+* 【2026-09-08】[iCHAIT / awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * 【2026-09-01】[MacPaw / cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli) - Clean Xcode, Docker, Homebrew, and developer caches, remove project and AI artifacts, analyze storage, and reclaim disk space from the Terminal.
 * 【2026-08-29】[nilbuild / design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 * 【2026-08-22】[noamseg / interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
