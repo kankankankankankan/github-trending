@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-09-29】[paperclipai / paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+* 【2026-09-29】[NawfalMotii79 / PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+* 【2026-09-29】[cs341-illinois / coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
+* 【2026-09-29】[mvschwarz / openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
 * 【2026-09-22】[BuilderIO / agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps
 * 【2026-09-22】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 * 【2026-09-22】[akitaonrails / ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
@@ -987,6 +991,7 @@
 
 ## Java
 
+* 【2026-09-29】[AndroidCSOfficial / android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) - Android Code Studio is an IDE for Android to develop full featured Android apps.
 * 【2026-09-22】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2026-09-22】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 * 【2026-09-15】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
@@ -1218,6 +1223,11 @@
 
 ## Python
 
+* 【2026-09-29】[ashhart / TensorFold](https://github.com/ashhart/TensorFold) - Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
+* 【2026-09-29】[microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
+* 【2026-09-29】[samugit83 / redamon](https://github.com/samugit83/redamon) - An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.
+* 【2026-09-29】[agent0ai / agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
+* 【2026-09-29】[Rizzo-AI-Academy / rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii) - Local-first privacy guard: anonymize your documents before sharing with LLMs.
 * 【2026-09-22】[cv-cat / DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) - 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听
 * 【2026-09-22】[TNT-Likely / PanWatch](https://github.com/TNT-Likely/PanWatch) - 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送
 * 【2026-09-15】[petergyang / no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
@@ -1863,6 +1873,8 @@
 
 ## Javascript
 
+* 【2026-09-29】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
+* 【2026-09-29】[huilang-me / CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 * 【2026-09-15】[yuliskov / SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 * 【2026-09-15】[Eigenwise / eigenwise-toolshed](https://github.com/Eigenwise/eigenwise-toolshed) - Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed parallel work, extra subscription models, local usage metrics, and guided setup.
 * 【2026-09-15】[plugin87 / ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.
@@ -2256,6 +2268,8 @@
 
 ## Go
 
+* 【2026-09-29】[dagucloud / dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
+* 【2026-09-29】[londek / ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 * 【2026-09-22】[elvisun / newsjack](https://github.com/elvisun/newsjack) - The open-source skills that turn your agent into a full PR team.
 * 【2026-09-22】[AminMGMT / BackPack](https://github.com/AminMGMT/BackPack) - High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups
 * 【2026-09-22】[zhoushoujianwork / easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) - 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.
@@ -2587,6 +2601,9 @@
 
 ## C
 
+* 【2026-09-29】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+* 【2026-09-29】[YuKongA / ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
+* 【2026-09-29】[lyssadev / Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
 * 【2026-09-22】[luka-dev / mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) - Implementation of Route Guidance from CarPlay for MHI2Q
 * 【2026-09-22】[bryanthaboi / gen1recomp](https://github.com/bryanthaboi/gen1recomp) - Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke
 * 【2026-09-08】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
@@ -2847,6 +2864,9 @@
 
 ## C++
 
+* 【2026-09-29】[Themaister / pyrowave](https://github.com/Themaister/pyrowave) - 
+* 【2026-09-29】[ammaarreshi / Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
+* 【2026-09-29】[The412Banner / winlator-contents](https://github.com/The412Banner/winlator-contents) - Component catalog index for BannerHub / Winlator clients. Hosts contents.json (mirror of nightlies_components.json). Component binaries live on The412Banner/Nightlies releases.
 * 【2026-09-22】[mg-chao / snow-apps](https://github.com/mg-chao/snow-apps) - Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
 * 【2026-09-22】[Codensity30 / Strivers-A2Z-DSA-Sheet](https://github.com/Codensity30/Strivers-A2Z-DSA-Sheet) - Contains everything related to Stiver's A2Z sheet along with question, approach and code.
 * 【2026-09-15】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
@@ -3119,6 +3139,8 @@
 
 ## C#
 
+* 【2026-09-29】[Tianyu199509 / DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+* 【2026-09-29】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 * 【2026-09-22】[RankFTW / RHI](https://github.com/RankFTW/RHI) - ReShade HDR Installer
 * 【2026-09-22】[vectorcmdr / NMSE](https://github.com/vectorcmdr/NMSE) - NMSE (NO MAN'S SAVE EDITOR) - Open source save editor for No Man's Sky, boasting the most complete editing features among save editors.
 * 【2026-09-22】[mcneel / RhinoAI](https://github.com/mcneel/RhinoAI) - AI features for Rhino
@@ -3422,6 +3444,8 @@
 
 ## Html
 
+* 【2026-09-29】[promptpirate-x / discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
+* 【2026-09-29】[FinMind / FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 * 【2026-09-22】[MengTo / Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 * 【2026-09-15】[tinkerhub / useless_project_temp](https://github.com/tinkerhub/useless_project_temp) - 
 * 【2026-09-08】[techjarves / OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required.
@@ -3700,6 +3724,7 @@
 
 ## Css
 
+* 【2026-09-29】[woowacourse / java-http](https://github.com/woowacourse/java-http) - 
 * 【2026-09-01】[ZoranPandovski / awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.
 * 【2026-09-01】[denesdata / roem](https://github.com/denesdata/roem) - 🇷🇴💹📉📊 Romanian Economic Monitor
 * 【2026-08-29】[Jenqyang / Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
@@ -3997,6 +4022,7 @@
 
 ## Unknown
 
+* 【2026-09-29】[Elaina69 / Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:
 * 【2026-09-22】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 * 【2026-09-22】[liquidslr / system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 * 【2026-09-15】[LLMQuant / awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
