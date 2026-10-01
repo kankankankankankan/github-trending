@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-10-01】[NVIDIA / OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+* 【2026-10-01】[t8y2 / dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 * 【2026-09-29】[paperclipai / paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 * 【2026-09-29】[NawfalMotii79 / PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 * 【2026-09-29】[cs341-illinois / coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
@@ -991,6 +993,8 @@
 
 ## Java
 
+* 【2026-10-01】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
+* 【2026-10-01】[ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
 * 【2026-09-29】[AndroidCSOfficial / android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) - Android Code Studio is an IDE for Android to develop full featured Android apps.
 * 【2026-09-22】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2026-09-22】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
@@ -1223,6 +1227,13 @@
 
 ## Python
 
+* 【2026-10-01】[VectifyAI / OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
+* 【2026-10-01】[ifixai-ai / iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+* 【2026-10-01】[TencentCloud / Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
+* 【2026-10-01】[Mafifrizi / ARES](https://github.com/Mafifrizi/ARES) - ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.
+* 【2026-10-01】[aws / agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+* 【2026-10-01】[qbittorrent / search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
+* 【2026-10-01】[AgriciDaniel / claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions, including DataForSEO, Firecrawl, Ahrefs and Matomo.
 * 【2026-09-29】[ashhart / TensorFold](https://github.com/ashhart/TensorFold) - Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
 * 【2026-09-29】[microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 * 【2026-09-29】[samugit83 / redamon](https://github.com/samugit83/redamon) - An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.
@@ -1873,6 +1884,12 @@
 
 ## Javascript
 
+* 【2026-10-01】[open-gsd / gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
+* 【2026-10-01】[WesselKroos / youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos
+* 【2026-10-01】[mokshablr / gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
+* 【2026-10-01】[xiufengsun / TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts.
+* 【2026-10-01】[Fei-Away / Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
+* 【2026-10-01】[Javis603 / token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 43+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
 * 【2026-09-29】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
 * 【2026-09-29】[huilang-me / CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 * 【2026-09-15】[yuliskov / SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
@@ -2268,6 +2285,9 @@
 
 ## Go
 
+* 【2026-10-01】[Gaurav-Gosain / tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+* 【2026-10-01】[googleapis / mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+* 【2026-10-01】[ikemen-engine / Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 * 【2026-09-29】[dagucloud / dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
 * 【2026-09-29】[londek / ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 * 【2026-09-22】[elvisun / newsjack](https://github.com/elvisun/newsjack) - The open-source skills that turn your agent into a full PR team.
@@ -2601,6 +2621,10 @@
 
 ## C
 
+* 【2026-10-01】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
+* 【2026-10-01】[itsPLK / ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) - A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
+* 【2026-10-01】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
+* 【2026-10-01】[EchoStretch / kstuff-lite](https://github.com/EchoStretch/kstuff-lite) - 
 * 【2026-09-29】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 * 【2026-09-29】[YuKongA / ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
 * 【2026-09-29】[lyssadev / Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
@@ -3139,6 +3163,7 @@
 
 ## C#
 
+* 【2026-10-01】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 * 【2026-09-29】[Tianyu199509 / DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 * 【2026-09-29】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 * 【2026-09-22】[RankFTW / RHI](https://github.com/RankFTW/RHI) - ReShade HDR Installer
@@ -3444,6 +3469,7 @@
 
 ## Html
 
+* 【2026-10-01】[datawhalechina / Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) - AI Agent 学习路线与资料库收集
 * 【2026-09-29】[promptpirate-x / discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 * 【2026-09-29】[FinMind / FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 * 【2026-09-22】[MengTo / Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
@@ -4022,6 +4048,7 @@
 
 ## Unknown
 
+* 【2026-10-01】[runelite / plugin-hub](https://github.com/runelite/plugin-hub) - External plugins for RuneLite
 * 【2026-09-29】[Elaina69 / Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:
 * 【2026-09-22】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 * 【2026-09-22】[liquidslr / system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
