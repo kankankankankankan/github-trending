@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-10-15】[xtool-org / xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 * 【2026-10-08】[morluto / rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 * 【2026-10-08】[boykopovar / AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 * 【2026-10-08】[manaflow-ai / cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
@@ -998,6 +999,7 @@
 
 ## Java
 
+* 【2026-10-15】[bk138 / droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 * 【2026-10-08】[AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual pane Android file manager with focus on APKs
 * 【2026-10-01】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
 * 【2026-10-01】[ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
@@ -1233,6 +1235,7 @@
 
 ## Python
 
+* 【2026-10-15】[isair / jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
 * 【2026-10-08】[MDX-Tom / gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) - A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
 * 【2026-10-08】[anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 * 【2026-10-08】[superdesigndev / treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
@@ -1894,6 +1897,8 @@
 
 ## Javascript
 
+* 【2026-10-15】[react / react](https://github.com/react/react) - The library for web and native user interfaces.
+* 【2026-10-15】[sandeco / reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents
 * 【2026-10-08】[anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 * 【2026-10-08】[kanoqwq / UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for z*e devices (F50 | U30 Air)
 * 【2026-10-08】[Joooook / 12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
@@ -2300,6 +2305,12 @@
 
 ## Go
 
+* 【2026-10-15】[razorpay / slashdocs](https://github.com/razorpay/slashdocs) - Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions.
+* 【2026-10-15】[google / agentmesh](https://github.com/google/agentmesh) - Agent Mesh
+* 【2026-10-15】[p1neappleXpress / OpenFlux](https://github.com/p1neappleXpress/OpenFlux) - Network stack research tool. TCP tunnel with pluggable transports.
+* 【2026-10-15】[tphakala / birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
+* 【2026-10-15】[Christ9038 / Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) - 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
+* 【2026-10-15】[asciimoo / hister](https://github.com/asciimoo/hister) - Your own search engine
 * 【2026-10-08】[Autumn-27 / ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 * 【2026-10-08】[ys-ll / uniterm](https://github.com/ys-ll/uniterm) - All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.
 * 【2026-10-08】[getprobo / probo](https://github.com/getprobo/probo) - Open source solutions for SOC2, GDPR, and ISO27001
@@ -2641,6 +2652,9 @@
 
 ## C
 
+* 【2026-10-15】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles.
+* 【2026-10-15】[sp00nznet / xboxrecomp](https://github.com/sp00nznet/xboxrecomp) - Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
+* 【2026-10-15】[HarbourMasters / PaperBoat](https://github.com/HarbourMasters/PaperBoat) - Paper Mario 64 port based on the Paper Mario DX decompilation
 * 【2026-10-01】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 * 【2026-10-01】[itsPLK / ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) - A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
 * 【2026-10-01】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
@@ -3185,6 +3199,7 @@
 
 ## C#
 
+* 【2026-10-15】[thanhkeke97 / RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source
 * 【2026-10-08】[ggml-org / Llama-Windows](https://github.com/ggml-org/Llama-Windows) - Windows Llama App Companion
 * 【2026-10-01】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 * 【2026-09-29】[Tianyu199509 / DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
@@ -3492,6 +3507,9 @@
 
 ## Html
 
+* 【2026-10-15】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS.
+* 【2026-10-15】[OCA / reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
+* 【2026-10-15】[yvoronoy / awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 * 【2026-10-08】[FreeCAD / FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 * 【2026-10-08】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 * 【2026-10-01】[datawhalechina / Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) - AI Agent 学习路线与资料库收集
@@ -3775,6 +3793,7 @@
 
 ## Css
 
+* 【2026-10-15】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 * 【2026-09-29】[woowacourse / java-http](https://github.com/woowacourse/java-http) - 
 * 【2026-09-01】[ZoranPandovski / awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.
 * 【2026-09-01】[denesdata / roem](https://github.com/denesdata/roem) - 🇷🇴💹📉📊 Romanian Economic Monitor
