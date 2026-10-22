@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-10-22】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+* 【2026-10-22】[headroomlabs-ai / headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 * 【2026-10-15】[xtool-org / xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 * 【2026-10-08】[morluto / rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 * 【2026-10-08】[boykopovar / AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
@@ -999,6 +1001,7 @@
 
 ## Java
 
+* 【2026-10-22】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 * 【2026-10-15】[bk138 / droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 * 【2026-10-08】[AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual pane Android file manager with focus on APKs
 * 【2026-10-01】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
@@ -1235,6 +1238,7 @@
 
 ## Python
 
+* 【2026-10-22】[Emily2040 / seedance-2.0](https://github.com/Emily2040/seedance-2.0) - Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 * 【2026-10-15】[isair / jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
 * 【2026-10-08】[MDX-Tom / gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) - A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
 * 【2026-10-08】[anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -1897,6 +1901,10 @@
 
 ## Javascript
 
+* 【2026-10-22】[withmarbleapp / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) - 
+* 【2026-10-22】[NomaDamas / CozyClay](https://github.com/NomaDamas/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
+* 【2026-10-22】[xmanrui / dsh-im](https://github.com/xmanrui/dsh-im) - 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
+* 【2026-10-22】[shaobeichen / dsh-pocket](https://github.com/shaobeichen/dsh-pocket) - 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)
 * 【2026-10-15】[react / react](https://github.com/react/react) - The library for web and native user interfaces.
 * 【2026-10-15】[sandeco / reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents
 * 【2026-10-08】[anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
@@ -2305,6 +2313,7 @@
 
 ## Go
 
+* 【2026-10-22】[Asymptote-Labs / agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu
 * 【2026-10-15】[razorpay / slashdocs](https://github.com/razorpay/slashdocs) - Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions.
 * 【2026-10-15】[google / agentmesh](https://github.com/google/agentmesh) - Agent Mesh
 * 【2026-10-15】[p1neappleXpress / OpenFlux](https://github.com/p1neappleXpress/OpenFlux) - Network stack research tool. TCP tunnel with pluggable transports.
@@ -2922,6 +2931,7 @@
 
 ## C++
 
+* 【2026-10-22】[iliasHDZ / Bismuth](https://github.com/iliasHDZ/Bismuth) - Optimization mod for Geometry Dash
 * 【2026-10-08】[M-Abozaid / esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) - Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share
 * 【2026-10-08】[Confetti3 / SF4-Ember-Netplay](https://github.com/Confetti3/SF4-Ember-Netplay) - Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial experimental port of Anthony Danducci's sf4e.
 * 【2026-09-29】[Themaister / pyrowave](https://github.com/Themaister/pyrowave) - 
@@ -3199,6 +3209,7 @@
 
 ## C#
 
+* 【2026-10-22】[empira / PDFsharp](https://github.com/empira/PDFsharp) - PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework
 * 【2026-10-15】[thanhkeke97 / RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source
 * 【2026-10-08】[ggml-org / Llama-Windows](https://github.com/ggml-org/Llama-Windows) - Windows Llama App Companion
 * 【2026-10-01】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
@@ -3507,6 +3518,7 @@
 
 ## Html
 
+* 【2026-10-22】[rajhodedara / live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
 * 【2026-10-15】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS.
 * 【2026-10-15】[OCA / reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
 * 【2026-10-15】[yvoronoy / awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
@@ -3793,6 +3805,9 @@
 
 ## Css
 
+* 【2026-10-22】[Napster2210 / ngx-spinner](https://github.com/Napster2210/ngx-spinner) - Highly customizable Angular loading spinner library with 50+ animations, multiple named spinners, an optional HTTP interceptor for automatic show/hide, MatDialog-safe fullscreen overlays via the Popover API, and one-command ng add setup. Supports Angular 4–22, standalone & NgModule apps.
+* 【2026-10-22】[noctalia-dev / community-templates](https://github.com/noctalia-dev/community-templates) - Community templates
+* 【2026-10-22】[plausible / docs](https://github.com/plausible/docs) - Documentation for Plausible Analytics
 * 【2026-10-15】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 * 【2026-09-29】[woowacourse / java-http](https://github.com/woowacourse/java-http) - 
 * 【2026-09-01】[ZoranPandovski / awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.
@@ -4092,6 +4107,8 @@
 
 ## Unknown
 
+* 【2026-10-22】[digitalinnovationone / dio-agent](https://github.com/digitalinnovationone/dio-agent) - Agente de IA criado pela DIO para apoiar seus estudos.
+* 【2026-10-22】[togg53192-cmd / jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 * 【2026-10-01】[runelite / plugin-hub](https://github.com/runelite/plugin-hub) - External plugins for RuneLite
 * 【2026-09-29】[Elaina69 / Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:
 * 【2026-09-22】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
